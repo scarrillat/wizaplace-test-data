@@ -1,10 +1,10 @@
 ﻿"Product code";Language;Category;Price;Weight;Quantity;Downloadable;"Product name";Description;Taxes;Features;"Short description";Status
-5e4a9f452c488;fr;"Category 3";150000.00;0.00;100;N;"Camion Vente";;"TVA 20%";"Accessoires: N";;A
-5e4a9f452d731;fr;"Category 3";150.00;0.00;100;N;"Camion Location";;"TVA 20%";"Accessoires: N";;A
-5e4a9f460562f;fr;"Category 3";30000.00;0.00;100;N;"Renault Captur vente";;"TVA 20%";"Accessoires: N";;A
-5e4a9f5e1b74e;fr;"Category 2";14.00;0.00;100;N;Poutine;;"TVA 20%";"Accessoires: N";;A
-5e4a9f5e8f86c;fr;"Category 2";19.00;0.00;100;N;Frites;;"TVA 20%";"Accessoires: N";;A
-5e4a9f5e92dad;fr;"Category 2";5.00;0.00;100;N;Bière;;"TVA 20%";"Accessoires: N";;A
-5e4a9fc6ac47b;fr;"Category 1";3577.00;0.00;1000000;N;Cactus;;"TVA 20%";"Accessoires: N";;A
-5e4a9fc7559c9;fr;"Category 1";5692.00;0.00;1000000;N;"Plante grasse";;"TVA 20%";"Accessoires: N";;A
-5e4a9fc7634fc;fr;"Category 1";4569.00;0.00;1000000;N;Arrosoir;;"TVA 20%";"Accessoires: N";;A
+5e4a9f452c488;fr;"Category 3";3000.00;0.00;100;N;"Produit 3.3";;"TVA 20%";"Accessoires: N";;A
+5e4a9f452d731;fr;"Category 3";300.00;0.00;100;N;"Produit 3.2";;"TVA 20%";"Accessoires: N";;A
+5e4a9f460562f;fr;"Category 3";30.00;0.00;100;N;"Produit 3.1";;"TVA 20%";"Accessoires: N";;A
+5e4a9f5e1b74e;fr;"Category 2";2000.00;0.00;100;N;"Produit 2.3";;"TVA 20%";"Accessoires: N";;A
+5e4a9f5e8f86c;fr;"Category 2";200.00;0.00;100;N;"Produit 2.2";;"TVA 20%";"Accessoires: N";;A
+5e4a9f5e92dad;fr;"Category 2";20.00;0.00;100;N;"Produit 2.1";;"TVA 20%";"Accessoires: N";;A
+5e4a9fc6ac47b;fr;"Category 1";1000.00;0.00;1000000;N;"Produit 1.1";;"TVA 20%";"Accessoires: N";;A
+5e4a9fc7559c9;fr;"Category 1";100.00;0.00;1000000;N;"Produit 1.2";;"TVA 20%";"Accessoires: N";;A
+5e4a9fc7634fc;fr;"Category 1";10.00;0.00;1000000;N;"Produit 1.3";;"TVA 20%";"Accessoires: N";;A
