@@ -1,13 +1,4 @@
 ﻿"Product code";Language;Category;Price;Weight;Quantity;Downloadable;"Product name";Description;Taxes;Features;"Short description";Status
-5e4a9f452c489;fr;"Category 4";400.00;0.00;100;N;"Produit 4.3";;"TVA 20%";"Accessoires: N";;A
-5e4a9f452d732;fr;"Category 4";40.00;0.00;100;N;"Produit 4.2";;"TVA 20%";"Accessoires: N";;A
-5e4a9f460562e;fr;"Category 4";4.00;0.00;100;N;"Produit 4.1";;"TVA 20%";"Accessoires: N";;A
-5e4a9f452c488;fr;"Category 3";300.00;0.00;100;N;"Produit 3.3";;"TVA 20%";"Accessoires: N";;A
-5e4a9f452d731;fr;"Category 3";30.00;0.00;100;N;"Produit 3.2";;"TVA 20%";"Accessoires: N";;A
-5e4a9f460562f;fr;"Category 3";3.00;0.00;100;N;"Produit 3.1";;"TVA 20%";"Accessoires: N";;A
-5e4a9f5e1b74e;fr;"Category 2";200.00;0.00;100;N;"Produit 2.3";;"TVA 20%";"Accessoires: N";;A
-5e4a9f5e8f86c;fr;"Category 2";20.00;0.00;100;N;"Produit 2.2";;"TVA 20%";"Accessoires: N";;A
-5e4a9f5e92dad;fr;"Category 2";2.00;0.00;100;N;"Produit 2.1";;"TVA 20%";"Accessoires: N";;A
 5e4a9fc6ac47b;fr;"Category 1";100.00;0.00;1000000;N;"Produit 1.1";;"TVA 20%";"Accessoires: N";;A
 5e4a9fc7559c9;fr;"Category 1";10.00;0.00;1000000;N;"Produit 1.2";;"TVA 20%";"Accessoires: N";;A
 5e4a9fc7634fc;fr;"Category 1";1.00;0.00;1000000;N;"Produit 1.3";;"TVA 20%";"Accessoires: N";;A
