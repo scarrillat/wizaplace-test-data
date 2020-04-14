@@ -1,5 +1,4 @@
-
-﻿"Product code";Language;Category;Price;Weight;Quantity;Downloadable;"Product name";Description;Taxes;Features;"Short description";Status
+"Product code";Language;Category;Price;Weight;Quantity;Downloadable;"Product name";Description;Taxes;Features;"Short description";Status
 5e4a9f452c489;fr;"Category 4";400.00;0.00;100;N;"Produit A";;"TVA 20%";"Accessoires: N";;A
 5e4a9f452d732;fr;"Category 4";40.00;0.00;100;N;"Produit B";;"TVA 20%";"Accessoires: N";;A
 5e4a9f460562e;fr;"Category 4";4.00;0.00;100;N;"Produit C";;"TVA 20%";"Accessoires: N";;A
