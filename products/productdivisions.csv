@@ -1,0 +1,20 @@
+Product code;Product name;Quantity;Price;Divisions included;Divisions excluded;Language;Category;Taxes;Status;Image URL
+5327039243;FR sauf FR-IDF;100000;221;FR;FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/504x522.png/dddddd/000000
+167924486;FR|IT sauf FR-ARA|FR-IDF;100000;175;FR|IT;FR-ARA|FR-IDF;fr;Category 0;TVA 20%;A;http://dummyimage.com/689x461.bmp/dddddd/000000
+9260970470;FR sauf IT|BE|INVALID;100000;204;FR;IT|BE|INVALID;fr;Category 6;TVA 20%;A;http://dummyimage.com/730x407.jpg/ff4444/ffffff
+669629244;ALL sauf ES;100000;155;ALL;ES;fr;Category 2;TVA 20%;A;http://dummyimage.com/781x455.bmp/dddddd/000000
+5193060206;FR sauf FR-75 FR-92;100000;195;FR;FR-75 FR-92;fr;Category 3;TVA 20%;A;http://dummyimage.com/493x727.png/ff4444/ffffff
+5713582293;ALL sauf FR-ARA;100000;55;ALL;FR-ARA;fr;Category 3;TVA 20%;A;http://dummyimage.com/711x417.bmp/dddddd/000000
+6506115365;FR sauf FR;100000;295;FR;FR;fr;Category 0;TVA 20%;A;http://dummyimage.com/689x587.png/ff4444/ffffff
+2777737417;BE sauf FR-ARA;100000;219;BE;FR-ARA;fr;Category 1;TVA 20%;A;http://dummyimage.com/661x426.png/dddddd/000000
+9611737910;ALL sauf ;100000;337;ALL;;fr;Category 7;TVA 20%;A;http://dummyimage.com/410x655.png/5fa2dd/ffffff
+2655039168;ALL sauf FR-ARA|INVALID;100000;161;ALL;FR-ARA|INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/496x525.bmp/dddddd/000000
+2525606023;INVALID sauf FR-IDF;100000;319;INVALID;FR-IDF;fr;Category 2;TVA 20%;A;http://dummyimage.com/600x734.bmp/cc0000/ffffff
+821817886;FR|BE| IT sauf ;100000;255;FR|BE| IT;;fr;Category 2;TVA 20%;A;http://dummyimage.com/735x791.jpg/ff4444/ffffff
+7431711650;FR-ARA|FR-IDF sauf FR-69;100000;334;FR-ARA|FR-IDF;FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/401x781.bmp/dddddd/000000
+7923552539; sauf ;100000;4;;;fr;Category 0;TVA 20%;A;http://dummyimage.com/632x772.png/dddddd/000000
+4281655878;FR-IDF sauf FR;100000;194;FR-IDF;FR;fr;Category 7;TVA 20%;A;http://dummyimage.com/506x400.bmp/dddddd/000000
+8699566895;INVALID sauf ;100000;372;INVALID;;fr;Category 4;TVA 20%;A;http://dummyimage.com/682x621.png/cc0000/ffffff
+8630173636;FR sauf ALL;100000;109;FR;ALL;fr;Category 2;TVA 20%;A;http://dummyimage.com/721x628.png/cc0000/ffffff
+3162590656;ALL sauf BE|IT;100000;113;ALL;BE|IT;fr;Category 2;TVA 20%;A;http://dummyimage.com/608x464.jpg/dddddd/000000
+9592104918; sauf ALL;100000;374;;ALL;fr;Category 9;TVA 20%;A;http://dummyimage.com/796x523.jpg/cc0000/ffffff
