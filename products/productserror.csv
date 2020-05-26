@@ -1,32 +1,4 @@
-Product code;Product name;Quantity;Price;Divisions included;Language;Category;Taxes;Status
-8165707167;Port - 74 Brights;100000;322;RU;fr;Category 1;TVA 20%;A
-2166944825;Lotus Leaves;100000;348;GH;fr;Category 8;TVA 20%;A
-1586206532;Lamb - Shoulder, Boneless;100000;356;GR;fr;Category 1;TVA 20%;A
-7967334604;Pork - Ham, Virginia;100000;435;CN;fr;Category 7;TVA 20%;A
-5477353457;Juice - Pineapple, 48 Oz;100000;339;ID;fr;Category 5;TVA 20%;A
-7805633908;Compound - Rum;100000;215;CN;fr;Category 9;TVA 20%;A
-7674550591;Snails - Large Canned;100000;394;DO;fr;Category 4;TVA 20%;A
-5702873580;Cake - Miini Cheesecake Cherry;100000;420;MX;fr;Category 2;TVA 20%;A
-0842861033;Beans - Kidney, Red Dry;100000;355;CN;fr;Category 2;TVA 20%;A
-6416975963;Lamb - Rack;100000;39;PS;fr;Category 3;TVA 20%;A
-3502055092;Water Chestnut - Canned;100000;220;PH;fr;Category 7;TVA 20%;A
-9739308430;Beer - Tetleys;100000;414;CZ;fr;Category 4;TVA 20%;A
-0923023828;Tomatoes - Yellow Hot House;100000;265;US;fr;Category 0;TVA 20%;A
-0364525657;Fennel - Seeds;100000;16;VE;fr;Category 8;TVA 20%;A
-5866235692;Spice - Chili Powder Mexican;100000;404;MX;fr;Category 5;TVA 20%;A
-6451666645;Rice Wine - Aji Mirin;100000;465;CN;fr;Category 8;TVA 20%;A
-9563493982;Celery;100000;241;ID;fr;Category 5;TVA 20%;A
-8551591134;Samosa - Veg;100000;488;CN;fr;Category 3;TVA 20%;A
-4321036739;Mustard - Dry, Powder;100000;445;IR;fr;Category 8;TVA 20%;A
-1962375323;Radish - Pickled;100000;481;NO;fr;Category 1;TVA 20%;A
-1207364045;Beans - Butter Lrg Lima;100000;171;CN;fr;Category 2;TVA 20%;A
-5313581678;Wine - Fume Blanc Fetzer;100000;30;ID;fr;Category 1;TVA 20%;A
-7000960507;Longos - Cheese Tortellini;100000;43;RU;fr;Category 3;TVA 20%;A
-7897345572;Chocolate - Milk;100000;264;RU;fr;Category 6;TVA 20%;A
-5799344057;Trout - Rainbow, Frozen;100000;245;YE;fr;Category 4;TVA 20%;A
-1022966235;Appetiser - Bought;100000;480;CO;fr;Category 2;TVA 20%;A
-5548637363;Capers - Pickled;100000;284;YE;fr;Category 0;TVA 20%;A
-6050287589;Juice - Orangina;100000;489;CZ;fr;Category 7;TVA 20%;A
+Product 
 1834989922;Bread Base - Italian;100000;493;CN;fr;Category 4;TVA 20%;A
 0465795447;Wine La Vielle Ferme Cote Du;100000;180;CN;fr;Category 4;TVA 20%;A
 3773312652;Bay Leaf Ground;100000;194;CN;fr;Category 5;TVA 20%;A
