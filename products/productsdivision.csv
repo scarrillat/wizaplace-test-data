@@ -1,0 +1,1001 @@
+Product code;Product name;Quantity;Price;Divisions included;Divisions excluded;Language;Category;Taxes;Status;Image URL
+8659653056;Wine - Masi Valpolocell;100000;16;ALL;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/655x555.bmp/dddddd/000000
+5673476133;Myers Planters Punch;100000;42;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 6;TVA 20%;A;http://dummyimage.com/575x598.bmp/5fa2dd/ffffff
+4268784318;Bread Bowl Plain;100000;261;FR;INVALID;fr;Category 7;TVA 20%;A;http://dummyimage.com/682x401.jpg/5fa2dd/ffffff
+3294413287;Tuna - Bluefin;100000;51;FR-ARA;UK;fr;Category 5;TVA 20%;A;http://dummyimage.com/537x539.png/5fa2dd/ffffff
+2789366595;Soup - Knorr, Country Bean;100000;129;FR|IT;IT|BE;fr;Category 7;TVA 20%;A;http://dummyimage.com/584x457.png/ff4444/ffffff
+8626927997;Champagne - Brights, Dry;100000;182;FR-ARA;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/495x647.jpg/ff4444/ffffff
+5592386062;Beets - Pickled;100000;74;FR|BE|IT;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/407x490.jpg/cc0000/ffffff
+3848669633;Dawn Professionl Pot And Pan;100000;340;FR-IDF;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/519x797.bmp/5fa2dd/ffffff
+5909921289;Lettuce Romaine Chopped;100000;232;FR;FR-ARA|FR-IDF;fr;Category 0;TVA 20%;A;http://dummyimage.com/506x752.bmp/dddddd/000000
+5208767697;Capon - Breast, Double, Wing On;100000;12;FR-IDF;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/466x630.bmp/dddddd/000000
+2738992838;Sauce - White, Mix;100000;298;INVALID;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/765x493.jpg/dddddd/000000
+927017772;Pastry - Apple Large;100000;267;FR|IT;INVALID;fr;Category 0;TVA 20%;A;http://dummyimage.com/762x645.png/ff4444/ffffff
+9238482658;Carrots - Mini Red Organic;100000;270;FR;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/764x558.jpg/ff4444/ffffff
+100237475;Chives - Fresh;100000;244;FR|BE|IT;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/443x524.jpg/5fa2dd/ffffff
+7810181273;Coconut Milk - Unsweetened;100000;88;FR|IT;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/402x539.png/dddddd/000000
+8710904393;Pork - Bones;100000;201;FR|BE|IT;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/787x639.png/5fa2dd/ffffff
+3617439131;Wine - Rioja Campo Viejo;100000;262;FR-IDF;FR-75;fr;Category 0;TVA 20%;A;http://dummyimage.com/683x485.png/ff4444/ffffff
+8311480365;Tea - Orange Pekoe;100000;66;FR-IDF;FR-ARA|FR-IDF;fr;Category 6;TVA 20%;A;http://dummyimage.com/423x660.bmp/ff4444/ffffff
+2110386123;Pastry - Cherry Danish - Mini;100000;257;FR-IDF;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/623x687.jpg/5fa2dd/ffffff
+6523631722;Asparagus - Green, Fresh;100000;125;ALL;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/632x642.png/5fa2dd/ffffff
+4242190547;Mushroom Morel Fresh;100000;40;FR|BE|IT;FR-75;fr;Category 4;TVA 20%;A;http://dummyimage.com/532x427.bmp/cc0000/ffffff
+3253149407;Rum - Coconut, Malibu;100000;228;FR-ARA;UK;fr;Category 3;TVA 20%;A;http://dummyimage.com/580x642.jpg/5fa2dd/ffffff
+2506846142;Apples - Spartan;100000;89;FR-IDF;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/724x667.png/5fa2dd/ffffff
+9066511997;Flour Pastry Super Fine;100000;172;FR|IT;IT|BE;fr;Category 7;TVA 20%;A;http://dummyimage.com/668x703.png/ff4444/ffffff
+7747204694;Capon - Breast, Wing On;100000;350;FR-IDF;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/487x748.jpg/dddddd/000000
+9195024133;Pasta - Lasagna Noodle, Frozen;100000;8;FR|IT;FR-ARA|FR-IDF;fr;Category 7;TVA 20%;A;http://dummyimage.com/768x734.jpg/dddddd/000000
+7695027336;Energy Drink Red Bull;100000;378;FR-ARA;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/482x529.jpg/dddddd/000000
+2970785778;Wine - Magnotta - Belpaese;100000;7;FR|IT;UK;fr;Category 3;TVA 20%;A;http://dummyimage.com/680x469.png/dddddd/000000
+9112897828;Sugar - Cubes;100000;54;ALL;FR-ARA|FR-IDF;fr;Category 6;TVA 20%;A;http://dummyimage.com/435x754.bmp/ff4444/ffffff
+6398659722;Daikon Radish;100000;48;FR;INVALID;fr;Category 2;TVA 20%;A;http://dummyimage.com/478x785.bmp/ff4444/ffffff
+8244733623;Pasta - Lasagna Noodle, Frozen;100000;69;FR-ARA;FR-ARA|FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/596x593.png/ff4444/ffffff
+2463417248;Appetizer - Asian Shrimp Roll;100000;306;FR;FR-ARA|FR-IDF;fr;Category 6;TVA 20%;A;http://dummyimage.com/710x764.png/ff4444/ffffff
+5883461567;Syrup - Pancake;100000;190;FR;IT|BE;fr;Category 8;TVA 20%;A;http://dummyimage.com/616x733.png/dddddd/000000
+262469200;Wine - Coteaux Du Tricastin Ac;100000;222;FR-ARA;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/444x509.bmp/dddddd/000000
+688564604;Jolt Cola;100000;14;ALL;UK;fr;Category 5;TVA 20%;A;http://dummyimage.com/505x610.bmp/dddddd/000000
+1783531656;Water - Evian 355 Ml;100000;245;FR-ARA;FR-ARA|FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/546x497.png/dddddd/000000
+4658992179;Sugar - Palm;100000;292;FR|BE|IT;IT|BE;fr;Category 8;TVA 20%;A;http://dummyimage.com/591x637.png/dddddd/000000
+1424752367;Bagel - 12 Grain Preslice;100000;115;FR|IT;FR-01|FR-69;fr;Category 9;TVA 20%;A;http://dummyimage.com/747x776.bmp/dddddd/000000
+9603733608;Soup - Knorr, French Onion;100000;115;FR-ARA;INVALID;fr;Category 4;TVA 20%;A;http://dummyimage.com/745x668.jpg/dddddd/000000
+6492562259;Pepsi - Diet, 355 Ml;100000;347;FR-IDF;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/489x419.png/5fa2dd/ffffff
+5235762716;Beef - Bones, Cut - Up;100000;107;FR-ARA;FR-01|FR-69;fr;Category 8;TVA 20%;A;http://dummyimage.com/654x491.jpg/cc0000/ffffff
+384840717;Milk - 1%;100000;263;FR|BE|IT;IT|BE;fr;Category 4;TVA 20%;A;http://dummyimage.com/576x401.jpg/dddddd/000000
+2215577091;Muffin Mix - Morning Glory;100000;240;FR-IDF;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/650x446.jpg/5fa2dd/ffffff
+6245473604;Kippers - Smoked;100000;71;FR|IT;UK;fr;Category 6;TVA 20%;A;http://dummyimage.com/666x413.bmp/dddddd/000000
+8699989423;Turkey - Breast, Bone - In;100000;131;INVALID;FR-ARA|FR-IDF;fr;Category 9;TVA 20%;A;http://dummyimage.com/421x643.bmp/5fa2dd/ffffff
+3327775461;Pork - Loin, Boneless;100000;162;FR|BE|IT;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/423x645.bmp/dddddd/000000
+1212727685;Olives - Kalamata;100000;120;FR|IT;FR-75;fr;Category 9;TVA 20%;A;http://dummyimage.com/500x453.png/ff4444/ffffff
+6262024222;Gatorade - Cool Blue Raspberry;100000;142;FR-IDF;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/785x464.bmp/cc0000/ffffff
+3667620430;Wine - Pinot Noir Stoneleigh;100000;57;INVALID;FR-01|FR-69;fr;Category 9;TVA 20%;A;http://dummyimage.com/496x519.jpg/ff4444/ffffff
+3262871843;Kellogs Cereal In A Cup;100000;305;INVALID;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/572x431.png/cc0000/ffffff
+9065820856;Tea - Lemon Scented;100000;334;FR|IT;INVALID;fr;Category 8;TVA 20%;A;http://dummyimage.com/444x781.bmp/dddddd/000000
+429185989;Melon - Watermelon, Seedless;100000;204;FR;INVALID;fr;Category 2;TVA 20%;A;http://dummyimage.com/692x485.jpg/cc0000/ffffff
+9912704496;Icecream - Dstk Cml And Fdg;100000;92;INVALID;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/543x613.png/ff4444/ffffff
+1080296302;Mint - Fresh;100000;122;FR-ARA;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/791x625.jpg/ff4444/ffffff
+1437306293;Myers Planters Punch;100000;57;INVALID;IT|BE;fr;Category 5;TVA 20%;A;http://dummyimage.com/437x676.jpg/5fa2dd/ffffff
+8022848500;Nori Sea Weed;100000;355;FR|BE|IT;IT|BE;fr;Category 9;TVA 20%;A;http://dummyimage.com/753x619.bmp/cc0000/ffffff
+2895224192;Doilies - 7, Paper;100000;185;FR-ARA;FR-75;fr;Category 0;TVA 20%;A;http://dummyimage.com/448x726.png/cc0000/ffffff
+207063254;Amaretto;100000;16;ALL;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/409x440.png/cc0000/ffffff
+1230815636;Cheese - St. Paulin;100000;183;FR-ARA;FR-ARA|FR-IDF;fr;Category 1;TVA 20%;A;http://dummyimage.com/763x599.jpg/dddddd/000000
+6116186297;Ketchup - Tomato;100000;148;FR-ARA;FR-01|FR-69;fr;Category 7;TVA 20%;A;http://dummyimage.com/557x556.bmp/5fa2dd/ffffff
+1788398317;Fork - Plastic;100000;302;FR;INVALID;fr;Category 2;TVA 20%;A;http://dummyimage.com/748x545.jpg/cc0000/ffffff
+6968696085;Cocoa Butter;100000;52;FR-IDF;FR-ARA|FR-IDF;fr;Category 1;TVA 20%;A;http://dummyimage.com/449x523.jpg/5fa2dd/ffffff
+9585529005;Pork - Ham, Virginia;100000;395;FR|BE|IT;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/572x655.jpg/ff4444/ffffff
+2740476721;Ice - Clear, 300 Lb For Carving;100000;36;FR;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/673x695.bmp/5fa2dd/ffffff
+974945096;Beans - Navy, Dry;100000;268;FR|BE|IT;IT|BE;fr;Category 5;TVA 20%;A;http://dummyimage.com/752x429.jpg/5fa2dd/ffffff
+3833323661;General Purpose Trigger;100000;292;ALL;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/689x496.png/dddddd/000000
+8282076153;Wine - Guy Sage Touraine;100000;232;FR;FR-75;fr;Category 1;TVA 20%;A;http://dummyimage.com/658x597.bmp/cc0000/ffffff
+4716552527;Veal - Bones;100000;74;FR|BE|IT;FR-75;fr;Category 6;TVA 20%;A;http://dummyimage.com/552x676.bmp/ff4444/ffffff
+4616285108;Vodka - Moskovskaya;100000;125;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/575x480.jpg/cc0000/ffffff
+2114413184;Sloe Gin - Mcguinness;100000;27;FR|IT;IT|BE;fr;Category 7;TVA 20%;A;http://dummyimage.com/727x418.png/ff4444/ffffff
+9896457654;Muffin Mix - Blueberry;100000;62;FR-IDF;INVALID;fr;Category 4;TVA 20%;A;http://dummyimage.com/544x759.jpg/ff4444/ffffff
+2184817003;Wine - Tio Pepe Sherry Fino;100000;11;FR|BE|IT;FR-01|FR-69;fr;Category 4;TVA 20%;A;http://dummyimage.com/512x529.bmp/cc0000/ffffff
+8549304392;Yeast Dry - Fermipan;100000;133;ALL;UK;fr;Category 7;TVA 20%;A;http://dummyimage.com/717x598.png/dddddd/000000
+4213343775;Paste - Black Olive;100000;45;FR-IDF;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/593x621.bmp/cc0000/ffffff
+1258485405;Cookies - Englishbay Oatmeal;100000;73;ALL;IT|BE;fr;Category 4;TVA 20%;A;http://dummyimage.com/712x694.jpg/5fa2dd/ffffff
+7561891664;Lettuce - Frisee;100000;9;FR-IDF;IT|BE;fr;Category 5;TVA 20%;A;http://dummyimage.com/770x636.bmp/ff4444/ffffff
+5836356000;Ice Cream - Life Savers;100000;38;FR-IDF;FR-ARA|FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/694x653.bmp/dddddd/000000
+6061429395;Chickensplit Half;100000;7;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/754x660.png/ff4444/ffffff
+4048692765;Cheese - Goat;100000;169;FR-ARA;FR-01|FR-69;fr;Category 4;TVA 20%;A;http://dummyimage.com/531x777.bmp/dddddd/000000
+2781864132;Wine - Red, Wolf Blass, Yellow;100000;222;FR;FR-ARA|FR-IDF;fr;Category 0;TVA 20%;A;http://dummyimage.com/400x794.bmp/cc0000/ffffff
+9560653289;Taro Root;100000;121;FR-ARA;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/781x480.png/dddddd/000000
+1211867107;Sobe - Liz Blizz;100000;142;INVALID;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/416x494.png/5fa2dd/ffffff
+9590810987;Lettuce - Mini Greens, Whole;100000;29;FR;FR-ARA|FR-IDF;fr;Category 1;TVA 20%;A;http://dummyimage.com/518x774.bmp/5fa2dd/ffffff
+8237044743;Soup - Tomato Mush. Florentine;100000;65;FR|IT;FR-ARA|FR-IDF;fr;Category 8;TVA 20%;A;http://dummyimage.com/668x744.bmp/cc0000/ffffff
+7351217067;General Purpose Trigger;100000;240;INVALID;FR-75;fr;Category 7;TVA 20%;A;http://dummyimage.com/664x694.bmp/ff4444/ffffff
+7135318833;Ecolab - Hobart Washarm End Cap;100000;186;FR|IT;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/550x512.png/5fa2dd/ffffff
+5407260844;Nut - Peanut, Roasted;100000;216;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 0;TVA 20%;A;http://dummyimage.com/563x625.jpg/cc0000/ffffff
+9016491244;Cod - Black Whole Fillet;100000;387;INVALID;IT|BE;fr;Category 2;TVA 20%;A;http://dummyimage.com/420x742.bmp/5fa2dd/ffffff
+2185997059;Juice - Pineapple, 341 Ml;100000;42;FR-ARA;FR-ARA|FR-IDF;fr;Category 6;TVA 20%;A;http://dummyimage.com/669x549.jpg/ff4444/ffffff
+5891487995;Beer - Mill St Organic;100000;163;ALL;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/762x724.jpg/ff4444/ffffff
+4720659107;Radish;100000;200;FR|IT;UK;fr;Category 5;TVA 20%;A;http://dummyimage.com/587x647.bmp/5fa2dd/ffffff
+6009559767;Soup - Chicken And Wild Rice;100000;78;FR-ARA;FR-75;fr;Category 4;TVA 20%;A;http://dummyimage.com/699x757.jpg/ff4444/ffffff
+2279506502;Wine - Sogrape Mateus Rose;100000;100;FR;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/489x429.bmp/cc0000/ffffff
+3456779679;Spice - Onion Powder Granulated;100000;135;FR-ARA;FR-ARA|FR-IDF;fr;Category 7;TVA 20%;A;http://dummyimage.com/513x550.bmp/cc0000/ffffff
+2511569274;White Fish - Filets;100000;383;FR-ARA;FR-75;fr;Category 5;TVA 20%;A;http://dummyimage.com/747x716.jpg/dddddd/000000
+2223143666;Cookies - Englishbay Chochip;100000;273;FR|BE|IT;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/796x551.bmp/ff4444/ffffff
+4492855219;Bag - Clear 7 Lb;100000;311;FR|BE|IT;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/717x688.jpg/cc0000/ffffff
+8203240285;Myers Planters Punch;100000;381;FR|IT;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/633x720.bmp/cc0000/ffffff
+5966881586;Shrimp - Black Tiger 16/20;100000;81;ALL;IT|BE;fr;Category 2;TVA 20%;A;http://dummyimage.com/788x549.bmp/5fa2dd/ffffff
+5258347718;Table Cloth 90x90 White;100000;104;FR-IDF;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/767x601.bmp/5fa2dd/ffffff
+3222444247;Shrimp - Baby, Cold Water;100000;262;INVALID;UK;fr;Category 7;TVA 20%;A;http://dummyimage.com/619x618.jpg/5fa2dd/ffffff
+1106957164;Crab Brie In Phyllo;100000;237;FR-IDF;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/608x464.png/ff4444/ffffff
+3127343183;Pernod;100000;338;ALL;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/790x487.png/5fa2dd/ffffff
+1207427446;Toamtoes 6x7 Select;100000;176;FR-IDF;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/773x664.jpg/dddddd/000000
+988526206;Crab - Back Fin Meat, Canned;100000;151;FR|IT;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/684x742.bmp/cc0000/ffffff
+3300168699;Mix Pina Colada;100000;328;INVALID;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/657x760.png/cc0000/ffffff
+1213391228;Arctic Char - Fillets;100000;140;FR-IDF;IT|BE;fr;Category 0;TVA 20%;A;http://dummyimage.com/478x724.png/cc0000/ffffff
+2399906820;Mushroom - Chanterelle, Dry;100000;341;FR|IT;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/460x794.png/5fa2dd/ffffff
+8462433735;Veal - Inside;100000;342;FR;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/476x409.jpg/ff4444/ffffff
+2777348137;Flower - Potmums;100000;5;FR-ARA;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/778x719.bmp/ff4444/ffffff
+7888227598;Capers - Pickled;100000;236;FR|BE|IT;IT|BE;fr;Category 4;TVA 20%;A;http://dummyimage.com/766x790.jpg/dddddd/000000
+7143416146;Pork - Ground;100000;21;FR-IDF;UK;fr;Category 6;TVA 20%;A;http://dummyimage.com/728x665.bmp/cc0000/ffffff
+9120158822;Cinnamon - Stick;100000;21;FR|BE|IT;UK;fr;Category 4;TVA 20%;A;http://dummyimage.com/749x461.bmp/5fa2dd/ffffff
+568367881;Wine - Zinfandel Rosenblum;100000;79;INVALID;UK;fr;Category 4;TVA 20%;A;http://dummyimage.com/550x508.jpg/ff4444/ffffff
+8535441870;Cup Translucent 9 Oz;100000;320;ALL;INVALID;fr;Category 0;TVA 20%;A;http://dummyimage.com/725x699.jpg/ff4444/ffffff
+3405543933;V8 Pet;100000;134;INVALID;FR-01|FR-69;fr;Category 8;TVA 20%;A;http://dummyimage.com/515x641.jpg/cc0000/ffffff
+3328170544;Veal - Leg;100000;83;FR|BE|IT;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/556x774.jpg/cc0000/ffffff
+189632761;Shiro Miso;100000;319;ALL;FR-ARA|FR-IDF;fr;Category 7;TVA 20%;A;http://dummyimage.com/664x588.png/5fa2dd/ffffff
+2705316198;Soup - Cream Of Broccoli, Dry;100000;202;FR-IDF;INVALID;fr;Category 9;TVA 20%;A;http://dummyimage.com/453x663.png/5fa2dd/ffffff
+2374703573;Soup - Campbells Beef Strogonoff;100000;2;FR;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/641x435.jpg/ff4444/ffffff
+2869485684;Amarula Cream;100000;325;INVALID;FR-ARA|FR-IDF;fr;Category 2;TVA 20%;A;http://dummyimage.com/401x630.bmp/5fa2dd/ffffff
+3685317500;Tea - Green;100000;179;FR-IDF;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/427x406.png/cc0000/ffffff
+5535425313;Syrup - Monin - Blue Curacao;100000;11;INVALID;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/572x714.jpg/ff4444/ffffff
+6017122106;Cheese - Cheddarsliced;100000;346;FR-ARA;UK;fr;Category 7;TVA 20%;A;http://dummyimage.com/716x615.bmp/5fa2dd/ffffff
+5910006313;Sugar - Individual Portions;100000;229;FR|IT;IT|BE;fr;Category 6;TVA 20%;A;http://dummyimage.com/475x574.png/dddddd/000000
+1049585306;Energy Drink Red Bull;100000;292;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 6;TVA 20%;A;http://dummyimage.com/495x773.bmp/dddddd/000000
+394952270;Cheese - Mascarpone;100000;362;FR|IT;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/579x523.png/ff4444/ffffff
+3597584164;Wine - Red, Pinot Noir, Chateau;100000;63;INVALID;FR-75;fr;Category 4;TVA 20%;A;http://dummyimage.com/616x782.png/dddddd/000000
+9875181946;Sour Cream;100000;27;FR-IDF;IT|BE;fr;Category 9;TVA 20%;A;http://dummyimage.com/715x606.png/cc0000/ffffff
+4781603382;Pasta - Cannelloni, Sheets, Fresh;100000;49;FR;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/697x581.jpg/dddddd/000000
+4577907209;Cheese - Swiss;100000;166;FR-ARA;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/431x697.png/ff4444/ffffff
+1637028424;Bar - Granola Trail Mix Fruit Nut;100000;374;FR-ARA;IT|BE;fr;Category 9;TVA 20%;A;http://dummyimage.com/648x754.png/cc0000/ffffff
+2796405895;Prunes - Pitted;100000;59;ALL;IT|BE;fr;Category 0;TVA 20%;A;http://dummyimage.com/414x542.png/5fa2dd/ffffff
+5903134940;Yogurt - Banana, 175 Gr;100000;148;ALL;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/565x453.jpg/5fa2dd/ffffff
+2185908102;Wine - Tribal Sauvignon;100000;342;INVALID;FR-75;fr;Category 7;TVA 20%;A;http://dummyimage.com/549x414.bmp/cc0000/ffffff
+4949539865;Beef - Tenderloin;100000;168;FR-ARA;UK;fr;Category 3;TVA 20%;A;http://dummyimage.com/750x700.png/cc0000/ffffff
+9454413933;Bagel - Whole White Sesame;100000;228;ALL;INVALID;fr;Category 7;TVA 20%;A;http://dummyimage.com/718x656.bmp/dddddd/000000
+6994782909;Puree - Raspberry;100000;84;FR-IDF;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/710x531.png/ff4444/ffffff
+4622913688;Lettuce - Treviso;100000;49;FR-ARA;FR-01|FR-69;fr;Category 2;TVA 20%;A;http://dummyimage.com/632x631.jpg/dddddd/000000
+8857507836;Cookies - Assorted;100000;4;FR-ARA;FR-75;fr;Category 0;TVA 20%;A;http://dummyimage.com/417x440.png/5fa2dd/ffffff
+3864766464;Apple - Delicious, Red;100000;100;FR;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/625x615.png/ff4444/ffffff
+4482412912;Tuna - Canned, Flaked, Light;100000;219;INVALID;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/541x488.bmp/5fa2dd/ffffff
+5448181278;Sage - Rubbed;100000;19;FR;INVALID;fr;Category 9;TVA 20%;A;http://dummyimage.com/467x690.png/cc0000/ffffff
+8438123380;Gherkin - Sour;100000;332;ALL;UK;fr;Category 2;TVA 20%;A;http://dummyimage.com/441x734.bmp/ff4444/ffffff
+4395102978;Quiche Assorted;100000;282;FR;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/659x762.jpg/5fa2dd/ffffff
+893538878;Ice Cream - Vanilla;100000;357;FR;INVALID;fr;Category 9;TVA 20%;A;http://dummyimage.com/749x553.jpg/cc0000/ffffff
+2171630506;Cheese Cloth;100000;320;FR-IDF;INVALID;fr;Category 7;TVA 20%;A;http://dummyimage.com/673x699.jpg/ff4444/ffffff
+9059231896;Sprouts - Alfalfa;100000;303;FR|IT;FR-01|FR-69;fr;Category 4;TVA 20%;A;http://dummyimage.com/766x761.jpg/ff4444/ffffff
+7330203383;Pork - Bacon Cooked Slcd;100000;186;FR;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/555x730.bmp/dddddd/000000
+6492337010;Coffee Beans - Chocolate;100000;78;INVALID;IT|BE;fr;Category 9;TVA 20%;A;http://dummyimage.com/702x587.png/ff4444/ffffff
+525380905;White Baguette;100000;43;FR;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/444x590.jpg/ff4444/ffffff
+3204828237;Cake - Box Window 10x10x2.5;100000;34;INVALID;FR-75;fr;Category 0;TVA 20%;A;http://dummyimage.com/432x510.jpg/dddddd/000000
+2574438081;Ice Cream - Strawberry;100000;155;FR|BE|IT;IT|BE;fr;Category 7;TVA 20%;A;http://dummyimage.com/659x612.jpg/5fa2dd/ffffff
+476193422;Soup - Campbells Asian Noodle;100000;313;FR-ARA;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/612x532.bmp/cc0000/ffffff
+6957567433;Jam - Apricot;100000;114;FR|IT;FR-01|FR-69;fr;Category 9;TVA 20%;A;http://dummyimage.com/590x693.jpg/cc0000/ffffff
+2455427320;Silicone Parch. 16.3x24.3;100000;357;INVALID;FR-ARA|FR-IDF;fr;Category 6;TVA 20%;A;http://dummyimage.com/610x755.bmp/cc0000/ffffff
+7069169370;Muffin Mix - Morning Glory;100000;316;FR-ARA;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/725x438.bmp/ff4444/ffffff
+5884870299;Puree - Mango;100000;318;FR-ARA;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/515x733.png/ff4444/ffffff
+9070179278;Cream - 35%;100000;67;FR-ARA;UK;fr;Category 5;TVA 20%;A;http://dummyimage.com/448x701.jpg/cc0000/ffffff
+5150481214;Soup - Campbellschix Stew;100000;76;FR;FR-75;fr;Category 7;TVA 20%;A;http://dummyimage.com/499x539.jpg/dddddd/000000
+6869309065;Smoked Tongue;100000;307;FR-ARA;UK;fr;Category 3;TVA 20%;A;http://dummyimage.com/487x715.jpg/cc0000/ffffff
+9569374098;Ham - Procutinni;100000;206;INVALID;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/477x413.png/5fa2dd/ffffff
+6685391178;Pasta - Angel Hair;100000;198;FR|IT;FR-01|FR-69;fr;Category 2;TVA 20%;A;http://dummyimage.com/532x798.png/dddddd/000000
+5512575938;Hummus - Spread;100000;89;FR|BE|IT;IT|BE;fr;Category 9;TVA 20%;A;http://dummyimage.com/516x472.bmp/dddddd/000000
+5519959004;Coffee Swiss Choc Almond;100000;314;FR|BE|IT;FR-75;fr;Category 9;TVA 20%;A;http://dummyimage.com/571x459.bmp/cc0000/ffffff
+7947817380;Flour - Corn, Fine;100000;85;FR|IT;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/737x740.jpg/dddddd/000000
+7144417216;Lamb Leg - Bone - In Nz;100000;224;INVALID;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/716x694.jpg/5fa2dd/ffffff
+9688465532;Liquid Aminios Acid - Braggs;100000;265;FR|BE|IT;UK;fr;Category 6;TVA 20%;A;http://dummyimage.com/535x748.bmp/cc0000/ffffff
+535104257;Pastry - Baked Scones - Mini;100000;140;FR;FR-ARA|FR-IDF;fr;Category 8;TVA 20%;A;http://dummyimage.com/697x773.bmp/cc0000/ffffff
+2759486903;Beef Striploin Aaa;100000;147;FR-IDF;FR-01|FR-69;fr;Category 7;TVA 20%;A;http://dummyimage.com/641x520.jpg/5fa2dd/ffffff
+32326738;Nantucket - 518ml;100000;188;INVALID;INVALID;fr;Category 9;TVA 20%;A;http://dummyimage.com/441x417.jpg/ff4444/ffffff
+3722687863;Wiberg Cure;100000;243;INVALID;FR-01|FR-69;fr;Category 9;TVA 20%;A;http://dummyimage.com/753x414.png/dddddd/000000
+2361795132;Raisin - Dark;100000;271;FR-IDF;FR-75;fr;Category 0;TVA 20%;A;http://dummyimage.com/557x717.png/5fa2dd/ffffff
+9977392754;Bag Clear 10 Lb;100000;370;ALL;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/612x772.bmp/5fa2dd/ffffff
+8910288006;Island Oasis - Lemonade;100000;376;FR-IDF;FR-ARA|FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/463x475.jpg/cc0000/ffffff
+859698859;Lamb - Whole, Frozen;100000;69;FR;INVALID;fr;Category 8;TVA 20%;A;http://dummyimage.com/676x509.png/ff4444/ffffff
+2230628986;Wine - George Duboeuf Rose;100000;210;FR|IT;FR-01|FR-69;fr;Category 4;TVA 20%;A;http://dummyimage.com/602x611.jpg/dddddd/000000
+4071979105;Croissant, Raw - Mini;100000;92;FR|IT;INVALID;fr;Category 2;TVA 20%;A;http://dummyimage.com/799x651.bmp/cc0000/ffffff
+6608260403;Cocoa Feuilletine;100000;129;FR|IT;UK;fr;Category 3;TVA 20%;A;http://dummyimage.com/422x773.jpg/ff4444/ffffff
+3384770141;Garbage Bag - Clear;100000;198;FR-ARA;FR-75;fr;Category 0;TVA 20%;A;http://dummyimage.com/526x615.png/dddddd/000000
+672231011;Tart Shells - Sweet, 3;100000;55;FR-IDF;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/577x688.png/dddddd/000000
+3885278203;Cheese - Ermite Bleu;100000;253;FR-ARA;FR-ARA|FR-IDF;fr;Category 7;TVA 20%;A;http://dummyimage.com/550x602.jpg/ff4444/ffffff
+9427139973;Syrup - Monin, Swiss Choclate;100000;134;INVALID;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/474x541.jpg/ff4444/ffffff
+7657729173;Rum - Spiced, Captain Morgan;100000;396;INVALID;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/722x582.jpg/dddddd/000000
+9641474798;Sauce - Bernaise, Mix;100000;127;FR|BE|IT;INVALID;fr;Category 8;TVA 20%;A;http://dummyimage.com/444x546.jpg/ff4444/ffffff
+6830551100;Beef - Tenderloin Tails;100000;325;ALL;IT|BE;fr;Category 9;TVA 20%;A;http://dummyimage.com/770x773.png/5fa2dd/ffffff
+4900843066;Everfresh Products;100000;112;FR-IDF;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/600x440.png/5fa2dd/ffffff
+7950354094;Butter - Unsalted;100000;128;FR-ARA;UK;fr;Category 8;TVA 20%;A;http://dummyimage.com/684x464.jpg/5fa2dd/ffffff
+6247114795;Sugar - Individual Portions;100000;310;INVALID;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/495x567.png/ff4444/ffffff
+6845235905;Chicken Giblets;100000;143;INVALID;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/450x795.png/dddddd/000000
+7827589332;Yukon Jack;100000;382;ALL;INVALID;fr;Category 9;TVA 20%;A;http://dummyimage.com/454x536.bmp/dddddd/000000
+6776424111;Cocoa Powder - Dutched;100000;185;FR-IDF;FR-75;fr;Category 4;TVA 20%;A;http://dummyimage.com/721x771.jpg/ff4444/ffffff
+9280737241;Pasta - Lasagne, Fresh;100000;272;FR|IT;IT|BE;fr;Category 4;TVA 20%;A;http://dummyimage.com/564x531.jpg/ff4444/ffffff
+709111242;Coffee - Hazelnut Cream;100000;368;FR;FR-75;fr;Category 7;TVA 20%;A;http://dummyimage.com/420x610.png/cc0000/ffffff
+9775221461;Pepper - Orange;100000;49;INVALID;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/690x457.jpg/ff4444/ffffff
+3078595702;Flour - Pastry;100000;317;FR|IT;UK;fr;Category 8;TVA 20%;A;http://dummyimage.com/473x567.jpg/5fa2dd/ffffff
+500415598;Table Cloth 54x54 White;100000;231;FR|IT;IT|BE;fr;Category 7;TVA 20%;A;http://dummyimage.com/549x581.jpg/ff4444/ffffff
+1362307941;Pie Box - Cello Window 2.5;100000;78;FR-ARA;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/728x527.jpg/5fa2dd/ffffff
+1265391301;Mcguinness - Blue Curacao;100000;245;INVALID;IT|BE;fr;Category 9;TVA 20%;A;http://dummyimage.com/470x656.bmp/cc0000/ffffff
+7735777563;Crab Brie In Phyllo;100000;230;INVALID;IT|BE;fr;Category 8;TVA 20%;A;http://dummyimage.com/574x450.png/5fa2dd/ffffff
+9916197317;Melon - Watermelon, Seedless;100000;319;ALL;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/739x731.bmp/cc0000/ffffff
+7082845044;Wine - Prosecco Valdobiaddene;100000;200;FR|IT;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/612x714.jpg/cc0000/ffffff
+8765422295;Longos - Chicken Cordon Bleu;100000;276;FR-IDF;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/531x416.jpg/5fa2dd/ffffff
+6865494444;Yogurt - Assorted Pack;100000;229;ALL;FR-75;fr;Category 5;TVA 20%;A;http://dummyimage.com/632x484.png/dddddd/000000
+3561357776;Water - Evian 355 Ml;100000;156;FR;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/426x515.jpg/cc0000/ffffff
+9165739106;Scotch - Queen Anne;100000;118;FR-IDF;FR-75;fr;Category 9;TVA 20%;A;http://dummyimage.com/714x800.png/dddddd/000000
+6267274453;Chickhen - Chicken Phyllo;100000;260;FR;INVALID;fr;Category 4;TVA 20%;A;http://dummyimage.com/533x473.jpg/ff4444/ffffff
+6802445294;Radish;100000;17;INVALID;FR-01|FR-69;fr;Category 8;TVA 20%;A;http://dummyimage.com/788x465.png/cc0000/ffffff
+1778362176;Miso Paste White;100000;248;FR|BE|IT;INVALID;fr;Category 4;TVA 20%;A;http://dummyimage.com/589x600.jpg/cc0000/ffffff
+9745886255;Red Snapper - Fillet, Skin On;100000;176;FR-IDF;UK;fr;Category 7;TVA 20%;A;http://dummyimage.com/578x595.jpg/ff4444/ffffff
+9748212174;Cheese Cloth No 100;100000;332;FR|IT;FR-ARA|FR-IDF;fr;Category 8;TVA 20%;A;http://dummyimage.com/766x639.png/dddddd/000000
+2757044954;Lamb - Whole Head Off,nz;100000;54;INVALID;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/741x785.jpg/cc0000/ffffff
+902934171;Taro Leaves;100000;96;FR-ARA;IT|BE;fr;Category 7;TVA 20%;A;http://dummyimage.com/762x415.png/5fa2dd/ffffff
+9891875263;Kellogs Cereal In A Cup;100000;242;FR|IT;FR-75;fr;Category 0;TVA 20%;A;http://dummyimage.com/430x441.jpg/cc0000/ffffff
+4799360290;Pike - Frozen Fillet;100000;130;FR-ARA;INVALID;fr;Category 2;TVA 20%;A;http://dummyimage.com/731x542.bmp/5fa2dd/ffffff
+5651429546;Beef - Bones, Cut - Up;100000;33;INVALID;UK;fr;Category 6;TVA 20%;A;http://dummyimage.com/505x658.jpg/5fa2dd/ffffff
+8802174682;Fish - Artic Char, Cold Smoked;100000;150;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 1;TVA 20%;A;http://dummyimage.com/475x794.png/dddddd/000000
+2438103664;Lettuce - Radicchio;100000;76;FR-IDF;FR-75;fr;Category 4;TVA 20%;A;http://dummyimage.com/768x559.bmp/ff4444/ffffff
+9601562456;Sword Pick Asst;100000;157;FR;UK;fr;Category 3;TVA 20%;A;http://dummyimage.com/725x458.png/cc0000/ffffff
+701554422;Sparkling Wine - Rose, Freixenet;100000;330;FR|BE|IT;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/479x483.jpg/cc0000/ffffff
+403666417;Trout Rainbow Whole;100000;178;FR-IDF;FR-01|FR-69;fr;Category 8;TVA 20%;A;http://dummyimage.com/672x677.jpg/dddddd/000000
+6014856102;Wine - Soave Folonari;100000;285;FR|BE|IT;FR-01|FR-69;fr;Category 8;TVA 20%;A;http://dummyimage.com/682x717.jpg/5fa2dd/ffffff
+4844479830;Bag - Clear 7 Lb;100000;386;INVALID;FR-ARA|FR-IDF;fr;Category 7;TVA 20%;A;http://dummyimage.com/631x600.png/ff4444/ffffff
+5856443406;Oregano - Dry, Rubbed;100000;33;ALL;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/443x790.jpg/cc0000/ffffff
+2314299853;Whmis Spray Bottle Graduated;100000;391;FR-IDF;FR-ARA|FR-IDF;fr;Category 9;TVA 20%;A;http://dummyimage.com/529x557.jpg/cc0000/ffffff
+1265434367;Artichokes - Jerusalem;100000;244;FR-IDF;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/656x585.jpg/dddddd/000000
+9183073868;Pie Shell - 9;100000;32;FR-IDF;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/684x461.png/5fa2dd/ffffff
+4646816078;Carbonated Water - Peach;100000;347;FR|BE|IT;FR-01|FR-69;fr;Category 9;TVA 20%;A;http://dummyimage.com/735x705.bmp/dddddd/000000
+9456226942;Puree - Mango;100000;131;FR-IDF;FR-ARA|FR-IDF;fr;Category 9;TVA 20%;A;http://dummyimage.com/673x464.bmp/cc0000/ffffff
+4930079515;Nut - Almond, Blanched, Ground;100000;39;FR-ARA;FR-ARA|FR-IDF;fr;Category 7;TVA 20%;A;http://dummyimage.com/411x532.bmp/5fa2dd/ffffff
+2551724257;Coconut - Shredded, Unsweet;100000;343;ALL;IT|BE;fr;Category 4;TVA 20%;A;http://dummyimage.com/664x483.png/5fa2dd/ffffff
+982268936;Onions - Red;100000;339;FR-ARA;FR-ARA|FR-IDF;fr;Category 8;TVA 20%;A;http://dummyimage.com/682x570.bmp/dddddd/000000
+16535053;Beef - Ox Tongue;100000;388;FR;FR-75;fr;Category 7;TVA 20%;A;http://dummyimage.com/591x627.jpg/ff4444/ffffff
+4448769234;Compound - Strawberry;100000;180;FR|BE|IT;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/682x688.png/ff4444/ffffff
+6900619465;Straw - Regular;100000;163;FR;FR-01|FR-69;fr;Category 8;TVA 20%;A;http://dummyimage.com/575x451.bmp/ff4444/ffffff
+9397205681;Wine - Chardonnay South;100000;327;FR-ARA;UK;fr;Category 4;TVA 20%;A;http://dummyimage.com/700x581.jpg/5fa2dd/ffffff
+9067355146;Squid - Tubes / Tenticles 10/20;100000;392;FR-IDF;FR-ARA|FR-IDF;fr;Category 1;TVA 20%;A;http://dummyimage.com/532x746.bmp/ff4444/ffffff
+7853039811;Rice - Jasmine Sented;100000;19;FR;IT|BE;fr;Category 5;TVA 20%;A;http://dummyimage.com/539x661.bmp/dddddd/000000
+8202093140;Eel - Smoked;100000;162;FR-IDF;FR-ARA|FR-IDF;fr;Category 1;TVA 20%;A;http://dummyimage.com/757x475.jpg/ff4444/ffffff
+1806302960;Aspic - Amber;100000;7;INVALID;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/632x538.jpg/5fa2dd/ffffff
+2074090817;Asparagus - Mexican;100000;204;FR-ARA;UK;fr;Category 4;TVA 20%;A;http://dummyimage.com/791x572.png/5fa2dd/ffffff
+9987208337;Dried Figs;100000;69;FR;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/546x433.png/5fa2dd/ffffff
+608869261;Cheese - Parmesan Cubes;100000;123;FR|IT;INVALID;fr;Category 7;TVA 20%;A;http://dummyimage.com/456x708.bmp/cc0000/ffffff
+713091734;Tea - Decaf 1 Cup;100000;365;FR-IDF;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/743x763.png/ff4444/ffffff
+7713700342;Soup Campbells Mexicali Tortilla;100000;177;INVALID;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/484x791.jpg/ff4444/ffffff
+43753654;Artichoke - Fresh;100000;326;FR-ARA;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/420x604.jpg/cc0000/ffffff
+7300711890;Blackberries;100000;213;FR-ARA;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/531x685.bmp/cc0000/ffffff
+8807391856;Sea Bass - Whole;100000;155;FR-ARA;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/654x783.png/5fa2dd/ffffff
+6826370899;Crackers - Graham;100000;85;ALL;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/647x631.jpg/ff4444/ffffff
+6278478956;Muffin Batt - Ban Dream Zero;100000;152;FR|IT;INVALID;fr;Category 7;TVA 20%;A;http://dummyimage.com/653x603.jpg/ff4444/ffffff
+653959154;Turnip - Mini;100000;16;INVALID;UK;fr;Category 6;TVA 20%;A;http://dummyimage.com/574x484.png/5fa2dd/ffffff
+2343231665;Shopper Bag - S - 4;100000;254;FR|IT;UK;fr;Category 7;TVA 20%;A;http://dummyimage.com/568x421.png/5fa2dd/ffffff
+3242533504;Chips - Potato Jalapeno;100000;118;FR;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/588x558.bmp/dddddd/000000
+4052242065;Cheese - Pont Couvert;100000;300;INVALID;FR-75;fr;Category 5;TVA 20%;A;http://dummyimage.com/418x703.jpg/dddddd/000000
+6786425914;Lamb - Shanks;100000;349;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 0;TVA 20%;A;http://dummyimage.com/446x551.bmp/cc0000/ffffff
+8930560963;Asparagus - White, Canned;100000;143;ALL;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/497x636.bmp/cc0000/ffffff
+6125342328;Flour - Cake;100000;112;FR-IDF;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/783x466.jpg/ff4444/ffffff
+7308585865;Langers - Mango Nectar;100000;1;ALL;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/650x506.png/5fa2dd/ffffff
+6307232554;Juice - Happy Planet;100000;152;FR-ARA;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/690x777.jpg/dddddd/000000
+5386397975;Bread - Dark Rye, Loaf;100000;217;ALL;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/500x581.bmp/cc0000/ffffff
+5092259153;Rootbeer;100000;42;FR|IT;FR-75;fr;Category 6;TVA 20%;A;http://dummyimage.com/738x510.jpg/5fa2dd/ffffff
+5647047182;Onions - Pearl;100000;337;FR|BE|IT;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/709x606.png/ff4444/ffffff
+6163800345;Yeast Dry - Fleischman;100000;323;FR-ARA;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/435x527.jpg/5fa2dd/ffffff
+2057226640;Tart Shells - Sweet, 2;100000;73;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 8;TVA 20%;A;http://dummyimage.com/664x554.png/cc0000/ffffff
+7343411043;Compound - Raspberry;100000;383;FR|IT;FR-ARA|FR-IDF;fr;Category 2;TVA 20%;A;http://dummyimage.com/616x471.jpg/dddddd/000000
+361517775;Limes;100000;376;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/709x439.png/ff4444/ffffff
+9647030657;Flour - Whole Wheat;100000;59;ALL;FR-75;fr;Category 6;TVA 20%;A;http://dummyimage.com/724x739.bmp/cc0000/ffffff
+8204775524;Cookie - Oreo 100x2;100000;177;FR-ARA;FR-ARA|FR-IDF;fr;Category 5;TVA 20%;A;http://dummyimage.com/501x437.bmp/ff4444/ffffff
+8865539696;Wine - White, Chardonnay;100000;297;FR-ARA;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/630x642.png/dddddd/000000
+1633723358;Milk - 2%;100000;1;FR-IDF;IT|BE;fr;Category 6;TVA 20%;A;http://dummyimage.com/498x456.jpg/cc0000/ffffff
+7514640589;Pork - Ham, Virginia;100000;374;ALL;IT|BE;fr;Category 0;TVA 20%;A;http://dummyimage.com/590x761.bmp/ff4444/ffffff
+9139377081;Cheese - Brie Roitelet;100000;27;FR-ARA;IT|BE;fr;Category 9;TVA 20%;A;http://dummyimage.com/697x682.bmp/ff4444/ffffff
+6785869507;Sauce - Soy Low Sodium - 3.87l;100000;72;FR|IT;FR-ARA|FR-IDF;fr;Category 1;TVA 20%;A;http://dummyimage.com/616x448.bmp/5fa2dd/ffffff
+1424766242;Seedlings - Buckwheat, Organic;100000;347;INVALID;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/455x602.png/ff4444/ffffff
+9975133482;Cookies - Englishbay Oatmeal;100000;70;ALL;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/722x440.png/cc0000/ffffff
+527293952;Beef Wellington;100000;36;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 6;TVA 20%;A;http://dummyimage.com/470x449.bmp/5fa2dd/ffffff
+2724414345;Tart - Pecan Butter Squares;100000;329;INVALID;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/499x629.bmp/cc0000/ffffff
+1746945639;Propel Sport Drink;100000;216;FR;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/459x553.jpg/5fa2dd/ffffff
+2993266024;Tea - Orange Pekoe;100000;275;FR|IT;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/670x498.bmp/cc0000/ffffff
+3408778080;Tea - Decaf Lipton;100000;57;FR-IDF;INVALID;fr;Category 2;TVA 20%;A;http://dummyimage.com/486x586.jpg/dddddd/000000
+6381727297;Sansho Powder;100000;269;INVALID;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/485x443.jpg/ff4444/ffffff
+7593349774;Jam - Blackberry, 20 Ml Jar;100000;301;FR-IDF;INVALID;fr;Category 6;TVA 20%;A;http://dummyimage.com/491x427.jpg/ff4444/ffffff
+9535126989;Bread Foccacia Whole;100000;313;ALL;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/439x689.jpg/dddddd/000000
+5278109820;Veal - Brisket, Provimi,bnls;100000;147;FR-IDF;FR-01|FR-69;fr;Category 2;TVA 20%;A;http://dummyimage.com/463x668.png/ff4444/ffffff
+3350219761;Sprouts - China Rose;100000;179;ALL;UK;fr;Category 7;TVA 20%;A;http://dummyimage.com/716x566.bmp/5fa2dd/ffffff
+2249212682;Cup - 6oz, Foam;100000;4;FR-IDF;FR-ARA|FR-IDF;fr;Category 6;TVA 20%;A;http://dummyimage.com/799x553.jpg/cc0000/ffffff
+8929867151;Pork - Back, Short Cut, Boneless;100000;367;FR;IT|BE;fr;Category 2;TVA 20%;A;http://dummyimage.com/516x533.png/cc0000/ffffff
+7663138838;Wine - Vidal Icewine Magnotta;100000;338;ALL;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/447x726.png/dddddd/000000
+6451983867;Pastry - Cheese Baked Scones;100000;280;FR|IT;FR-01|FR-69;fr;Category 9;TVA 20%;A;http://dummyimage.com/558x518.jpg/5fa2dd/ffffff
+7796333785;Cup - 3.5oz, Foam;100000;361;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 1;TVA 20%;A;http://dummyimage.com/582x432.bmp/ff4444/ffffff
+5960933412;Wine - Riesling Dr. Pauly;100000;214;INVALID;FR-01|FR-69;fr;Category 9;TVA 20%;A;http://dummyimage.com/760x482.bmp/ff4444/ffffff
+5348816764;Devonshire Cream;100000;158;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 2;TVA 20%;A;http://dummyimage.com/614x577.jpg/dddddd/000000
+1310085862;Allspice - Jamaican;100000;57;FR|IT;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/429x759.png/cc0000/ffffff
+4994757019;Mushroom - Crimini;100000;253;FR;FR-75;fr;Category 1;TVA 20%;A;http://dummyimage.com/409x783.png/ff4444/ffffff
+3774041245;Onions - Dried, Chopped;100000;175;FR;INVALID;fr;Category 0;TVA 20%;A;http://dummyimage.com/624x420.jpg/5fa2dd/ffffff
+2928536466;Tray - 12in Rnd Blk;100000;144;ALL;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/595x592.bmp/ff4444/ffffff
+6268003843;C - Plus, Orange;100000;170;FR|BE|IT;INVALID;fr;Category 6;TVA 20%;A;http://dummyimage.com/485x519.jpg/dddddd/000000
+1806492306;Beer - Sleemans Cream Ale;100000;120;ALL;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/676x570.png/cc0000/ffffff
+7179178549;Bar - Sweet And Salty Chocolate;100000;142;FR|BE|IT;IT|BE;fr;Category 7;TVA 20%;A;http://dummyimage.com/728x788.bmp/5fa2dd/ffffff
+9098531323;Spice - Chili Powder Mexican;100000;332;ALL;FR-ARA|FR-IDF;fr;Category 0;TVA 20%;A;http://dummyimage.com/599x600.png/dddddd/000000
+6393775129;Cream Of Tartar;100000;334;ALL;FR-ARA|FR-IDF;fr;Category 2;TVA 20%;A;http://dummyimage.com/436x451.jpg/cc0000/ffffff
+6080239010;Bread - Burger;100000;334;FR-ARA;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/407x446.jpg/5fa2dd/ffffff
+7537114869;Champagne - Brights, Dry;100000;50;FR-IDF;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/670x534.jpg/cc0000/ffffff
+3083806976;Sour Puss Raspberry;100000;297;INVALID;INVALID;fr;Category 6;TVA 20%;A;http://dummyimage.com/756x749.jpg/ff4444/ffffff
+7224685417;Lamb - Whole Head Off,nz;100000;279;FR;IT|BE;fr;Category 2;TVA 20%;A;http://dummyimage.com/697x717.bmp/5fa2dd/ffffff
+3754345823;Snails - Large Canned;100000;165;FR-IDF;FR-01|FR-69;fr;Category 9;TVA 20%;A;http://dummyimage.com/626x513.bmp/ff4444/ffffff
+3960610236;Apple - Delicious, Red;100000;211;FR-IDF;IT|BE;fr;Category 8;TVA 20%;A;http://dummyimage.com/701x587.png/dddddd/000000
+8183211806;Dc Hikiage Hira Huba;100000;214;FR;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/774x735.png/ff4444/ffffff
+7391327063;Dill Weed - Fresh;100000;282;FR;IT|BE;fr;Category 6;TVA 20%;A;http://dummyimage.com/745x633.bmp/cc0000/ffffff
+6173709475;Beef - Tenderloin - Aa;100000;249;INVALID;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/412x703.bmp/ff4444/ffffff
+273574573;Soup - Campbells, Cream Of;100000;103;FR-ARA;IT|BE;fr;Category 7;TVA 20%;A;http://dummyimage.com/709x628.jpg/dddddd/000000
+5037916539;Dikon;100000;57;ALL;FR-ARA|FR-IDF;fr;Category 6;TVA 20%;A;http://dummyimage.com/703x450.jpg/ff4444/ffffff
+8763694887;Passion Fruit;100000;80;ALL;FR-ARA|FR-IDF;fr;Category 9;TVA 20%;A;http://dummyimage.com/549x507.bmp/dddddd/000000
+1466470322;Juice - Grape, White;100000;29;FR;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/467x410.bmp/dddddd/000000
+532464775;Garlic Powder;100000;246;FR;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/622x680.bmp/5fa2dd/ffffff
+4270073817;Wine - Chateauneuf Du Pape;100000;24;FR|IT;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/781x414.bmp/5fa2dd/ffffff
+5164415817;Beer - Camerons Auburn;100000;80;FR|BE|IT;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/692x565.png/dddddd/000000
+1785423284;Mustard - Pommery;100000;216;INVALID;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/796x700.png/5fa2dd/ffffff
+2072820576;Beets - Mini Golden;100000;365;ALL;IT|BE;fr;Category 6;TVA 20%;A;http://dummyimage.com/491x641.jpg/dddddd/000000
+4485807624;Pepper - Chili Powder;100000;338;ALL;FR-01|FR-69;fr;Category 2;TVA 20%;A;http://dummyimage.com/712x573.jpg/ff4444/ffffff
+7432307714;Goat - Whole Cut;100000;39;FR|IT;IT|BE;fr;Category 5;TVA 20%;A;http://dummyimage.com/590x643.bmp/dddddd/000000
+2710141478;The Pop Shoppe - Grape;100000;238;ALL;FR-ARA|FR-IDF;fr;Category 0;TVA 20%;A;http://dummyimage.com/402x406.png/ff4444/ffffff
+7113460810;Beef - Tenderlion, Center Cut;100000;380;FR|BE|IT;IT|BE;fr;Category 6;TVA 20%;A;http://dummyimage.com/503x676.jpg/5fa2dd/ffffff
+6326208379;Carbonated Water - Lemon Lime;100000;313;INVALID;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/790x403.bmp/ff4444/ffffff
+5829115922;Flower - Potmums;100000;239;INVALID;INVALID;fr;Category 6;TVA 20%;A;http://dummyimage.com/562x523.bmp/dddddd/000000
+6369042699;Cookie Dough - Chunky;100000;236;FR-IDF;UK;fr;Category 4;TVA 20%;A;http://dummyimage.com/493x535.jpg/dddddd/000000
+5576473542;Olives - Black, Pitted;100000;198;ALL;FR-75;fr;Category 9;TVA 20%;A;http://dummyimage.com/702x566.bmp/cc0000/ffffff
+3357582545;Fork - Plastic;100000;224;FR-ARA;UK;fr;Category 8;TVA 20%;A;http://dummyimage.com/745x742.jpg/5fa2dd/ffffff
+7543003041;Wine - Cave Springs Dry Riesling;100000;140;FR|BE|IT;IT|BE;fr;Category 9;TVA 20%;A;http://dummyimage.com/763x726.png/cc0000/ffffff
+2130689693;Cup - 8oz Coffee Perforated;100000;148;ALL;FR-01|FR-69;fr;Category 4;TVA 20%;A;http://dummyimage.com/797x520.png/ff4444/ffffff
+7237881478;Pasta - Orzo, Dry;100000;23;ALL;UK;fr;Category 2;TVA 20%;A;http://dummyimage.com/518x607.jpg/ff4444/ffffff
+6071570118;Wine - Fontanafredda Barolo;100000;332;FR-IDF;INVALID;fr;Category 6;TVA 20%;A;http://dummyimage.com/583x799.bmp/5fa2dd/ffffff
+2712221578;Wood Chips - Regular;100000;319;FR;UK;fr;Category 2;TVA 20%;A;http://dummyimage.com/460x707.jpg/5fa2dd/ffffff
+5690410441;Graham Cracker Mix;100000;332;FR-ARA;UK;fr;Category 5;TVA 20%;A;http://dummyimage.com/792x554.jpg/dddddd/000000
+706459771;Calaloo;100000;120;FR-ARA;IT|BE;fr;Category 0;TVA 20%;A;http://dummyimage.com/493x742.png/cc0000/ffffff
+5628911583;Mountain Dew;100000;97;INVALID;FR-ARA|FR-IDF;fr;Category 8;TVA 20%;A;http://dummyimage.com/671x665.png/dddddd/000000
+2730207233;Lid Tray - 12in Dome;100000;218;FR|IT;INVALID;fr;Category 0;TVA 20%;A;http://dummyimage.com/548x669.bmp/5fa2dd/ffffff
+3644218825;Truffle Cups - Red;100000;322;FR|BE|IT;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/446x635.jpg/dddddd/000000
+258384697;Flower - Daisies;100000;76;FR;UK;fr;Category 7;TVA 20%;A;http://dummyimage.com/498x604.jpg/dddddd/000000
+2510620683;Cheese - Victor Et Berthold;100000;252;FR-ARA;FR-01|FR-69;fr;Category 2;TVA 20%;A;http://dummyimage.com/451x574.png/5fa2dd/ffffff
+4873132155;Cheese Cheddar Processed;100000;334;ALL;FR-ARA|FR-IDF;fr;Category 5;TVA 20%;A;http://dummyimage.com/434x550.bmp/cc0000/ffffff
+739448911;Cheese - Grie Des Champ;100000;15;ALL;UK;fr;Category 4;TVA 20%;A;http://dummyimage.com/695x452.png/dddddd/000000
+5759445918;Cornstarch;100000;172;FR|IT;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/485x443.png/ff4444/ffffff
+486851695;Plasticspoonblack;100000;383;ALL;UK;fr;Category 6;TVA 20%;A;http://dummyimage.com/639x517.jpg/ff4444/ffffff
+2593432466;Vermouth - White, Cinzano;100000;119;ALL;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/714x743.bmp/5fa2dd/ffffff
+2872887234;Foie Gras;100000;112;ALL;INVALID;fr;Category 4;TVA 20%;A;http://dummyimage.com/460x571.png/5fa2dd/ffffff
+3795692978;Broom And Broom Rack White;100000;305;INVALID;IT|BE;fr;Category 9;TVA 20%;A;http://dummyimage.com/488x559.png/ff4444/ffffff
+2845259097;Transfer Sheets;100000;399;ALL;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/513x498.bmp/5fa2dd/ffffff
+4172743182;Wine - Alsace Gewurztraminer;100000;376;FR|IT;UK;fr;Category 8;TVA 20%;A;http://dummyimage.com/633x615.png/5fa2dd/ffffff
+8412067530;Cheese - Gouda;100000;182;INVALID;FR-ARA|FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/756x744.bmp/dddddd/000000
+67727135;Wine - Duboeuf Beaujolais;100000;312;ALL;FR-75;fr;Category 0;TVA 20%;A;http://dummyimage.com/770x477.bmp/dddddd/000000
+254065660;Beef - Rib Roast, Cap On;100000;158;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 9;TVA 20%;A;http://dummyimage.com/682x443.png/cc0000/ffffff
+8803556006;Bread Crumbs - Japanese Style;100000;386;ALL;IT|BE;fr;Category 9;TVA 20%;A;http://dummyimage.com/704x754.jpg/ff4444/ffffff
+6926349713;Water - Mineral, Natural;100000;120;FR-IDF;FR-01|FR-69;fr;Category 7;TVA 20%;A;http://dummyimage.com/469x525.png/ff4444/ffffff
+2764999008;Cheese - Cheddarsliced;100000;323;FR|IT;UK;fr;Category 6;TVA 20%;A;http://dummyimage.com/668x678.png/5fa2dd/ffffff
+8584660886;Iced Tea - Lemon, 340ml;100000;107;FR|BE|IT;UK;fr;Category 7;TVA 20%;A;http://dummyimage.com/488x518.bmp/ff4444/ffffff
+9105699668;Cheese - Cheddar, Medium;100000;293;ALL;IT|BE;fr;Category 6;TVA 20%;A;http://dummyimage.com/510x500.jpg/dddddd/000000
+4743634084;Pork - Smoked Kassler;100000;81;FR-IDF;FR-75;fr;Category 9;TVA 20%;A;http://dummyimage.com/531x514.png/5fa2dd/ffffff
+784800215;Coffee Cup 12oz 5342cd;100000;286;FR|IT;IT|BE;fr;Category 0;TVA 20%;A;http://dummyimage.com/556x654.png/cc0000/ffffff
+581702247;Oil - Olive Bertolli;100000;163;FR-ARA;UK;fr;Category 6;TVA 20%;A;http://dummyimage.com/796x795.bmp/ff4444/ffffff
+6260077787;Appetizer - Southwestern;100000;204;FR|IT;FR-75;fr;Category 4;TVA 20%;A;http://dummyimage.com/470x656.jpg/dddddd/000000
+7621639407;Muffin Mix - Blueberry;100000;124;INVALID;UK;fr;Category 6;TVA 20%;A;http://dummyimage.com/704x635.png/5fa2dd/ffffff
+6008431604;Greens Mustard;100000;163;FR|BE|IT;FR-01|FR-69;fr;Category 7;TVA 20%;A;http://dummyimage.com/436x470.jpg/5fa2dd/ffffff
+5485668473;Olives - Black, Pitted;100000;373;FR|IT;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/722x718.jpg/5fa2dd/ffffff
+9994079546;Wine - Magnotta - Belpaese;100000;349;INVALID;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/702x690.png/cc0000/ffffff
+3833173606;Jam - Raspberry,jar;100000;271;FR|BE|IT;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/578x635.jpg/ff4444/ffffff
+2929006811;Gherkin - Sour;100000;119;FR|IT;IT|BE;fr;Category 7;TVA 20%;A;http://dummyimage.com/626x782.jpg/ff4444/ffffff
+2473719940;Mix Pina Colada;100000;61;FR|BE|IT;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/435x464.jpg/5fa2dd/ffffff
+1016780020;Cookies - Englishbay Chochip;100000;173;FR;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/530x607.png/dddddd/000000
+3346122174;Beer - Creemore;100000;43;FR-ARA;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/657x727.bmp/dddddd/000000
+4105589190;Island Oasis - Raspberry;100000;353;FR-IDF;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/629x458.bmp/ff4444/ffffff
+3842985186;Bread - Pullman, Sliced;100000;244;FR-ARA;UK;fr;Category 2;TVA 20%;A;http://dummyimage.com/402x641.bmp/5fa2dd/ffffff
+4904680122;Bread - Multigrain Oval;100000;230;FR|BE|IT;FR-75;fr;Category 9;TVA 20%;A;http://dummyimage.com/646x428.png/dddddd/000000
+5341656265;Sprouts - Corn;100000;183;FR-ARA;FR-75;fr;Category 5;TVA 20%;A;http://dummyimage.com/532x688.jpg/5fa2dd/ffffff
+3706296611;Cake - Lemon Chiffon;100000;227;FR|BE|IT;FR-01|FR-69;fr;Category 2;TVA 20%;A;http://dummyimage.com/707x723.bmp/dddddd/000000
+3191125951;Soup - Knorr, Chicken Noodle;100000;119;FR|IT;FR-ARA|FR-IDF;fr;Category 7;TVA 20%;A;http://dummyimage.com/758x717.bmp/5fa2dd/ffffff
+2193560440;Syrup - Pancake;100000;335;FR;INVALID;fr;Category 7;TVA 20%;A;http://dummyimage.com/511x666.bmp/5fa2dd/ffffff
+6441940857;Appetizer - Southwestern;100000;39;FR|IT;IT|BE;fr;Category 9;TVA 20%;A;http://dummyimage.com/695x796.png/cc0000/ffffff
+6114236558;Lettuce - Curly Endive;100000;247;FR|BE|IT;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/407x613.jpg/5fa2dd/ffffff
+1885606189;Mint - Fresh;100000;371;FR-IDF;FR-01|FR-69;fr;Category 2;TVA 20%;A;http://dummyimage.com/644x704.bmp/dddddd/000000
+2366146835;Peas - Pigeon, Dry;100000;34;FR-ARA;INVALID;fr;Category 0;TVA 20%;A;http://dummyimage.com/475x405.bmp/5fa2dd/ffffff
+3843841545;Vinegar - Rice;100000;318;INVALID;IT|BE;fr;Category 9;TVA 20%;A;http://dummyimage.com/549x656.jpg/ff4444/ffffff
+5208610705;The Pop Shoppe - Root Beer;100000;272;INVALID;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/708x629.jpg/cc0000/ffffff
+4551673429;Beer - Heinekin;100000;265;FR|IT;IT|BE;fr;Category 4;TVA 20%;A;http://dummyimage.com/642x669.png/dddddd/000000
+2979574984;Wine - Sawmill Creek Autumn;100000;1;FR-IDF;INVALID;fr;Category 4;TVA 20%;A;http://dummyimage.com/412x650.jpg/ff4444/ffffff
+1798788598;Chips - Potato Jalapeno;100000;337;FR-ARA;UK;fr;Category 5;TVA 20%;A;http://dummyimage.com/705x739.png/dddddd/000000
+8443069928;Mushrooms - Black, Dried;100000;76;FR|BE|IT;IT|BE;fr;Category 4;TVA 20%;A;http://dummyimage.com/580x638.jpg/cc0000/ffffff
+5758780314;Table Cloth 81x81 White;100000;218;FR|BE|IT;FR-75;fr;Category 7;TVA 20%;A;http://dummyimage.com/405x531.jpg/ff4444/ffffff
+9567725248;Smoked Paprika;100000;357;FR;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/675x788.bmp/cc0000/ffffff
+5334906364;Carbonated Water - Cherry;100000;95;INVALID;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/764x704.png/cc0000/ffffff
+7353910194;Glaze - Apricot;100000;213;ALL;UK;fr;Category 3;TVA 20%;A;http://dummyimage.com/758x468.jpg/cc0000/ffffff
+7272439955;Muffin - Blueberry Individual;100000;70;FR;FR-75;fr;Category 6;TVA 20%;A;http://dummyimage.com/442x574.png/5fa2dd/ffffff
+550166284;Nescafe - Frothy French Vanilla;100000;73;FR-ARA;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/661x505.bmp/dddddd/000000
+1181965559;Beans - Soya Bean;100000;135;FR-IDF;UK;fr;Category 5;TVA 20%;A;http://dummyimage.com/500x525.png/5fa2dd/ffffff
+4083576247;Papadam;100000;234;ALL;FR-ARA|FR-IDF;fr;Category 9;TVA 20%;A;http://dummyimage.com/414x689.jpg/cc0000/ffffff
+8365703335;Wine - Vouvray Cuvee Domaine;100000;163;INVALID;FR-ARA|FR-IDF;fr;Category 9;TVA 20%;A;http://dummyimage.com/693x625.jpg/ff4444/ffffff
+400531760;Catfish - Fillets;100000;34;FR-IDF;FR-75;fr;Category 9;TVA 20%;A;http://dummyimage.com/703x461.png/ff4444/ffffff
+15419864;Nut - Almond, Blanched, Whole;100000;290;INVALID;UK;fr;Category 2;TVA 20%;A;http://dummyimage.com/656x437.bmp/cc0000/ffffff
+68349837;Dried Peach;100000;199;FR-ARA;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/529x466.jpg/5fa2dd/ffffff
+2307839590;Mushrooms - Black, Dried;100000;118;FR|BE|IT;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/755x494.bmp/5fa2dd/ffffff
+9686741301;Water - Spring 1.5lit;100000;41;INVALID;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/695x740.bmp/5fa2dd/ffffff
+4609043512;English Muffin;100000;274;FR|BE|IT;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/647x665.png/dddddd/000000
+8820090505;Capers - Ox Eye Daisy;100000;112;FR-IDF;FR-ARA|FR-IDF;fr;Category 5;TVA 20%;A;http://dummyimage.com/561x438.png/ff4444/ffffff
+9716307700;Vector Energy Bar;100000;181;INVALID;FR-ARA|FR-IDF;fr;Category 5;TVA 20%;A;http://dummyimage.com/704x428.jpg/5fa2dd/ffffff
+8073830821;Kohlrabi;100000;217;FR;FR-01|FR-69;fr;Category 4;TVA 20%;A;http://dummyimage.com/715x451.bmp/cc0000/ffffff
+2210978506;Beans - French;100000;159;FR-ARA;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/481x613.bmp/dddddd/000000
+4981701134;Sugar - Crumb;100000;273;FR-IDF;INVALID;fr;Category 7;TVA 20%;A;http://dummyimage.com/478x442.png/ff4444/ffffff
+9040205700;Yogurt - Plain;100000;64;FR|IT;FR-75;fr;Category 9;TVA 20%;A;http://dummyimage.com/736x448.jpg/5fa2dd/ffffff
+7209995772;Sobe - Lizard Fuel;100000;157;FR|IT;IT|BE;fr;Category 9;TVA 20%;A;http://dummyimage.com/523x636.png/cc0000/ffffff
+1774152049;Pepper - Red Bell;100000;200;FR-IDF;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/405x794.jpg/dddddd/000000
+974001583;Juice - Cranberry 284ml;100000;52;INVALID;IT|BE;fr;Category 4;TVA 20%;A;http://dummyimage.com/603x411.jpg/dddddd/000000
+8321521711;Wooden Mop Handle;100000;392;FR|BE|IT;INVALID;fr;Category 2;TVA 20%;A;http://dummyimage.com/695x626.jpg/cc0000/ffffff
+328923236;Garlic - Elephant;100000;140;ALL;FR-75;fr;Category 9;TVA 20%;A;http://dummyimage.com/718x457.jpg/cc0000/ffffff
+5881096339;Sprouts - Alfalfa;100000;262;FR|IT;INVALID;fr;Category 6;TVA 20%;A;http://dummyimage.com/579x781.bmp/ff4444/ffffff
+6323164863;Lettuce - Boston Bib;100000;178;FR|IT;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/674x416.bmp/dddddd/000000
+3126116549;Tray - Foam, Square 4 - S;100000;271;FR-ARA;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/548x690.bmp/dddddd/000000
+1758062902;Appetizer - Asian Shrimp Roll;100000;136;FR-IDF;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/455x459.bmp/cc0000/ffffff
+712497080;Beans - Navy, Dry;100000;228;ALL;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/556x497.png/ff4444/ffffff
+42357473;Soup - Knorr, Classic Can. Chili;100000;106;FR-IDF;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/623x471.png/5fa2dd/ffffff
+2288224480;Tea - Decaf Lipton;100000;397;FR-IDF;FR-ARA|FR-IDF;fr;Category 7;TVA 20%;A;http://dummyimage.com/441x601.bmp/5fa2dd/ffffff
+9072557668;Trout - Hot Smkd, Dbl Fillet;100000;104;FR|IT;FR-ARA|FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/784x752.bmp/cc0000/ffffff
+6626536632;Beef - Short Ribs;100000;35;FR-IDF;IT|BE;fr;Category 6;TVA 20%;A;http://dummyimage.com/620x532.png/dddddd/000000
+8767159338;Lamb - Loin, Trimmed, Boneless;100000;53;FR-IDF;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/646x727.jpg/cc0000/ffffff
+3667794382;Hog / Sausage Casing - Pork;100000;38;FR|BE|IT;UK;fr;Category 5;TVA 20%;A;http://dummyimage.com/547x734.png/5fa2dd/ffffff
+2134448118;Capon - Whole;100000;90;FR|BE|IT;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/599x760.bmp/cc0000/ffffff
+926943691;Mop Head - Cotton, 24 Oz;100000;288;FR-ARA;FR-01|FR-69;fr;Category 4;TVA 20%;A;http://dummyimage.com/542x555.jpg/5fa2dd/ffffff
+5101443352;Wine - Baron De Rothschild;100000;377;FR|IT;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/477x495.bmp/cc0000/ffffff
+3557462552;Apron;100000;119;INVALID;IT|BE;fr;Category 2;TVA 20%;A;http://dummyimage.com/697x417.jpg/cc0000/ffffff
+4598892977;Arizona - Plum Green Tea;100000;51;FR|IT;INVALID;fr;Category 8;TVA 20%;A;http://dummyimage.com/765x788.png/cc0000/ffffff
+4202425587;Crab - Meat;100000;27;FR-ARA;FR-ARA|FR-IDF;fr;Category 9;TVA 20%;A;http://dummyimage.com/758x629.jpg/dddddd/000000
+3836077923;Vinegar - White Wine;100000;54;FR|IT;FR-ARA|FR-IDF;fr;Category 1;TVA 20%;A;http://dummyimage.com/664x658.jpg/dddddd/000000
+9168763898;Soup - Cream Of Broccoli;100000;275;ALL;FR-75;fr;Category 4;TVA 20%;A;http://dummyimage.com/570x588.bmp/5fa2dd/ffffff
+9124037730;Chicken - Breast, 5 - 7 Oz;100000;187;FR|IT;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/742x582.bmp/5fa2dd/ffffff
+4746144019;Tart Shells - Savory, 4;100000;371;ALL;UK;fr;Category 8;TVA 20%;A;http://dummyimage.com/794x644.png/5fa2dd/ffffff
+5684064166;Nut - Almond, Blanched, Whole;100000;75;FR;FR-75;fr;Category 5;TVA 20%;A;http://dummyimage.com/414x670.png/5fa2dd/ffffff
+8982095220;Sobe - Cranberry Grapefruit;100000;253;FR;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/655x528.png/cc0000/ffffff
+1343171448;Scallops - Live In Shell;100000;92;FR|IT;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/635x440.jpg/cc0000/ffffff
+9986081555;Wine - Red, Cabernet Merlot;100000;328;FR;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/451x526.jpg/cc0000/ffffff
+534078357;Table Cloth 144x90 White;100000;135;FR-IDF;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/753x785.png/dddddd/000000
+5130207819;Gatorade - Cool Blue Raspberry;100000;331;FR-ARA;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/683x595.bmp/dddddd/000000
+8662747495;Vodka - Smirnoff;100000;182;FR|BE|IT;INVALID;fr;Category 4;TVA 20%;A;http://dummyimage.com/469x780.png/5fa2dd/ffffff
+726504913;Wine - Wyndham Estate Bin 777;100000;114;FR;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/614x748.jpg/5fa2dd/ffffff
+103220200;Appetiser - Bought;100000;233;FR-IDF;UK;fr;Category 7;TVA 20%;A;http://dummyimage.com/592x549.bmp/5fa2dd/ffffff
+6974553017;Grapes - Black;100000;2;ALL;FR-ARA|FR-IDF;fr;Category 7;TVA 20%;A;http://dummyimage.com/649x448.png/dddddd/000000
+9822632243;Tomato Puree;100000;341;FR;IT|BE;fr;Category 5;TVA 20%;A;http://dummyimage.com/471x674.jpg/dddddd/000000
+9073061033;Wine - Red, Metus Rose;100000;278;INVALID;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/426x699.bmp/cc0000/ffffff
+410434855;Juice - Lagoon Mango;100000;5;INVALID;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/688x773.png/5fa2dd/ffffff
+98732423;Bonito Flakes - Toku Katsuo;100000;69;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 0;TVA 20%;A;http://dummyimage.com/414x552.png/dddddd/000000
+6512238900;Pasta - Cappellini, Dry;100000;242;FR|IT;FR-ARA|FR-IDF;fr;Category 5;TVA 20%;A;http://dummyimage.com/548x515.jpg/ff4444/ffffff
+3590852321;Green Tea Refresher;100000;333;FR-IDF;FR-ARA|FR-IDF;fr;Category 2;TVA 20%;A;http://dummyimage.com/727x528.jpg/dddddd/000000
+1401619596;Butter - Salted;100000;339;FR-IDF;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/783x515.png/dddddd/000000
+1910919517;Gingerale - Diet - Schweppes;100000;92;FR-IDF;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/604x731.bmp/cc0000/ffffff
+7657490510;Beef - Baby, Liver;100000;246;INVALID;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/541x791.png/cc0000/ffffff
+9297489215;Godiva White Chocolate;100000;13;ALL;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/742x622.png/cc0000/ffffff
+7277286964;Tuna - Loin;100000;358;INVALID;IT|BE;fr;Category 8;TVA 20%;A;http://dummyimage.com/721x784.bmp/cc0000/ffffff
+5160713029;Glycerine;100000;71;FR|IT;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/414x711.jpg/cc0000/ffffff
+3627146839;Bread - Bagels, Plain;100000;343;FR-ARA;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/689x550.bmp/ff4444/ffffff
+8476690661;Pepper - Pablano;100000;64;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 9;TVA 20%;A;http://dummyimage.com/488x615.png/5fa2dd/ffffff
+7237260183;Wine - Chateau Timberlay;100000;233;FR|BE|IT;IT|BE;fr;Category 9;TVA 20%;A;http://dummyimage.com/703x783.jpg/dddddd/000000
+1828824914;Towel Dispenser;100000;128;FR|IT;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/597x589.png/ff4444/ffffff
+6372510562;Bread - Wheat Baguette;100000;334;FR|BE|IT;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/504x628.png/cc0000/ffffff
+4072186400;Arctic Char - Fresh, Whole;100000;212;FR-IDF;UK;fr;Category 8;TVA 20%;A;http://dummyimage.com/782x402.bmp/5fa2dd/ffffff
+1705713420;Pastry - Cheese Baked Scones;100000;395;FR|IT;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/533x667.png/dddddd/000000
+6410603489;Wine - Cahors Ac 2000, Clos;100000;331;INVALID;INVALID;fr;Category 6;TVA 20%;A;http://dummyimage.com/588x612.png/cc0000/ffffff
+479038112;Bag - Bread, White, Plain;100000;185;FR;FR-01|FR-69;fr;Category 8;TVA 20%;A;http://dummyimage.com/428x621.png/5fa2dd/ffffff
+2099087793;Asparagus - Green, Fresh;100000;282;FR;FR-ARA|FR-IDF;fr;Category 1;TVA 20%;A;http://dummyimage.com/409x446.bmp/5fa2dd/ffffff
+1929544075;Energy Drink Red Bull;100000;286;FR;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/594x548.jpg/dddddd/000000
+8750388060;Tabasco Sauce, 2 Oz;100000;150;FR-IDF;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/545x529.bmp/5fa2dd/ffffff
+4523295940;Wine - Piper Heidsieck Brut;100000;380;FR;UK;fr;Category 5;TVA 20%;A;http://dummyimage.com/718x571.png/dddddd/000000
+3135080323;Compound - Raspberry;100000;54;FR-IDF;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/471x614.png/cc0000/ffffff
+8045667691;Wasabi Powder;100000;260;FR-ARA;IT|BE;fr;Category 8;TVA 20%;A;http://dummyimage.com/725x684.jpg/cc0000/ffffff
+9699883543;Langers - Mango Nectar;100000;105;FR|BE|IT;INVALID;fr;Category 2;TVA 20%;A;http://dummyimage.com/557x780.jpg/cc0000/ffffff
+6101967919;Bread Foccacia Whole;100000;235;FR|BE|IT;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/749x674.jpg/dddddd/000000
+9303374931;Duck - Legs;100000;138;FR-IDF;FR-ARA|FR-IDF;fr;Category 7;TVA 20%;A;http://dummyimage.com/667x570.png/5fa2dd/ffffff
+6630405963;Fudge - Chocolate Fudge;100000;202;ALL;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/677x765.jpg/5fa2dd/ffffff
+1837949456;Compound - Strawberry;100000;53;ALL;FR-75;fr;Category 0;TVA 20%;A;http://dummyimage.com/479x695.png/5fa2dd/ffffff
+9265222276;Crab - Dungeness, Whole;100000;147;INVALID;FR-01|FR-69;fr;Category 8;TVA 20%;A;http://dummyimage.com/707x490.bmp/dddddd/000000
+8979390895;Juice - Clamato, 341 Ml;100000;107;ALL;IT|BE;fr;Category 0;TVA 20%;A;http://dummyimage.com/675x445.png/cc0000/ffffff
+7546675660;Myers Planters Punch;100000;231;INVALID;INVALID;fr;Category 6;TVA 20%;A;http://dummyimage.com/722x627.png/5fa2dd/ffffff
+243213471;Water - Tonic;100000;319;FR-IDF;FR-01|FR-69;fr;Category 9;TVA 20%;A;http://dummyimage.com/770x710.png/5fa2dd/ffffff
+1998533746;Food Colouring - Green;100000;279;FR|IT;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/735x415.bmp/dddddd/000000
+20950543;Pastry - Banana Tea Loaf;100000;335;ALL;INVALID;fr;Category 4;TVA 20%;A;http://dummyimage.com/483x708.jpg/5fa2dd/ffffff
+9844138489;Clementine;100000;16;FR-IDF;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/484x766.png/5fa2dd/ffffff
+3791210853;Rice - Aborio;100000;53;FR-IDF;INVALID;fr;Category 9;TVA 20%;A;http://dummyimage.com/760x563.jpg/dddddd/000000
+7443168942;Soup - Campbells, Minestrone;100000;305;FR-ARA;INVALID;fr;Category 2;TVA 20%;A;http://dummyimage.com/762x688.bmp/cc0000/ffffff
+5125119703;Cup - Paper 10oz 92959;100000;387;FR|IT;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/606x435.png/dddddd/000000
+2739127823;Butter - Salted, Micro;100000;250;FR-ARA;FR-75;fr;Category 6;TVA 20%;A;http://dummyimage.com/765x698.bmp/dddddd/000000
+2053643877;Eel Fresh;100000;93;FR|IT;UK;fr;Category 7;TVA 20%;A;http://dummyimage.com/513x546.jpg/5fa2dd/ffffff
+5761162051;Corn Kernels - Frozen;100000;200;ALL;FR-ARA|FR-IDF;fr;Category 0;TVA 20%;A;http://dummyimage.com/503x760.png/5fa2dd/ffffff
+565767470;Syrup - Golden, Lyles;100000;219;FR;FR-75;fr;Category 4;TVA 20%;A;http://dummyimage.com/640x700.png/cc0000/ffffff
+649854401;Sauce - White, Mix;100000;369;FR|BE|IT;IT|BE;fr;Category 0;TVA 20%;A;http://dummyimage.com/726x646.jpg/5fa2dd/ffffff
+5927362445;Flour - Fast / Rapid;100000;139;FR|BE|IT;IT|BE;fr;Category 6;TVA 20%;A;http://dummyimage.com/770x751.jpg/cc0000/ffffff
+9835936081;Soup - Campbells Chicken;100000;126;INVALID;FR-01|FR-69;fr;Category 4;TVA 20%;A;http://dummyimage.com/519x515.jpg/cc0000/ffffff
+235708471;Contreau;100000;269;FR-ARA;IT|BE;fr;Category 0;TVA 20%;A;http://dummyimage.com/567x495.jpg/ff4444/ffffff
+2970649359;Carbonated Water - Wildberry;100000;223;FR;FR-75;fr;Category 9;TVA 20%;A;http://dummyimage.com/481x462.jpg/cc0000/ffffff
+7493354952;Tea - Herbal - 6 Asst;100000;322;FR-ARA;FR-ARA|FR-IDF;fr;Category 5;TVA 20%;A;http://dummyimage.com/421x641.jpg/5fa2dd/ffffff
+9255838580;Bread - Sour Batard;100000;1;INVALID;FR-75;fr;Category 9;TVA 20%;A;http://dummyimage.com/513x571.bmp/cc0000/ffffff
+1819025125;Tomatillo;100000;389;FR-ARA;FR-01|FR-69;fr;Category 4;TVA 20%;A;http://dummyimage.com/448x420.png/dddddd/000000
+7478321927;Chicken - Leg, Boneless;100000;22;FR|IT;FR-ARA|FR-IDF;fr;Category 9;TVA 20%;A;http://dummyimage.com/531x706.png/cc0000/ffffff
+1467654985;Vinegar - Tarragon;100000;64;FR-IDF;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/585x588.png/5fa2dd/ffffff
+7188452870;Wine - Beringer Founders Estate;100000;185;FR-IDF;FR-ARA|FR-IDF;fr;Category 8;TVA 20%;A;http://dummyimage.com/610x652.bmp/5fa2dd/ffffff
+9889451709;Glass - Wine, Plastic, Clear 5 Oz;100000;368;ALL;FR-75;fr;Category 1;TVA 20%;A;http://dummyimage.com/486x415.png/ff4444/ffffff
+379423501;Lettuce - Romaine;100000;134;INVALID;UK;fr;Category 7;TVA 20%;A;http://dummyimage.com/485x422.jpg/cc0000/ffffff
+3852155605;Beef - Tenderloin - Aa;100000;116;FR-ARA;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/753x407.png/dddddd/000000
+7792510810;Mousse - Mango;100000;278;FR|IT;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/541x702.png/cc0000/ffffff
+3530148372;Durian Fruit;100000;53;FR|BE|IT;IT|BE;fr;Category 8;TVA 20%;A;http://dummyimage.com/716x480.png/ff4444/ffffff
+5706135983;Chicken - Livers;100000;187;FR;FR-75;fr;Category 4;TVA 20%;A;http://dummyimage.com/526x471.jpg/cc0000/ffffff
+8784589540;Daikon Radish;100000;234;INVALID;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/658x708.jpg/ff4444/ffffff
+1222606712;Sprouts - China Rose;100000;277;FR-ARA;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/799x585.png/5fa2dd/ffffff
+5024233505;Wine - Cave Springs Dry Riesling;100000;273;ALL;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/751x732.png/5fa2dd/ffffff
+6098418957;Cheese - Taleggio D.o.p.;100000;48;FR-IDF;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/462x766.png/dddddd/000000
+232814706;Cheese - Comtomme;100000;137;ALL;FR-01|FR-69;fr;Category 4;TVA 20%;A;http://dummyimage.com/412x659.png/ff4444/ffffff
+2619876806;Pork - Caul Fat;100000;143;FR-IDF;FR-ARA|FR-IDF;fr;Category 9;TVA 20%;A;http://dummyimage.com/573x757.png/ff4444/ffffff
+9275819311;Pasta - Cappellini, Dry;100000;378;FR;INVALID;fr;Category 4;TVA 20%;A;http://dummyimage.com/709x511.png/dddddd/000000
+8200008664;Rappini - Andy Boy;100000;55;FR|BE|IT;FR-01|FR-69;fr;Category 9;TVA 20%;A;http://dummyimage.com/594x460.jpg/5fa2dd/ffffff
+6504202603;Beef - Ground Medium;100000;160;FR-ARA;FR-01|FR-69;fr;Category 2;TVA 20%;A;http://dummyimage.com/770x569.bmp/5fa2dd/ffffff
+5128815521;Bag - Bread, White, Plain;100000;48;INVALID;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/455x794.bmp/5fa2dd/ffffff
+4208942668;Chip - Potato Dill Pickle;100000;7;ALL;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/728x480.png/cc0000/ffffff
+5706830009;Wine - Magnotta - Pinot Gris Sr;100000;388;FR;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/794x726.bmp/dddddd/000000
+9676698491;Flavouring - Raspberry;100000;377;FR;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/640x456.bmp/cc0000/ffffff
+7963957076;Beef - Tongue, Fresh;100000;19;FR-ARA;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/763x688.png/ff4444/ffffff
+8795955342;Pork - Back, Long Cut, Boneless;100000;353;FR-IDF;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/726x539.jpg/ff4444/ffffff
+8448776877;Crab - Dungeness, Whole, live;100000;373;FR|IT;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/440x422.jpg/dddddd/000000
+7599727099;Lobster - Tail 6 Oz;100000;226;INVALID;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/534x597.bmp/dddddd/000000
+6377223548;Rice Pilaf, Dry,package;100000;369;FR;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/711x669.png/cc0000/ffffff
+4763116830;Soup - Campbells, Butternut;100000;72;FR-IDF;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/512x681.jpg/dddddd/000000
+3464441656;Sobe - Tropical Energy;100000;370;FR|BE|IT;UK;fr;Category 7;TVA 20%;A;http://dummyimage.com/721x785.jpg/ff4444/ffffff
+3590546079;Snapple Raspberry Tea;100000;113;FR|BE|IT;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/624x439.bmp/ff4444/ffffff
+5552881869;Fish - Atlantic Salmon, Cold;100000;172;FR-ARA;INVALID;fr;Category 7;TVA 20%;A;http://dummyimage.com/649x606.jpg/dddddd/000000
+9105533383;Plastic Arrow Stir Stick;100000;324;FR-ARA;IT|BE;fr;Category 8;TVA 20%;A;http://dummyimage.com/774x416.jpg/5fa2dd/ffffff
+6171130554;Chilli Paste, Hot Sambal Oelek;100000;372;FR|BE|IT;IT|BE;fr;Category 6;TVA 20%;A;http://dummyimage.com/672x462.bmp/dddddd/000000
+9014489667;Quinoa;100000;144;FR|BE|IT;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/718x423.png/5fa2dd/ffffff
+8612709931;Ecolab Digiclean Mild Fm;100000;112;FR|BE|IT;IT|BE;fr;Category 2;TVA 20%;A;http://dummyimage.com/557x504.bmp/5fa2dd/ffffff
+6547564248;Snapple - Mango Maddness;100000;142;FR|IT;FR-ARA|FR-IDF;fr;Category 1;TVA 20%;A;http://dummyimage.com/610x537.png/dddddd/000000
+6257701526;Squash - Pepper;100000;340;FR|BE|IT;FR-75;fr;Category 9;TVA 20%;A;http://dummyimage.com/551x718.png/dddddd/000000
+3024684602;Cheese - Grana Padano;100000;124;FR-IDF;FR-75;fr;Category 5;TVA 20%;A;http://dummyimage.com/715x509.png/cc0000/ffffff
+4447798960;Sprite, Diet - 355ml;100000;244;FR;FR-ARA|FR-IDF;fr;Category 9;TVA 20%;A;http://dummyimage.com/527x717.png/ff4444/ffffff
+4050458172;Fennel;100000;224;FR-IDF;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/598x589.jpg/5fa2dd/ffffff
+2666028504;Bread - Ciabatta Buns;100000;178;FR-IDF;FR-75;fr;Category 6;TVA 20%;A;http://dummyimage.com/592x538.bmp/5fa2dd/ffffff
+5669062361;Oil - Pumpkinseed;100000;221;FR-IDF;IT|BE;fr;Category 4;TVA 20%;A;http://dummyimage.com/611x601.png/cc0000/ffffff
+8132396415;Pepper - Red Bell;100000;339;ALL;FR-ARA|FR-IDF;fr;Category 6;TVA 20%;A;http://dummyimage.com/624x729.jpg/cc0000/ffffff
+3036123384;Chicken - Base, Ultimate;100000;240;INVALID;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/762x719.jpg/ff4444/ffffff
+5194152574;Food Colouring - Orange;100000;308;FR;FR-75;fr;Category 9;TVA 20%;A;http://dummyimage.com/642x667.png/5fa2dd/ffffff
+7154852477;Wine - Beringer Founders Estate;100000;35;FR|BE|IT;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/692x710.png/dddddd/000000
+2830028925;Jameson Irish Whiskey;100000;233;ALL;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/795x531.png/ff4444/ffffff
+1694707542;Veal - Loin;100000;268;FR|BE|IT;FR-01|FR-69;fr;Category 4;TVA 20%;A;http://dummyimage.com/690x671.jpg/dddddd/000000
+8009536497;Celery;100000;374;FR;UK;fr;Category 4;TVA 20%;A;http://dummyimage.com/569x455.bmp/cc0000/ffffff
+3938543608;Kellogs All Bran Bars;100000;101;FR-ARA;INVALID;fr;Category 4;TVA 20%;A;http://dummyimage.com/468x692.bmp/ff4444/ffffff
+1996257673;Coffee - Egg Nog Capuccino;100000;102;FR-ARA;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/590x478.bmp/cc0000/ffffff
+2216618719;Veal - Tenderloin, Untrimmed;100000;77;INVALID;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/587x715.bmp/5fa2dd/ffffff
+1693930877;Almonds Ground Blanched;100000;362;FR;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/515x766.jpg/5fa2dd/ffffff
+8602509770;Sauce - Oyster;100000;19;FR|IT;UK;fr;Category 2;TVA 20%;A;http://dummyimage.com/409x591.jpg/5fa2dd/ffffff
+5465463029;Lobster - Tail, 3 - 4 Oz;100000;123;FR;FR-ARA|FR-IDF;fr;Category 2;TVA 20%;A;http://dummyimage.com/575x586.jpg/ff4444/ffffff
+3240868334;Appetizer - Assorted Box;100000;372;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/710x674.bmp/cc0000/ffffff
+9753777842;Quail Eggs - Canned;100000;321;FR|BE|IT;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/681x550.png/5fa2dd/ffffff
+9981339880;Cheese - Romano, Grated;100000;66;FR;FR-01|FR-69;fr;Category 8;TVA 20%;A;http://dummyimage.com/718x572.png/5fa2dd/ffffff
+7126955487;Nut - Almond, Blanched, Ground;100000;242;FR-ARA;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/693x768.jpg/ff4444/ffffff
+1628528339;Pastry - Butterscotch Baked;100000;176;INVALID;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/450x573.png/cc0000/ffffff
+441854995;Artichokes - Knobless, White;100000;223;FR;UK;fr;Category 7;TVA 20%;A;http://dummyimage.com/723x500.bmp/dddddd/000000
+3621703431;Halibut - Steaks;100000;375;INVALID;FR-ARA|FR-IDF;fr;Category 5;TVA 20%;A;http://dummyimage.com/595x794.bmp/cc0000/ffffff
+5115601094;Oranges;100000;112;FR|IT;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/785x657.bmp/cc0000/ffffff
+7891452863;Island Oasis - Mango Daiquiri;100000;73;FR|IT;INVALID;fr;Category 9;TVA 20%;A;http://dummyimage.com/537x785.bmp/5fa2dd/ffffff
+2021592717;Juice - Orange, Concentrate;100000;35;FR;IT|BE;fr;Category 9;TVA 20%;A;http://dummyimage.com/539x719.jpg/5fa2dd/ffffff
+9619432552;Chocolate Eclairs;100000;110;FR|BE|IT;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/793x782.png/ff4444/ffffff
+5585210548;Raisin - Dark;100000;346;ALL;INVALID;fr;Category 2;TVA 20%;A;http://dummyimage.com/545x798.jpg/dddddd/000000
+7597398362;V8 - Berry Blend;100000;235;FR|IT;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/428x694.jpg/cc0000/ffffff
+1139940415;Peppercorns - Green;100000;48;FR-IDF;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/547x721.png/5fa2dd/ffffff
+9582044060;Rice - 7 Grain Blend;100000;213;ALL;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/615x555.png/5fa2dd/ffffff
+2026969003;Spice - Greek 1 Step;100000;159;FR-ARA;IT|BE;fr;Category 5;TVA 20%;A;http://dummyimage.com/785x440.png/cc0000/ffffff
+7407234429;Cakes Assorted;100000;215;FR-IDF;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/450x743.bmp/cc0000/ffffff
+9328815600;Pork - Smoked Back Bacon;100000;27;FR;FR-01|FR-69;fr;Category 4;TVA 20%;A;http://dummyimage.com/652x689.jpg/ff4444/ffffff
+8985593626;Wine - Cotes Du Rhone;100000;155;FR|IT;FR-75;fr;Category 4;TVA 20%;A;http://dummyimage.com/529x501.png/5fa2dd/ffffff
+6983981239;Soup - Beef, Base Mix;100000;40;FR-IDF;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/432x716.bmp/cc0000/ffffff
+961158181;Onions - Pearl;100000;81;FR|BE|IT;IT|BE;fr;Category 8;TVA 20%;A;http://dummyimage.com/640x654.png/cc0000/ffffff
+9301893623;Wine - White Cab Sauv.on;100000;17;FR|BE|IT;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/478x703.bmp/cc0000/ffffff
+1976201491;Pasta - Canelloni, Single Serve;100000;271;ALL;UK;fr;Category 8;TVA 20%;A;http://dummyimage.com/593x585.jpg/ff4444/ffffff
+1494282339;Syrup - Chocolate;100000;35;INVALID;IT|BE;fr;Category 6;TVA 20%;A;http://dummyimage.com/501x669.bmp/5fa2dd/ffffff
+5203519366;Muffin Puck Ww Carrot;100000;330;FR-IDF;FR-ARA|FR-IDF;fr;Category 7;TVA 20%;A;http://dummyimage.com/522x498.jpg/cc0000/ffffff
+7612792144;Lid - 10,12,16 Oz;100000;41;FR|IT;INVALID;fr;Category 8;TVA 20%;A;http://dummyimage.com/788x604.jpg/ff4444/ffffff
+640307261;Wine - Jackson Triggs Okonagan;100000;4;FR|BE|IT;INVALID;fr;Category 9;TVA 20%;A;http://dummyimage.com/459x546.jpg/dddddd/000000
+267222512;Tomatoes - Vine Ripe, Yellow;100000;293;INVALID;IT|BE;fr;Category 5;TVA 20%;A;http://dummyimage.com/463x788.jpg/5fa2dd/ffffff
+2191059305;Mushroom Morel Fresh;100000;353;INVALID;FR-ARA|FR-IDF;fr;Category 5;TVA 20%;A;http://dummyimage.com/493x420.jpg/cc0000/ffffff
+7053340976;Grapefruit - Pink;100000;244;FR|BE|IT;FR-75;fr;Category 9;TVA 20%;A;http://dummyimage.com/537x749.bmp/5fa2dd/ffffff
+9517614929;Carrots - Mini, Stem On;100000;48;FR-IDF;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/471x424.jpg/5fa2dd/ffffff
+1964919515;Puree - Strawberry;100000;183;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 2;TVA 20%;A;http://dummyimage.com/692x510.png/dddddd/000000
+7943972960;Potatoes - Purple, Organic;100000;147;FR|IT;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/734x653.png/cc0000/ffffff
+8030004501;Brandy - Orange, Mc Guiness;100000;247;INVALID;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/599x591.jpg/ff4444/ffffff
+5421794447;Red Snapper - Fresh, Whole;100000;107;ALL;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/501x751.jpg/ff4444/ffffff
+6623304225;Lamb Shoulder Boneless Nz;100000;16;FR-IDF;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/567x481.png/ff4444/ffffff
+3506207287;Eel Fresh;100000;340;FR-IDF;FR-ARA|FR-IDF;fr;Category 8;TVA 20%;A;http://dummyimage.com/608x774.png/dddddd/000000
+7566269688;Cocoa Feuilletine;100000;290;FR-ARA;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/434x698.jpg/dddddd/000000
+2999964027;Lid Tray - 16in Dome;100000;223;FR;IT|BE;fr;Category 8;TVA 20%;A;http://dummyimage.com/750x597.png/dddddd/000000
+9479777080;Lamb Rack Frenched Australian;100000;334;FR;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/558x447.png/5fa2dd/ffffff
+5648906313;Soup - Knorr, Country Bean;100000;300;INVALID;UK;fr;Category 4;TVA 20%;A;http://dummyimage.com/795x549.jpg/cc0000/ffffff
+8765292472;Potatoes - Yukon Gold 5 Oz;100000;365;ALL;FR-75;fr;Category 9;TVA 20%;A;http://dummyimage.com/736x579.jpg/dddddd/000000
+4653446057;Wine - Taylors Reserve;100000;171;FR|IT;IT|BE;fr;Category 0;TVA 20%;A;http://dummyimage.com/652x491.jpg/ff4444/ffffff
+7098343521;Bread - English Muffin;100000;206;FR|BE|IT;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/444x711.bmp/dddddd/000000
+3750862932;Water - Spring Water, 355 Ml;100000;231;INVALID;IT|BE;fr;Category 6;TVA 20%;A;http://dummyimage.com/603x717.jpg/5fa2dd/ffffff
+1475101247;Beef - Baby, Liver;100000;384;FR;FR-75;fr;Category 1;TVA 20%;A;http://dummyimage.com/631x737.png/ff4444/ffffff
+9584214240;Wine - Red, Lurton Merlot De;100000;178;FR;INVALID;fr;Category 6;TVA 20%;A;http://dummyimage.com/545x531.png/cc0000/ffffff
+7975380108;Ecolab - Solid Fusion;100000;214;FR|BE|IT;FR-75;fr;Category 5;TVA 20%;A;http://dummyimage.com/767x783.bmp/ff4444/ffffff
+1275786246;Tea - Jasmin Green;100000;2;FR|BE|IT;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/474x465.bmp/cc0000/ffffff
+2381936943;Sprouts Dikon;100000;221;FR-IDF;FR-75;fr;Category 5;TVA 20%;A;http://dummyimage.com/765x782.bmp/cc0000/ffffff
+6950623978;Cattail Hearts;100000;157;FR-IDF;UK;fr;Category 4;TVA 20%;A;http://dummyimage.com/424x509.bmp/cc0000/ffffff
+2002918771;Sambuca Cream;100000;246;FR;UK;fr;Category 4;TVA 20%;A;http://dummyimage.com/559x766.png/dddddd/000000
+1299231171;Bread Sour Rolls;100000;234;FR;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/633x752.bmp/ff4444/ffffff
+9331593161;Soup - Campbells, Creamy;100000;268;FR|IT;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/602x711.bmp/5fa2dd/ffffff
+9048685353;Beer - Blue;100000;335;FR-IDF;INVALID;fr;Category 2;TVA 20%;A;http://dummyimage.com/518x611.jpg/ff4444/ffffff
+8898390907;Wine - Rubyport;100000;334;FR;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/704x679.bmp/ff4444/ffffff
+4649645175;Wine - Prosecco Valdobienne;100000;304;FR;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/410x675.bmp/cc0000/ffffff
+8382354569;Cheese - Parmesan Cubes;100000;75;FR-IDF;FR-75;fr;Category 4;TVA 20%;A;http://dummyimage.com/466x726.jpg/ff4444/ffffff
+4142864925;Mop Head - Cotton, 24 Oz;100000;206;FR|IT;INVALID;fr;Category 8;TVA 20%;A;http://dummyimage.com/509x556.png/dddddd/000000
+8084413080;Muffin Mix - Blueberry;100000;306;FR-IDF;IT|BE;fr;Category 0;TVA 20%;A;http://dummyimage.com/540x530.jpg/dddddd/000000
+5629350493;Pie Filling - Pumpkin;100000;242;ALL;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/721x685.bmp/ff4444/ffffff
+46442512;Tuna - Yellowfin;100000;400;FR-IDF;FR-ARA|FR-IDF;fr;Category 0;TVA 20%;A;http://dummyimage.com/446x657.png/cc0000/ffffff
+275486212;Teriyaki Sauce;100000;250;INVALID;FR-ARA|FR-IDF;fr;Category 6;TVA 20%;A;http://dummyimage.com/796x711.jpg/dddddd/000000
+3290538786;Everfresh Products;100000;226;FR-IDF;IT|BE;fr;Category 7;TVA 20%;A;http://dummyimage.com/571x785.png/cc0000/ffffff
+8144246988;Pork - Backs - Boneless;100000;316;INVALID;IT|BE;fr;Category 4;TVA 20%;A;http://dummyimage.com/784x537.png/dddddd/000000
+9572833563;Piping - Bags Quizna;100000;198;FR-IDF;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/495x412.bmp/cc0000/ffffff
+2135340453;Cherries - Frozen;100000;399;FR-ARA;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/737x473.png/cc0000/ffffff
+1307489656;Fish - Halibut, Cold Smoked;100000;70;FR-IDF;FR-ARA|FR-IDF;fr;Category 8;TVA 20%;A;http://dummyimage.com/775x778.jpg/dddddd/000000
+6413607563;Cheese - Brick With Onion;100000;113;INVALID;UK;fr;Category 4;TVA 20%;A;http://dummyimage.com/635x646.jpg/5fa2dd/ffffff
+286605981;Veal - Insides, Grains;100000;257;FR|BE|IT;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/757x707.png/cc0000/ffffff
+720937131;Filling - Mince Meat;100000;80;FR-IDF;INVALID;fr;Category 7;TVA 20%;A;http://dummyimage.com/479x602.bmp/5fa2dd/ffffff
+7339099931;Sprouts - Baby Pea Tendrils;100000;78;INVALID;IT|BE;fr;Category 2;TVA 20%;A;http://dummyimage.com/722x735.jpg/cc0000/ffffff
+2492036281;Lobster - Baby, Boiled;100000;235;INVALID;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/692x535.jpg/dddddd/000000
+3140241874;Flour - Teff;100000;295;FR-IDF;INVALID;fr;Category 9;TVA 20%;A;http://dummyimage.com/783x702.png/cc0000/ffffff
+8011544888;Parasol Pick Stir Stick;100000;315;FR;FR-01|FR-69;fr;Category 2;TVA 20%;A;http://dummyimage.com/721x489.jpg/cc0000/ffffff
+4543250750;Wine - Savigny - Les - Beaune;100000;98;FR|IT;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/735x794.png/5fa2dd/ffffff
+4092075508;Shallots;100000;26;FR|BE|IT;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/730x671.png/ff4444/ffffff
+4603095174;Soup Bowl Clear 8oz92008;100000;82;FR;IT|BE;fr;Category 0;TVA 20%;A;http://dummyimage.com/433x474.jpg/dddddd/000000
+8862277603;Cherries - Fresh;100000;204;ALL;FR-ARA|FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/775x431.png/dddddd/000000
+2201908262;Vaccum Bag 10x13;100000;11;FR|BE|IT;FR-01|FR-69;fr;Category 2;TVA 20%;A;http://dummyimage.com/420x488.jpg/dddddd/000000
+4012423167;Sugar - Sweet N Low, Individual;100000;195;INVALID;FR-ARA|FR-IDF;fr;Category 2;TVA 20%;A;http://dummyimage.com/705x529.jpg/dddddd/000000
+1927513200;Bread Base - Gold Formel;100000;293;FR-ARA;INVALID;fr;Category 0;TVA 20%;A;http://dummyimage.com/507x726.jpg/5fa2dd/ffffff
+1858567564;Sunflower Seed Raw;100000;109;FR-ARA;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/621x583.bmp/dddddd/000000
+918801135;Bread - 10 Grain;100000;245;FR|BE|IT;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/434x790.bmp/dddddd/000000
+1007369089;Beef - Cow Feet Split;100000;4;ALL;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/670x569.jpg/5fa2dd/ffffff
+4704860075;Absolut Citron;100000;140;ALL;FR-01|FR-69;fr;Category 2;TVA 20%;A;http://dummyimage.com/419x436.png/ff4444/ffffff
+5578865857;Otomegusa Dashi Konbu;100000;330;FR;FR-75;fr;Category 4;TVA 20%;A;http://dummyimage.com/666x722.png/ff4444/ffffff
+3233557957;Beef - Bresaola;100000;165;FR;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/485x707.jpg/cc0000/ffffff
+6980906409;Lettuce - Boston Bib - Organic;100000;326;INVALID;IT|BE;fr;Category 4;TVA 20%;A;http://dummyimage.com/438x483.bmp/5fa2dd/ffffff
+9947910034;Mousse - Banana Chocolate;100000;82;FR|IT;IT|BE;fr;Category 6;TVA 20%;A;http://dummyimage.com/420x410.bmp/5fa2dd/ffffff
+4358987690;Honey - Liquid;100000;195;FR-ARA;INVALID;fr;Category 7;TVA 20%;A;http://dummyimage.com/607x404.bmp/ff4444/ffffff
+6612696416;Cake - Box Window 10x10x2.5;100000;102;FR|IT;FR-75;fr;Category 7;TVA 20%;A;http://dummyimage.com/561x452.bmp/5fa2dd/ffffff
+188953476;Beef - Top Sirloin;100000;212;ALL;UK;fr;Category 6;TVA 20%;A;http://dummyimage.com/718x574.png/ff4444/ffffff
+9801976030;Arizona - Plum Green Tea;100000;274;FR;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/722x463.png/5fa2dd/ffffff
+864385734;Cookies - Fortune;100000;350;FR;FR-ARA|FR-IDF;fr;Category 9;TVA 20%;A;http://dummyimage.com/514x494.bmp/5fa2dd/ffffff
+7849026268;Bread - Wheat Baguette;100000;56;FR;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/631x418.bmp/ff4444/ffffff
+1295356564;Puree - Raspberry;100000;102;FR-ARA;FR-75;fr;Category 4;TVA 20%;A;http://dummyimage.com/743x551.png/ff4444/ffffff
+1335324184;Syrup - Kahlua Chocolate;100000;171;INVALID;IT|BE;fr;Category 9;TVA 20%;A;http://dummyimage.com/456x696.jpg/cc0000/ffffff
+857738162;Mix - Cocktail Strawberry Daiquiri;100000;228;INVALID;UK;fr;Category 3;TVA 20%;A;http://dummyimage.com/425x405.jpg/dddddd/000000
+3138970623;Sour Puss Raspberry;100000;62;FR-IDF;IT|BE;fr;Category 0;TVA 20%;A;http://dummyimage.com/572x633.jpg/ff4444/ffffff
+1918736055;Bay Leaf Fresh;100000;41;FR-ARA;INVALID;fr;Category 8;TVA 20%;A;http://dummyimage.com/536x665.bmp/dddddd/000000
+9213395809;Crush - Grape, 355 Ml;100000;84;FR-IDF;FR-75;fr;Category 0;TVA 20%;A;http://dummyimage.com/796x497.jpg/5fa2dd/ffffff
+9696751760;Roe - Flying Fish;100000;351;FR;INVALID;fr;Category 4;TVA 20%;A;http://dummyimage.com/674x584.bmp/dddddd/000000
+4567563224;Goldschalger;100000;76;INVALID;FR-75;fr;Category 6;TVA 20%;A;http://dummyimage.com/516x403.png/ff4444/ffffff
+815936497;Crab - Meat;100000;104;FR-ARA;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/407x506.jpg/ff4444/ffffff
+3391439779;Veal - Osso Bucco;100000;167;FR-IDF;FR-75;fr;Category 4;TVA 20%;A;http://dummyimage.com/770x710.png/dddddd/000000
+3392940405;Fiddlehead - Frozen;100000;333;INVALID;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/611x672.jpg/dddddd/000000
+8211660050;Cocktail Napkin Blue;100000;138;INVALID;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/665x660.png/5fa2dd/ffffff
+5697382057;Salami - Genova;100000;195;FR-ARA;INVALID;fr;Category 2;TVA 20%;A;http://dummyimage.com/731x550.jpg/dddddd/000000
+353440838;Appetiser - Bought;100000;291;FR|IT;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/693x441.bmp/cc0000/ffffff
+9708291746;Chips Potato Swt Chilli Sour;100000;281;FR-ARA;FR-ARA|FR-IDF;fr;Category 8;TVA 20%;A;http://dummyimage.com/512x677.png/cc0000/ffffff
+9978511359;Buffalo - Short Rib Fresh;100000;318;FR|IT;FR-01|FR-69;fr;Category 7;TVA 20%;A;http://dummyimage.com/427x523.png/5fa2dd/ffffff
+6769834707;Beef - Baby, Liver;100000;90;FR|BE|IT;FR-75;fr;Category 1;TVA 20%;A;http://dummyimage.com/544x616.png/5fa2dd/ffffff
+7588442870;Poppy Seed;100000;277;INVALID;FR-75;fr;Category 6;TVA 20%;A;http://dummyimage.com/465x539.bmp/cc0000/ffffff
+9174222840;Wine - Alsace Riesling Reserve;100000;135;FR-ARA;FR-ARA|FR-IDF;fr;Category 5;TVA 20%;A;http://dummyimage.com/717x441.jpg/ff4444/ffffff
+5514770385;Milk 2% 500 Ml;100000;94;FR-ARA;IT|BE;fr;Category 7;TVA 20%;A;http://dummyimage.com/579x513.jpg/dddddd/000000
+9025667816;Nut - Macadamia;100000;213;FR|IT;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/696x548.jpg/dddddd/000000
+6256111572;Yukon Jack;100000;121;FR;FR-01|FR-69;fr;Category 9;TVA 20%;A;http://dummyimage.com/400x473.jpg/cc0000/ffffff
+7231301004;Wine - Red, Lurton Merlot De;100000;305;FR;UK;fr;Category 5;TVA 20%;A;http://dummyimage.com/438x537.bmp/cc0000/ffffff
+3576261830;Pineapple - Golden;100000;216;FR;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/618x739.png/ff4444/ffffff
+1775256539;Spinach - Frozen;100000;360;INVALID;IT|BE;fr;Category 0;TVA 20%;A;http://dummyimage.com/573x461.png/5fa2dd/ffffff
+3322140337;Beef - Eye Of Round;100000;270;FR-IDF;FR-01|FR-69;fr;Category 4;TVA 20%;A;http://dummyimage.com/424x649.bmp/5fa2dd/ffffff
+526578302;Artichoke - Fresh;100000;163;FR|BE|IT;FR-01|FR-69;fr;Category 7;TVA 20%;A;http://dummyimage.com/670x466.png/dddddd/000000
+7531820963;Currants;100000;158;INVALID;UK;fr;Category 8;TVA 20%;A;http://dummyimage.com/435x564.png/5fa2dd/ffffff
+6372227001;Crackers - Trio;100000;326;INVALID;UK;fr;Category 6;TVA 20%;A;http://dummyimage.com/738x730.bmp/cc0000/ffffff
+5842776200;Beer - Labatt Blue;100000;354;FR-ARA;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/592x468.png/dddddd/000000
+9476917517;Bagel - 12 Grain Preslice;100000;197;FR|IT;FR-ARA|FR-IDF;fr;Category 8;TVA 20%;A;http://dummyimage.com/462x652.png/5fa2dd/ffffff
+4855812661;Lettuce - Baby Salad Greens;100000;68;INVALID;UK;fr;Category 6;TVA 20%;A;http://dummyimage.com/498x555.jpg/cc0000/ffffff
+5914118231;Longos - Greek Salad;100000;400;FR-ARA;INVALID;fr;Category 4;TVA 20%;A;http://dummyimage.com/681x771.bmp/ff4444/ffffff
+330332039;Cheese - Gouda Smoked;100000;241;FR;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/593x713.jpg/5fa2dd/ffffff
+2413617752;Ostrich - Fan Fillet;100000;338;FR;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/628x645.bmp/5fa2dd/ffffff
+1810487799;Sprouts - Baby Pea Tendrils;100000;119;FR-ARA;FR-01|FR-69;fr;Category 7;TVA 20%;A;http://dummyimage.com/437x575.jpg/ff4444/ffffff
+1766948543;Pasta - Spaghetti, Dry;100000;198;FR;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/456x629.bmp/5fa2dd/ffffff
+5837020685;Garlic Powder;100000;353;ALL;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/416x671.bmp/ff4444/ffffff
+1216073910;Oil - Shortening,liqud, Fry;100000;123;INVALID;FR-75;fr;Category 5;TVA 20%;A;http://dummyimage.com/735x428.png/cc0000/ffffff
+9031666749;Sauce - Ranch Dressing;100000;286;INVALID;FR-ARA|FR-IDF;fr;Category 1;TVA 20%;A;http://dummyimage.com/696x529.bmp/cc0000/ffffff
+2285111432;Pork - Belly Fresh;100000;388;INVALID;FR-ARA|FR-IDF;fr;Category 6;TVA 20%;A;http://dummyimage.com/762x438.bmp/dddddd/000000
+7516167986;Beef - Bones, Cut - Up;100000;34;FR-IDF;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/420x584.png/cc0000/ffffff
+76309870;Chocolate - Milk;100000;85;FR;FR-ARA|FR-IDF;fr;Category 2;TVA 20%;A;http://dummyimage.com/769x456.png/cc0000/ffffff
+5423883642;Pasta - Penne, Rigate, Dry;100000;61;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/568x716.jpg/5fa2dd/ffffff
+7793697867;Watercress;100000;323;ALL;FR-75;fr;Category 6;TVA 20%;A;http://dummyimage.com/635x677.jpg/5fa2dd/ffffff
+9536685996;Garbag Bags - Black;100000;317;INVALID;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/520x798.png/ff4444/ffffff
+5117423175;Wine - Hardys Bankside Shiraz;100000;109;INVALID;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/747x425.bmp/cc0000/ffffff
+1278179485;Mints - Striped Red;100000;119;FR;FR-ARA|FR-IDF;fr;Category 5;TVA 20%;A;http://dummyimage.com/645x527.png/dddddd/000000
+9190964862;Cake Slab;100000;126;ALL;INVALID;fr;Category 7;TVA 20%;A;http://dummyimage.com/792x690.bmp/cc0000/ffffff
+3402200073;Chocolate - Chips Compound;100000;311;FR-ARA;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/526x664.jpg/cc0000/ffffff
+5239528690;Bread Base - Goodhearth;100000;350;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/574x442.jpg/dddddd/000000
+1675446382;Oregano - Fresh;100000;217;FR;UK;fr;Category 7;TVA 20%;A;http://dummyimage.com/529x587.bmp/cc0000/ffffff
+9845910297;Scrubbie - Scotchbrite Hand Pad;100000;296;ALL;FR-ARA|FR-IDF;fr;Category 1;TVA 20%;A;http://dummyimage.com/683x488.png/ff4444/ffffff
+4350845130;Dikon;100000;119;FR;UK;fr;Category 2;TVA 20%;A;http://dummyimage.com/404x693.bmp/5fa2dd/ffffff
+9966363231;Red Snapper - Fillet, Skin On;100000;360;FR-IDF;INVALID;fr;Category 8;TVA 20%;A;http://dummyimage.com/471x527.png/cc0000/ffffff
+9358555994;Irish Cream - Baileys;100000;145;FR;FR-01|FR-69;fr;Category 8;TVA 20%;A;http://dummyimage.com/532x494.png/cc0000/ffffff
+589510952;Bulgar;100000;339;FR;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/588x456.bmp/dddddd/000000
+6152486945;Rice Paper;100000;7;FR-IDF;INVALID;fr;Category 7;TVA 20%;A;http://dummyimage.com/478x481.bmp/ff4444/ffffff
+3618628117;Wine - White, Gewurtzraminer;100000;252;INVALID;FR-ARA|FR-IDF;fr;Category 0;TVA 20%;A;http://dummyimage.com/767x510.bmp/dddddd/000000
+8562217531;Maintenance Removal Charge;100000;339;ALL;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/410x612.jpg/ff4444/ffffff
+8185360395;Thyme - Fresh;100000;122;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 6;TVA 20%;A;http://dummyimage.com/481x678.jpg/cc0000/ffffff
+453163419;Carbonated Water - Raspberry;100000;374;FR-IDF;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/493x400.png/cc0000/ffffff
+4952390381;Cake Sheet Combo Party Pack;100000;395;FR;INVALID;fr;Category 4;TVA 20%;A;http://dummyimage.com/626x671.bmp/dddddd/000000
+9775180434;Pate - Peppercorn;100000;151;FR-IDF;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/463x440.bmp/cc0000/ffffff
+126962010;Table Cloth 90x90 White;100000;116;FR-IDF;UK;fr;Category 8;TVA 20%;A;http://dummyimage.com/401x587.png/dddddd/000000
+9792603684;Chocolate - Mi - Amere Semi;100000;240;ALL;FR-ARA|FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/600x474.bmp/5fa2dd/ffffff
+1839456577;Mushroom - Morel Frozen;100000;17;FR|IT;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/661x481.png/cc0000/ffffff
+6080079562;Carbonated Water - White Grape;100000;395;FR-ARA;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/729x578.jpg/ff4444/ffffff
+4297821493;Wine - White, Ej;100000;223;FR|IT;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/439x532.bmp/5fa2dd/ffffff
+3498297890;Garbag Bags - Black;100000;142;FR;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/795x735.bmp/ff4444/ffffff
+5032110528;Walkers Special Old Whiskey;100000;146;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 5;TVA 20%;A;http://dummyimage.com/728x552.bmp/dddddd/000000
+6910269320;Wine - Peller Estates Late;100000;250;INVALID;INVALID;fr;Category 6;TVA 20%;A;http://dummyimage.com/731x505.jpg/5fa2dd/ffffff
+1633423101;Rice - Basmati;100000;31;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/638x459.jpg/5fa2dd/ffffff
+7086572967;Fib N9 - Prague Powder;100000;12;FR|BE|IT;FR-01|FR-69;fr;Category 4;TVA 20%;A;http://dummyimage.com/687x523.bmp/5fa2dd/ffffff
+8957181432;Water - San Pellegrino;100000;260;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 1;TVA 20%;A;http://dummyimage.com/422x658.bmp/cc0000/ffffff
+8330058014;Sun - Dried Tomatoes;100000;332;ALL;FR-01|FR-69;fr;Category 2;TVA 20%;A;http://dummyimage.com/783x610.bmp/5fa2dd/ffffff
+7559540148;Piping - Bags Quizna;100000;197;INVALID;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/540x700.jpg/cc0000/ffffff
+5758031021;Bread - White Epi Baguette;100000;337;FR-IDF;IT|BE;fr;Category 9;TVA 20%;A;http://dummyimage.com/762x618.png/dddddd/000000
+9900732805;Beef - Tongue, Cooked;100000;189;INVALID;UK;fr;Category 8;TVA 20%;A;http://dummyimage.com/643x630.png/ff4444/ffffff
+3781763680;Wine - Gewurztraminer Pierre;100000;3;FR-IDF;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/720x429.bmp/5fa2dd/ffffff
+2020484771;Toamtoes 6x7 Select;100000;73;FR;IT|BE;fr;Category 6;TVA 20%;A;http://dummyimage.com/445x517.png/ff4444/ffffff
+6452554718;Veal - Ground;100000;283;FR|IT;FR-75;fr;Category 6;TVA 20%;A;http://dummyimage.com/705x609.png/cc0000/ffffff
+7171008498;Squid - Breaded;100000;350;FR;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/690x469.png/ff4444/ffffff
+5887416509;Napkin White;100000;351;ALL;FR-01|FR-69;fr;Category 4;TVA 20%;A;http://dummyimage.com/754x466.png/5fa2dd/ffffff
+7375098553;Cheese Cloth No 60;100000;374;FR|IT;FR-75;fr;Category 4;TVA 20%;A;http://dummyimage.com/471x741.png/dddddd/000000
+3858010258;Mushrooms - Honey;100000;124;INVALID;UK;fr;Category 6;TVA 20%;A;http://dummyimage.com/447x438.jpg/dddddd/000000
+837548936;Toamtoes 6x7 Select;100000;398;ALL;FR-ARA|FR-IDF;fr;Category 2;TVA 20%;A;http://dummyimage.com/451x527.jpg/cc0000/ffffff
+3792485370;Wine - Red, Wolf Blass, Yellow;100000;342;FR|BE|IT;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/612x691.bmp/cc0000/ffffff
+4730152075;Sour Puss Raspberry;100000;247;ALL;INVALID;fr;Category 9;TVA 20%;A;http://dummyimage.com/582x622.jpg/5fa2dd/ffffff
+4158230388;Parsnip;100000;308;FR;INVALID;fr;Category 0;TVA 20%;A;http://dummyimage.com/453x467.bmp/ff4444/ffffff
+6808699534;Bread - Multigrain;100000;387;FR|IT;IT|BE;fr;Category 6;TVA 20%;A;http://dummyimage.com/415x739.png/dddddd/000000
+6898915796;Bulgar;100000;114;FR-ARA;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/505x442.png/ff4444/ffffff
+6189606580;Kiwi;100000;213;FR|IT;FR-ARA|FR-IDF;fr;Category 8;TVA 20%;A;http://dummyimage.com/690x429.jpg/ff4444/ffffff
+5544020070;Numi - Assorted Teas;100000;149;INVALID;FR-01|FR-69;fr;Category 7;TVA 20%;A;http://dummyimage.com/741x662.jpg/dddddd/000000
+5911807387;Plastic Arrow Stir Stick;100000;189;FR;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/580x739.jpg/ff4444/ffffff
+4019194724;Cake - Cheese Cake 9 Inch;100000;284;FR-ARA;INVALID;fr;Category 7;TVA 20%;A;http://dummyimage.com/436x622.bmp/dddddd/000000
+18605879;Wine - Balbach Riverside;100000;349;FR-ARA;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/501x794.jpg/5fa2dd/ffffff
+1728887651;Devonshire Cream;100000;337;FR;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/504x501.png/ff4444/ffffff
+3590653944;Strawberries - California;100000;186;FR-ARA;IT|BE;fr;Category 0;TVA 20%;A;http://dummyimage.com/782x526.png/5fa2dd/ffffff
+9376847340;Spice - Pepper Portions;100000;64;ALL;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/419x753.png/cc0000/ffffff
+1016398614;Bagel - Whole White Sesame;100000;185;FR-ARA;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/646x684.png/cc0000/ffffff
+3105768711;White Fish - Filets;100000;76;FR-ARA;FR-ARA|FR-IDF;fr;Category 6;TVA 20%;A;http://dummyimage.com/417x473.jpg/dddddd/000000
+2792793991;Tomatoes - Vine Ripe, Yellow;100000;172;ALL;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/588x616.bmp/ff4444/ffffff
+8151097872;Iced Tea - Lemon, 340ml;100000;86;INVALID;FR-ARA|FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/797x431.jpg/ff4444/ffffff
+1357826228;Ecolab - Medallion;100000;205;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 6;TVA 20%;A;http://dummyimage.com/481x483.png/ff4444/ffffff
+4405277886;Bread - Dark Rye, Loaf;100000;17;FR;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/555x664.bmp/dddddd/000000
+5540608657;Green Scrubbie Pad H.duty;100000;82;FR-ARA;INVALID;fr;Category 7;TVA 20%;A;http://dummyimage.com/457x677.jpg/dddddd/000000
+2667883293;Barramundi;100000;184;FR-IDF;INVALID;fr;Category 4;TVA 20%;A;http://dummyimage.com/432x447.jpg/dddddd/000000
+9894718460;Cinnamon Rolls;100000;144;FR-IDF;UK;fr;Category 4;TVA 20%;A;http://dummyimage.com/403x405.jpg/ff4444/ffffff
+8876719723;Nut - Almond, Blanched, Sliced;100000;58;INVALID;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/497x696.jpg/ff4444/ffffff
+8492316520;Kellogs All Bran Bars;100000;365;INVALID;FR-ARA|FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/467x602.jpg/dddddd/000000
+1177074010;Bagelers - Cinn / Brown Sugar;100000;83;INVALID;FR-75;fr;Category 7;TVA 20%;A;http://dummyimage.com/774x640.bmp/5fa2dd/ffffff
+4491123546;Soup - Campbells Pasta Fagioli;100000;27;FR;FR-75;fr;Category 1;TVA 20%;A;http://dummyimage.com/540x607.png/ff4444/ffffff
+8783443485;Tarragon - Primerba, Paste;100000;195;FR|IT;FR-ARA|FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/787x754.png/dddddd/000000
+7559055584;Propel Sport Drink;100000;329;FR;FR-ARA|FR-IDF;fr;Category 9;TVA 20%;A;http://dummyimage.com/668x464.bmp/dddddd/000000
+4963319250;Rice Wine - Aji Mirin;100000;394;INVALID;FR-ARA|FR-IDF;fr;Category 8;TVA 20%;A;http://dummyimage.com/766x446.jpg/5fa2dd/ffffff
+7192412221;Crab - Back Fin Meat, Canned;100000;245;FR-ARA;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/736x601.png/5fa2dd/ffffff
+4925250644;Pepper - White, Whole;100000;236;FR;FR-ARA|FR-IDF;fr;Category 7;TVA 20%;A;http://dummyimage.com/694x486.png/ff4444/ffffff
+800453656;Breadfruit;100000;140;FR;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/718x542.jpg/ff4444/ffffff
+9296713991;Passion Fruit;100000;247;FR-ARA;INVALID;fr;Category 2;TVA 20%;A;http://dummyimage.com/659x590.png/dddddd/000000
+5072330585;Lettuce - Treviso;100000;211;FR-IDF;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/757x786.png/dddddd/000000
+611340996;Wine - Guy Sage Touraine;100000;334;FR|IT;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/611x618.bmp/ff4444/ffffff
+5379550546;Stock - Veal, White;100000;2;FR;INVALID;fr;Category 8;TVA 20%;A;http://dummyimage.com/410x713.bmp/cc0000/ffffff
+9255633151;Container - Clear 16 Oz;100000;255;INVALID;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/764x710.bmp/dddddd/000000
+8974818646;Skirt - 24 Foot;100000;137;INVALID;FR-01|FR-69;fr;Category 7;TVA 20%;A;http://dummyimage.com/709x791.jpg/ff4444/ffffff
+4509789285;Muffin Mix - Chocolate Chip;100000;308;FR-ARA;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/443x612.png/5fa2dd/ffffff
+2297980540;Wine - White, Riesling, Semi - Dry;100000;58;FR;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/629x478.bmp/ff4444/ffffff
+8906520108;Pepper - Red Chili;100000;122;FR-ARA;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/533x764.png/dddddd/000000
+2715198303;Orange - Tangerine;100000;287;FR|BE|IT;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/462x754.bmp/5fa2dd/ffffff
+5038132890;Lettuce - California Mix;100000;216;ALL;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/800x580.bmp/5fa2dd/ffffff
+5224934716;Artichoke - Hearts, Canned;100000;291;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/665x765.png/dddddd/000000
+2050764914;Scallops - Live In Shell;100000;2;INVALID;UK;fr;Category 7;TVA 20%;A;http://dummyimage.com/547x555.png/5fa2dd/ffffff
+3962576688;Cookie Double Choco;100000;294;FR;FR-75;fr;Category 9;TVA 20%;A;http://dummyimage.com/648x517.jpg/ff4444/ffffff
+6098319761;Pail For Lid 1537;100000;275;ALL;IT|BE;fr;Category 6;TVA 20%;A;http://dummyimage.com/509x543.bmp/ff4444/ffffff
+5384911766;Pork - Back Ribs;100000;125;FR-ARA;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/538x718.bmp/dddddd/000000
+252349713;Beans - Fava Fresh;100000;85;INVALID;FR-01|FR-69;fr;Category 9;TVA 20%;A;http://dummyimage.com/512x518.jpg/cc0000/ffffff
+2422693723;Cheese - Le Cru Du Clocher;100000;378;FR;IT|BE;fr;Category 5;TVA 20%;A;http://dummyimage.com/542x400.png/ff4444/ffffff
+8891309788;Soup - Campbells, Minestrone;100000;24;FR|IT;UK;fr;Category 3;TVA 20%;A;http://dummyimage.com/644x714.bmp/cc0000/ffffff
+6193709676;Veal - Tenderloin, Untrimmed;100000;155;ALL;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/441x547.bmp/cc0000/ffffff
+4943607032;Beets - Mini Golden;100000;391;FR|BE|IT;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/681x453.jpg/ff4444/ffffff
+7326109052;Crackers Cheez It;100000;47;ALL;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/632x790.bmp/dddddd/000000
+7853414184;Muffin - Mix - Bran And Maple 15l;100000;383;FR|BE|IT;FR-01|FR-69;fr;Category 9;TVA 20%;A;http://dummyimage.com/434x697.png/ff4444/ffffff
+2390072740;Durian Fruit;100000;360;INVALID;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/437x448.jpg/5fa2dd/ffffff
+1696212705;Pomello;100000;351;FR|IT;FR-ARA|FR-IDF;fr;Category 2;TVA 20%;A;http://dummyimage.com/531x469.jpg/cc0000/ffffff
+2021645105;Napkin - Cocktail,beige 2 - Ply;100000;13;FR|IT;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/684x685.bmp/dddddd/000000
+8933570050;Cranberries - Dry;100000;266;INVALID;INVALID;fr;Category 6;TVA 20%;A;http://dummyimage.com/712x701.jpg/5fa2dd/ffffff
+9652824510;Lamb Shoulder Boneless Nz;100000;78;INVALID;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/407x639.png/ff4444/ffffff
+2825180660;Mushroom - Crimini;100000;181;FR|BE|IT;UK;fr;Category 8;TVA 20%;A;http://dummyimage.com/500x771.jpg/dddddd/000000
+8812545467;Lychee;100000;177;FR-IDF;UK;fr;Category 5;TVA 20%;A;http://dummyimage.com/609x796.bmp/5fa2dd/ffffff
+1629658683;Cookie Dough - Peanut Butter;100000;361;ALL;FR-75;fr;Category 9;TVA 20%;A;http://dummyimage.com/419x673.jpg/cc0000/ffffff
+5670694192;Evaporated Milk - Skim;100000;285;FR|IT;FR-75;fr;Category 1;TVA 20%;A;http://dummyimage.com/448x413.png/dddddd/000000
+8719708275;Wine - Sauvignon Blanc;100000;142;ALL;FR-ARA|FR-IDF;fr;Category 6;TVA 20%;A;http://dummyimage.com/546x775.bmp/ff4444/ffffff
+4495887481;Coffee Decaf Colombian;100000;79;ALL;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/577x619.jpg/cc0000/ffffff
+9177127423;Sauce - Hollandaise;100000;56;INVALID;FR-ARA|FR-IDF;fr;Category 0;TVA 20%;A;http://dummyimage.com/464x422.bmp/5fa2dd/ffffff
+1292632198;Wine - White, Antinore Orvieto;100000;268;FR-ARA;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/419x443.bmp/ff4444/ffffff
+4786846042;Iced Tea - Lemon, 340ml;100000;266;FR;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/720x460.jpg/cc0000/ffffff
+8326660168;Burger Veggie;100000;55;FR|IT;FR-ARA|FR-IDF;fr;Category 8;TVA 20%;A;http://dummyimage.com/696x644.png/5fa2dd/ffffff
+260072663;Flower - Leather Leaf Fern;100000;281;FR-IDF;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/440x587.bmp/ff4444/ffffff
+8179851177;Cookies Almond Hazelnut;100000;265;FR|IT;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/641x640.jpg/ff4444/ffffff
+5802094201;Crackers - Graham;100000;290;INVALID;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/435x713.jpg/dddddd/000000
+4998290961;Steampan - Foil;100000;170;FR|IT;INVALID;fr;Category 0;TVA 20%;A;http://dummyimage.com/778x781.jpg/5fa2dd/ffffff
+4556463073;Canada Dry;100000;294;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 9;TVA 20%;A;http://dummyimage.com/671x407.jpg/ff4444/ffffff
+9169140996;Appetizer - Seafood Assortment;100000;216;FR|IT;IT|BE;fr;Category 8;TVA 20%;A;http://dummyimage.com/642x460.jpg/dddddd/000000
+416609792;Cognac - Courvaisier;100000;259;FR|IT;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/517x494.jpg/ff4444/ffffff
+1346106977;Cherries - Bing, Canned;100000;394;FR|BE|IT;FR-75;fr;Category 6;TVA 20%;A;http://dummyimage.com/681x485.bmp/5fa2dd/ffffff
+8029388896;Bread - Olive Dinner Roll;100000;117;ALL;FR-ARA|FR-IDF;fr;Category 7;TVA 20%;A;http://dummyimage.com/693x672.png/5fa2dd/ffffff
+9994266909;Veal - Round, Eye Of;100000;239;INVALID;FR-ARA|FR-IDF;fr;Category 9;TVA 20%;A;http://dummyimage.com/747x771.png/5fa2dd/ffffff
+7313353699;Pail - 4l White, With Handle;100000;79;INVALID;UK;fr;Category 6;TVA 20%;A;http://dummyimage.com/541x472.jpg/ff4444/ffffff
+6593607233;Turkey - Breast, Double;100000;348;FR|BE|IT;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/424x711.jpg/cc0000/ffffff
+6880836512;Table Cloth 144x90 White;100000;313;FR-IDF;FR-ARA|FR-IDF;fr;Category 1;TVA 20%;A;http://dummyimage.com/671x760.png/cc0000/ffffff
+6966550822;Banana - Green;100000;269;FR-ARA;FR-ARA|FR-IDF;fr;Category 2;TVA 20%;A;http://dummyimage.com/573x723.bmp/dddddd/000000
+9661437438;Wine - Dubouef Macon - Villages;100000;179;FR|IT;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/580x725.bmp/dddddd/000000
+7410147460;Muffin - Zero Transfat;100000;47;FR-IDF;UK;fr;Category 5;TVA 20%;A;http://dummyimage.com/723x458.png/cc0000/ffffff
+7591764253;Nut - Pine Nuts, Whole;100000;38;FR-IDF;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/517x474.jpg/dddddd/000000
+9409474556;Cheese - Cheddar, Old White;100000;125;FR-IDF;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/586x649.jpg/5fa2dd/ffffff
+860703775;Tea - Darjeeling, Azzura;100000;121;FR-IDF;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/655x757.bmp/ff4444/ffffff
+8982724049;Island Oasis - Mango Daiquiri;100000;322;FR-ARA;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/474x431.png/ff4444/ffffff
+8922842393;Cream - 18%;100000;291;FR|BE|IT;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/706x580.bmp/ff4444/ffffff
+1466839517;Beef - Bones, Marrow;100000;303;FR-ARA;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/738x758.png/dddddd/000000
+2969846613;Cherries - Bing, Canned;100000;308;FR|BE|IT;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/730x437.png/ff4444/ffffff
+822689633;Apple - Macintosh;100000;268;FR;FR-75;fr;Category 6;TVA 20%;A;http://dummyimage.com/553x424.bmp/ff4444/ffffff
+2350400345;Pepper - Red, Finger Hot;100000;103;FR-ARA;INVALID;fr;Category 9;TVA 20%;A;http://dummyimage.com/776x662.png/cc0000/ffffff
+8790912789;Rice - Basmati;100000;305;FR|BE|IT;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/590x570.bmp/ff4444/ffffff
+6035569482;Chinese Lemon Pork;100000;190;INVALID;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/722x500.png/cc0000/ffffff
+8008046398;Dill Weed - Dry;100000;17;FR;INVALID;fr;Category 0;TVA 20%;A;http://dummyimage.com/488x739.bmp/ff4444/ffffff
+8433840820;Oil - Grapeseed Oil;100000;212;FR|IT;FR-75;fr;Category 7;TVA 20%;A;http://dummyimage.com/436x439.bmp/cc0000/ffffff
+6842318478;Sour Puss Raspberry;100000;67;INVALID;UK;fr;Category 4;TVA 20%;A;http://dummyimage.com/749x446.jpg/dddddd/000000
+1330958358;Heavy Duty Dust Pan;100000;87;FR-IDF;INVALID;fr;Category 0;TVA 20%;A;http://dummyimage.com/495x517.bmp/dddddd/000000
+844150886;The Pop Shoppe - Lime Rickey;100000;212;INVALID;IT|BE;fr;Category 4;TVA 20%;A;http://dummyimage.com/707x412.png/cc0000/ffffff
+7673884871;Cocoa Powder - Natural;100000;151;INVALID;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/754x625.bmp/dddddd/000000
+7820270979;Cheese - Mozzarella, Shredded;100000;365;FR|IT;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/655x737.bmp/ff4444/ffffff
+8710598238;Island Oasis - Raspberry;100000;318;FR-IDF;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/462x643.bmp/dddddd/000000
+5409770065;Pepper - Chipotle, Canned;100000;309;FR|IT;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/469x696.png/dddddd/000000
+6288342234;Truffle Cups - White Paper;100000;264;FR|IT;IT|BE;fr;Category 2;TVA 20%;A;http://dummyimage.com/521x471.jpg/ff4444/ffffff
+925357481;Pail With Metal Handle 16l White;100000;156;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 0;TVA 20%;A;http://dummyimage.com/755x515.jpg/5fa2dd/ffffff
+6836613198;Cheese - Parmigiano Reggiano;100000;31;FR-IDF;FR-ARA|FR-IDF;fr;Category 1;TVA 20%;A;http://dummyimage.com/548x452.jpg/cc0000/ffffff
+8519367673;Pate - Cognac;100000;303;FR|IT;IT|BE;fr;Category 4;TVA 20%;A;http://dummyimage.com/509x523.png/cc0000/ffffff
+8342627225;Milkettes - 2%;100000;196;FR-IDF;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/691x499.png/cc0000/ffffff
+9025816513;Shrimp - 21/25, Peel And Deviened;100000;314;FR|BE|IT;UK;fr;Category 3;TVA 20%;A;http://dummyimage.com/530x786.png/ff4444/ffffff
+9705875933;Smirnoff Green Apple Twist;100000;15;ALL;FR-01|FR-69;fr;Category 2;TVA 20%;A;http://dummyimage.com/724x772.jpg/dddddd/000000
+5485355946;Turkey - Whole, Fresh;100000;27;FR|IT;FR-75;fr;Category 5;TVA 20%;A;http://dummyimage.com/693x529.jpg/5fa2dd/ffffff
+9766871737;Juice - V8 Splash;100000;196;FR|BE|IT;IT|BE;fr;Category 4;TVA 20%;A;http://dummyimage.com/549x414.bmp/ff4444/ffffff
+5527134464;Filling - Mince Meat;100000;239;ALL;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/676x699.bmp/ff4444/ffffff
+926803864;Quail - Jumbo Boneless;100000;391;FR-IDF;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/722x591.jpg/dddddd/000000
+3358733284;Wine - Magnotta - Cab Sauv;100000;260;ALL;IT|BE;fr;Category 7;TVA 20%;A;http://dummyimage.com/758x413.jpg/dddddd/000000
+7870657034;Syrup - Monin - Blue Curacao;100000;117;FR|IT;FR-ARA|FR-IDF;fr;Category 9;TVA 20%;A;http://dummyimage.com/517x775.png/dddddd/000000
+3121586215;Flour Pastry Super Fine;100000;7;INVALID;FR-75;fr;Category 5;TVA 20%;A;http://dummyimage.com/451x676.jpg/cc0000/ffffff
+3905337158;Soup - Campbellschix Stew;100000;64;FR-ARA;FR-ARA|FR-IDF;fr;Category 8;TVA 20%;A;http://dummyimage.com/426x642.bmp/5fa2dd/ffffff
+2555086800;Potatoes - Purple, Organic;100000;151;FR-IDF;UK;fr;Category 7;TVA 20%;A;http://dummyimage.com/799x518.bmp/dddddd/000000
+5660644777;Trout - Smoked;100000;272;FR;INVALID;fr;Category 7;TVA 20%;A;http://dummyimage.com/528x514.bmp/ff4444/ffffff
+7860438688;Pastry - Plain Baked Croissant;100000;338;ALL;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/539x626.jpg/5fa2dd/ffffff
+9883493206;Lotus Rootlets - Canned;100000;388;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 0;TVA 20%;A;http://dummyimage.com/630x448.png/dddddd/000000
+7238857447;Wine - Saint Emilion Calvet;100000;209;ALL;INVALID;fr;Category 7;TVA 20%;A;http://dummyimage.com/798x682.png/ff4444/ffffff
+1432876623;Wine - Red, Mouton Cadet;100000;102;FR-ARA;FR-ARA|FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/776x505.bmp/ff4444/ffffff
+4533999685;Fireball Whisky;100000;53;FR|BE|IT;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/702x492.jpg/dddddd/000000
+3984075071;Beans - Turtle, Black, Dry;100000;335;INVALID;INVALID;fr;Category 9;TVA 20%;A;http://dummyimage.com/539x686.jpg/ff4444/ffffff
+1805233883;Nut - Walnut, Pieces;100000;43;FR|BE|IT;FR-75;fr;Category 4;TVA 20%;A;http://dummyimage.com/524x539.png/dddddd/000000
+681271076;Wine - Red, Pelee Island Merlot;100000;387;FR-ARA;IT|BE;fr;Category 2;TVA 20%;A;http://dummyimage.com/699x529.png/cc0000/ffffff
+4163645366;Wine - Puligny Montrachet A.;100000;350;FR-ARA;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/769x588.bmp/dddddd/000000
+7267836133;Beef - Ox Tongue, Pickled;100000;90;ALL;FR-01|FR-69;fr;Category 9;TVA 20%;A;http://dummyimage.com/686x789.bmp/5fa2dd/ffffff
+2495810111;Mushrooms - Black, Dried;100000;99;ALL;FR-ARA|FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/460x735.jpg/cc0000/ffffff
+9170599828;Tuna - Fresh;100000;183;FR|IT;FR-ARA|FR-IDF;fr;Category 5;TVA 20%;A;http://dummyimage.com/778x776.jpg/dddddd/000000
+6711995882;Napkin White;100000;234;FR|IT;INVALID;fr;Category 4;TVA 20%;A;http://dummyimage.com/542x415.bmp/dddddd/000000
+628497237;Cheese - Valancey;100000;157;FR|BE|IT;FR-75;fr;Category 7;TVA 20%;A;http://dummyimage.com/701x694.jpg/5fa2dd/ffffff
+6295606029;Pepper - Pablano;100000;375;ALL;FR-ARA|FR-IDF;fr;Category 8;TVA 20%;A;http://dummyimage.com/643x712.bmp/5fa2dd/ffffff
+5333617732;Ecolab - Hobart Upr Prewash Arm;100000;40;FR;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/632x487.png/cc0000/ffffff
+8951987058;Beef - Rib Roast, Capless;100000;64;FR-ARA;FR-75;fr;Category 1;TVA 20%;A;http://dummyimage.com/767x555.bmp/cc0000/ffffff
+233248521;Mushroom - Morel Frozen;100000;206;INVALID;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/690x580.jpg/ff4444/ffffff
+3208173710;Jack Daniels;100000;200;FR|IT;FR-75;fr;Category 5;TVA 20%;A;http://dummyimage.com/572x457.bmp/ff4444/ffffff
+5708440867;Tomatoes - Vine Ripe, Yellow;100000;298;FR|IT;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/675x753.bmp/ff4444/ffffff
+1620804412;Alize Red Passion;100000;102;FR|IT;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/764x472.jpg/ff4444/ffffff
+151609616;Shrimp - Black Tiger 6 - 8;100000;114;FR-IDF;FR-01|FR-69;fr;Category 7;TVA 20%;A;http://dummyimage.com/617x419.jpg/cc0000/ffffff
+1673567423;Octopus - Baby, Cleaned;100000;219;FR;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/663x659.bmp/cc0000/ffffff
+4053459502;Marzipan 50/50;100000;310;FR|BE|IT;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/476x471.jpg/5fa2dd/ffffff
+904418261;Mushroom - Porcini Frozen;100000;39;FR-IDF;FR-01|FR-69;fr;Category 8;TVA 20%;A;http://dummyimage.com/735x551.jpg/ff4444/ffffff
+7197621834;Zucchini - Yellow;100000;29;ALL;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/639x693.jpg/dddddd/000000
+4748581096;Remy Red Berry Infusion;100000;79;FR-IDF;IT|BE;fr;Category 7;TVA 20%;A;http://dummyimage.com/775x585.bmp/dddddd/000000
+2808265164;Juice - Happy Planet;100000;310;FR;INVALID;fr;Category 8;TVA 20%;A;http://dummyimage.com/637x677.bmp/5fa2dd/ffffff
+4843686055;Cookies - Assorted;100000;113;INVALID;UK;fr;Category 7;TVA 20%;A;http://dummyimage.com/578x760.bmp/5fa2dd/ffffff
+4721519709;Nantucket Cranberry Juice;100000;355;FR|BE|IT;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/681x477.bmp/cc0000/ffffff
+9878553273;Wine - Marlbourough Sauv Blanc;100000;175;ALL;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/560x494.jpg/ff4444/ffffff
+6426850959;Banana - Green;100000;102;ALL;INVALID;fr;Category 2;TVA 20%;A;http://dummyimage.com/581x466.bmp/5fa2dd/ffffff
+7243115814;Tray - 16in Rnd Blk;100000;27;FR;IT|BE;fr;Category 4;TVA 20%;A;http://dummyimage.com/444x724.png/dddddd/000000
+8250565526;Garbag Bags - Black;100000;272;INVALID;UK;fr;Category 5;TVA 20%;A;http://dummyimage.com/699x591.bmp/cc0000/ffffff
+8463509542;Longos - Chicken Wings;100000;3;INVALID;FR-75;fr;Category 6;TVA 20%;A;http://dummyimage.com/529x638.bmp/ff4444/ffffff
+4287411995;Bread - Hamburger Buns;100000;122;FR|IT;IT|BE;fr;Category 2;TVA 20%;A;http://dummyimage.com/413x602.bmp/5fa2dd/ffffff
+953313091;Crab - Imitation Flakes;100000;294;ALL;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/463x746.jpg/dddddd/000000
+1429761300;Wine - White, Riesling, Semi - Dry;100000;123;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 6;TVA 20%;A;http://dummyimage.com/633x505.bmp/dddddd/000000
+3727351324;Tea - Lemon Scented;100000;167;FR|IT;FR-ARA|FR-IDF;fr;Category 1;TVA 20%;A;http://dummyimage.com/646x521.bmp/dddddd/000000
+5389808220;Wine - Alsace Riesling Reserve;100000;371;FR|IT;INVALID;fr;Category 9;TVA 20%;A;http://dummyimage.com/627x652.bmp/ff4444/ffffff
+1949653198;Mushroom - Enoki, Dry;100000;335;FR-IDF;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/601x521.bmp/dddddd/000000
+4421950832;Ice Cream - Vanilla;100000;227;INVALID;FR-75;fr;Category 7;TVA 20%;A;http://dummyimage.com/614x544.bmp/cc0000/ffffff
+5936511896;Soup - Tomato Mush. Florentine;100000;240;FR;UK;fr;Category 2;TVA 20%;A;http://dummyimage.com/514x489.bmp/cc0000/ffffff
+6910544972;Boogies;100000;169;ALL;IT|BE;fr;Category 0;TVA 20%;A;http://dummyimage.com/454x590.png/ff4444/ffffff
+2285117697;Tarts Assorted;100000;242;INVALID;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/496x724.bmp/dddddd/000000
+198530242;Salmon Atl.whole 8 - 10 Lb;100000;145;ALL;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/680x710.jpg/cc0000/ffffff
+9365991650;Beer - Guiness;100000;365;FR-ARA;UK;fr;Category 1;TVA 20%;A;http://dummyimage.com/727x684.png/5fa2dd/ffffff
+4857039605;Bouillion - Fish;100000;394;ALL;UK;fr;Category 6;TVA 20%;A;http://dummyimage.com/776x609.jpg/5fa2dd/ffffff
+2387420280;Lettuce - California Mix;100000;362;FR;IT|BE;fr;Category 2;TVA 20%;A;http://dummyimage.com/775x553.png/5fa2dd/ffffff
+6105214029;Wine - Lamancha Do Crianza;100000;59;INVALID;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/515x526.bmp/dddddd/000000
+8494166039;Pickle - Dill;100000;111;FR;FR-75;fr;Category 4;TVA 20%;A;http://dummyimage.com/678x727.jpg/cc0000/ffffff
+5738038788;Sauce Tomato Pouch;100000;331;FR|IT;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/718x472.png/cc0000/ffffff
+3240088998;Ranchero - Primerba, Paste;100000;229;FR-ARA;FR-ARA|FR-IDF;fr;Category 0;TVA 20%;A;http://dummyimage.com/551x500.png/5fa2dd/ffffff
+1900649131;Pasta - Penne Primavera, Single;100000;285;FR;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/604x441.bmp/ff4444/ffffff
+6611590407;Flour - Teff;100000;214;FR;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/421x696.bmp/cc0000/ffffff
+9745204402;Sachet;100000;151;FR|IT;FR-ARA|FR-IDF;fr;Category 9;TVA 20%;A;http://dummyimage.com/786x787.bmp/cc0000/ffffff
+7494773952;Tray - Foam, Square 4 - S;100000;30;FR;FR-01|FR-69;fr;Category 0;TVA 20%;A;http://dummyimage.com/758x639.bmp/cc0000/ffffff
+34146441;Sping Loaded Cup Dispenser;100000;351;INVALID;FR-ARA|FR-IDF;fr;Category 6;TVA 20%;A;http://dummyimage.com/714x526.png/dddddd/000000
+8153099033;Longos - Assorted Sandwich;100000;324;FR-ARA;INVALID;fr;Category 9;TVA 20%;A;http://dummyimage.com/491x694.jpg/5fa2dd/ffffff
+7098929076;Soup - Cream Of Broccoli, Dry;100000;87;FR-ARA;FR-75;fr;Category 2;TVA 20%;A;http://dummyimage.com/717x467.bmp/ff4444/ffffff
+3704090681;Onions - Spanish;100000;186;FR|BE|IT;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/506x627.png/ff4444/ffffff
+1274873158;Dasheen;100000;210;ALL;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/657x637.jpg/dddddd/000000
+6650369764;Foil - Round Foil;100000;309;FR;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/470x416.bmp/cc0000/ffffff
+5716713160;Pasta - Ravioli;100000;329;ALL;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/640x506.bmp/ff4444/ffffff
+729077725;Laundry - Bag Cloth;100000;298;FR|BE|IT;FR-01|FR-69;fr;Category 8;TVA 20%;A;http://dummyimage.com/795x428.png/cc0000/ffffff
+5817759084;Kale - Red;100000;96;FR|IT;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/778x418.png/cc0000/ffffff
+6282635671;Wine - Saint Emilion Calvet;100000;381;INVALID;UK;fr;Category 3;TVA 20%;A;http://dummyimage.com/416x623.jpg/dddddd/000000
+618825248;Aspic - Amber;100000;90;ALL;INVALID;fr;Category 6;TVA 20%;A;http://dummyimage.com/637x662.jpg/cc0000/ffffff
+5949956335;Fruit Salad Deluxe;100000;168;FR;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/422x662.bmp/dddddd/000000
+994720645;Milk - Chocolate 500ml;100000;241;FR-IDF;UK;fr;Category 6;TVA 20%;A;http://dummyimage.com/566x730.jpg/ff4444/ffffff
+9872581348;Longos - Burritos;100000;21;FR-ARA;INVALID;fr;Category 7;TVA 20%;A;http://dummyimage.com/729x667.png/ff4444/ffffff
+9168734973;Pork - Smoked Kassler;100000;192;FR|IT;UK;fr;Category 8;TVA 20%;A;http://dummyimage.com/725x741.bmp/cc0000/ffffff
+3138215795;Muffin Puck Ww Carrot;100000;354;FR-ARA;UK;fr;Category 2;TVA 20%;A;http://dummyimage.com/551x766.jpg/dddddd/000000
+9620167408;Broom And Brush Rack Black;100000;98;INVALID;FR-75;fr;Category 7;TVA 20%;A;http://dummyimage.com/694x553.jpg/5fa2dd/ffffff
+7805439402;Sugar - Brown, Individual;100000;276;INVALID;IT|BE;fr;Category 6;TVA 20%;A;http://dummyimage.com/680x799.jpg/5fa2dd/ffffff
+8169987622;Stock - Chicken, White;100000;10;INVALID;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/423x754.bmp/ff4444/ffffff
+9240663610;Wiberg Cure;100000;369;FR|BE|IT;UK;fr;Category 7;TVA 20%;A;http://dummyimage.com/564x415.bmp/5fa2dd/ffffff
+4185586975;Crab - Imitation Flakes;100000;254;INVALID;FR-75;fr;Category 6;TVA 20%;A;http://dummyimage.com/565x408.bmp/dddddd/000000
+2475699749;Crackers - Trio;100000;182;ALL;IT|BE;fr;Category 0;TVA 20%;A;http://dummyimage.com/442x482.jpg/5fa2dd/ffffff
+1103550102;Beef - Flank Steak;100000;24;INVALID;FR-75;fr;Category 6;TVA 20%;A;http://dummyimage.com/647x778.jpg/5fa2dd/ffffff
+7974980292;Beer - Sleemans Cream Ale;100000;346;FR-IDF;FR-ARA|FR-IDF;fr;Category 7;TVA 20%;A;http://dummyimage.com/402x635.png/5fa2dd/ffffff
+3808668753;Lemon Balm - Fresh;100000;143;FR|IT;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/429x437.bmp/dddddd/000000
+2804410558;Salt And Pepper Mix - Black;100000;133;ALL;FR-ARA|FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/509x794.bmp/5fa2dd/ffffff
+6310265812;Silicone Paper 16.5x24;100000;51;INVALID;FR-75;fr;Category 4;TVA 20%;A;http://dummyimage.com/599x741.jpg/dddddd/000000
+7875449433;Beef - Sushi Flat Iron Steak;100000;110;FR|BE|IT;INVALID;fr;Category 4;TVA 20%;A;http://dummyimage.com/659x543.png/dddddd/000000
+6536699114;Oil - Olive Bertolli;100000;265;FR|IT;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/529x431.bmp/5fa2dd/ffffff
+1333375804;Shopper Bag - S - 4;100000;270;FR;FR-ARA|FR-IDF;fr;Category 4;TVA 20%;A;http://dummyimage.com/710x520.bmp/dddddd/000000
+5268504937;Cafe Royale;100000;143;ALL;IT|BE;fr;Category 4;TVA 20%;A;http://dummyimage.com/448x499.jpg/cc0000/ffffff
+4416214838;Lid - 0090 Clear;100000;134;FR-ARA;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/430x761.bmp/5fa2dd/ffffff
+1342189883;Chocolate - Milk, Callets;100000;126;FR|IT;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/751x613.bmp/5fa2dd/ffffff
+8156354638;Stainless Steel Cleaner Vision;100000;200;FR;INVALID;fr;Category 4;TVA 20%;A;http://dummyimage.com/792x459.bmp/cc0000/ffffff
+1641147608;Appetizer - Southwestern;100000;368;FR-IDF;INVALID;fr;Category 0;TVA 20%;A;http://dummyimage.com/737x717.jpg/cc0000/ffffff
+8955754022;Cheese - Stilton;100000;46;FR;FR-ARA|FR-IDF;fr;Category 7;TVA 20%;A;http://dummyimage.com/493x415.bmp/cc0000/ffffff
+1844712638;Lamb Rack Frenched Australian;100000;21;FR-ARA;IT|BE;fr;Category 1;TVA 20%;A;http://dummyimage.com/685x532.jpg/dddddd/000000
+9451049680;Schnappes - Peach, Walkers;100000;205;FR-ARA;FR-ARA|FR-IDF;fr;Category 8;TVA 20%;A;http://dummyimage.com/706x642.jpg/ff4444/ffffff
+5817259118;Juice - Propel Sport;100000;179;INVALID;FR-01|FR-69;fr;Category 6;TVA 20%;A;http://dummyimage.com/649x507.png/5fa2dd/ffffff
+5762662384;Yogurt - French Vanilla;100000;179;FR;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/533x600.jpg/dddddd/000000
+529210791;Sugar Thermometer;100000;335;FR|BE|IT;INVALID;fr;Category 9;TVA 20%;A;http://dummyimage.com/741x497.bmp/cc0000/ffffff
+2541417342;Wine - Guy Sage Touraine;100000;151;FR-IDF;INVALID;fr;Category 4;TVA 20%;A;http://dummyimage.com/440x593.jpg/5fa2dd/ffffff
+8030273750;Loaf Pan - 2 Lb, Foil;100000;41;FR-IDF;UK;fr;Category 5;TVA 20%;A;http://dummyimage.com/482x786.bmp/dddddd/000000
+2213025863;Fish - Bones;100000;251;FR;FR-01|FR-69;fr;Category 7;TVA 20%;A;http://dummyimage.com/751x706.png/dddddd/000000
+6028467109;Island Oasis - Magarita Mix;100000;128;FR-ARA;FR-75;fr;Category 4;TVA 20%;A;http://dummyimage.com/611x414.bmp/cc0000/ffffff
+521925612;Chicken - White Meat, No Tender;100000;249;ALL;UK;fr;Category 8;TVA 20%;A;http://dummyimage.com/638x711.jpg/ff4444/ffffff
+9011155032;Juice - Grape, White;100000;277;FR-IDF;UK;fr;Category 2;TVA 20%;A;http://dummyimage.com/790x775.bmp/cc0000/ffffff
+3368592519;Potatoes - Yukon Gold, 80 Ct;100000;23;FR|BE|IT;UK;fr;Category 8;TVA 20%;A;http://dummyimage.com/491x728.bmp/dddddd/000000
+6959455117;Potatoes - Yukon Gold, 80 Ct;100000;17;INVALID;INVALID;fr;Category 2;TVA 20%;A;http://dummyimage.com/414x487.bmp/ff4444/ffffff
+9070163065;Cheese - Brie, Cups 125g;100000;155;FR-IDF;FR-ARA|FR-IDF;fr;Category 3;TVA 20%;A;http://dummyimage.com/675x584.png/dddddd/000000
+4364119656;Celery;100000;233;FR;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/768x681.png/ff4444/ffffff
+6182535956;Yeast Dry - Fermipan;100000;33;FR-ARA;UK;fr;Category 9;TVA 20%;A;http://dummyimage.com/768x784.jpg/5fa2dd/ffffff
+7780873169;Ice Cream Bar - Hagen Daz;100000;265;FR-IDF;UK;fr;Category 0;TVA 20%;A;http://dummyimage.com/464x604.png/dddddd/000000
+4741872315;Veal - Inside Round / Top, Lean;100000;314;INVALID;FR-01|FR-69;fr;Category 2;TVA 20%;A;http://dummyimage.com/612x653.png/5fa2dd/ffffff
+7020278800;Garlic Powder;100000;257;INVALID;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/516x782.jpg/5fa2dd/ffffff
+7705640019;Sausage - Chorizo;100000;186;FR-IDF;INVALID;fr;Category 7;TVA 20%;A;http://dummyimage.com/650x778.bmp/dddddd/000000
+3934110860;Steampan - Half Size Shallow;100000;292;ALL;UK;fr;Category 3;TVA 20%;A;http://dummyimage.com/532x544.png/dddddd/000000
+7945589024;Juice - V8 Splash;100000;75;FR|IT;FR-ARA|FR-IDF;fr;Category 7;TVA 20%;A;http://dummyimage.com/684x700.bmp/ff4444/ffffff
+8518154260;Carbonated Water - Raspberry;100000;164;FR-ARA;INVALID;fr;Category 3;TVA 20%;A;http://dummyimage.com/462x733.png/cc0000/ffffff
+7243458441;Milk - Homo;100000;239;FR-ARA;INVALID;fr;Category 5;TVA 20%;A;http://dummyimage.com/637x522.jpg/cc0000/ffffff
+4051034345;Appetizer - Asian Shrimp Roll;100000;26;FR|BE|IT;FR-75;fr;Category 1;TVA 20%;A;http://dummyimage.com/477x409.bmp/dddddd/000000
+6344291246;Glove - Cutting;100000;341;ALL;INVALID;fr;Category 8;TVA 20%;A;http://dummyimage.com/459x563.bmp/ff4444/ffffff
+7662332152;Veal - Round, Eye Of;100000;314;FR-ARA;FR-ARA|FR-IDF;fr;Category 8;TVA 20%;A;http://dummyimage.com/425x431.bmp/dddddd/000000
+2113695563;Tomato - Green;100000;237;FR|BE|IT;IT|BE;fr;Category 4;TVA 20%;A;http://dummyimage.com/720x533.jpg/5fa2dd/ffffff
+7291856554;Cut Wakame - Hanawakaba;100000;99;FR|BE|IT;FR-01|FR-69;fr;Category 1;TVA 20%;A;http://dummyimage.com/760x663.png/cc0000/ffffff
+4782760134;Iced Tea - Lemon, 340ml;100000;308;FR;FR-75;fr;Category 5;TVA 20%;A;http://dummyimage.com/787x502.jpg/dddddd/000000
+9104350458;Muskox - French Rack;100000;376;FR;FR-ARA|FR-IDF;fr;Category 0;TVA 20%;A;http://dummyimage.com/769x554.bmp/dddddd/000000
+5897944401;Wine - Dubouef Macon - Villages;100000;301;FR-IDF;INVALID;fr;Category 4;TVA 20%;A;http://dummyimage.com/639x755.png/5fa2dd/ffffff
+2047143552;Chocolate - Semi Sweet, Calets;100000;376;ALL;IT|BE;fr;Category 9;TVA 20%;A;http://dummyimage.com/685x711.jpg/ff4444/ffffff
+1006690466;Asparagus - Mexican;100000;275;FR;UK;fr;Category 4;TVA 20%;A;http://dummyimage.com/753x679.bmp/dddddd/000000
+6895769725;Sauce - Black Current, Dry Mix;100000;305;INVALID;FR-75;fr;Category 6;TVA 20%;A;http://dummyimage.com/747x652.bmp/dddddd/000000
+8381494416;Peach - Fresh;100000;98;FR|BE|IT;FR-01|FR-69;fr;Category 7;TVA 20%;A;http://dummyimage.com/456x701.jpg/cc0000/ffffff
+3981972131;Tuna - Canned, Flaked, Light;100000;285;FR-IDF;IT|BE;fr;Category 5;TVA 20%;A;http://dummyimage.com/796x786.jpg/ff4444/ffffff
+4014634439;Milk Powder;100000;246;FR|IT;FR-75;fr;Category 3;TVA 20%;A;http://dummyimage.com/534x665.png/dddddd/000000
+6706218117;Cheese - Shred Cheddar / Mozza;100000;231;FR-IDF;FR-75;fr;Category 8;TVA 20%;A;http://dummyimage.com/426x428.png/cc0000/ffffff
+2413784493;Mussels - Cultivated;100000;5;INVALID;FR-ARA|FR-IDF;fr;Category 2;TVA 20%;A;http://dummyimage.com/600x696.png/cc0000/ffffff
+6759661029;Lamb - Loin Chops;100000;329;FR-ARA;IT|BE;fr;Category 3;TVA 20%;A;http://dummyimage.com/452x699.bmp/ff4444/ffffff
+7282280347;Gloves - Goldtouch Disposable;100000;387;FR-IDF;INVALID;fr;Category 0;TVA 20%;A;http://dummyimage.com/625x573.bmp/ff4444/ffffff
+3850614961;Cheese - Ermite Bleu;100000;297;INVALID;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/400x615.bmp/dddddd/000000
+8276749260;Wine - Cousino Macul Antiguas;100000;259;FR;FR-01|FR-69;fr;Category 5;TVA 20%;A;http://dummyimage.com/707x638.bmp/cc0000/ffffff
+5969713064;Pork - Caul Fat;100000;194;FR|BE|IT;UK;fr;Category 6;TVA 20%;A;http://dummyimage.com/607x484.bmp/dddddd/000000
+5666700721;Dried Figs;100000;386;FR|BE|IT;FR-ARA|FR-IDF;fr;Category 2;TVA 20%;A;http://dummyimage.com/430x688.jpg/5fa2dd/ffffff
+755841460;Chutney Sauce - Mango;100000;61;FR|BE|IT;INVALID;fr;Category 1;TVA 20%;A;http://dummyimage.com/548x446.png/5fa2dd/ffffff
+3567794883;Capicola - Hot;100000;327;FR-ARA;FR-01|FR-69;fr;Category 3;TVA 20%;A;http://dummyimage.com/570x512.jpg/5fa2dd/ffffff
