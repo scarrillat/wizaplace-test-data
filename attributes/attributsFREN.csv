@@ -1,0 +1,3 @@
+﻿Feature name;Feature ID;Language;Type;Group;Categories;Show on the features tab;Position;Status;Feature code;Feature Description;Variants;Show in faceting;Is searchable;Used for recommendations
+Attribut 1 FR;99;fr;M;;;Y;0;A;;Français;FR1, FR2, FR3;Y;Y;N
+Attribut 1 EN;99;en;M;;;Y;0;A;;Anglais;EN1, EN2, EN3;Y;Y;N
