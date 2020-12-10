@@ -1,0 +1,5 @@
+2020/12/10
+To test https://wizaplace.atlassian.net/browse/TMA-791 : feature to import updates only on products stocks
+Based on Heimdall env
+
+Sets of csv to test ok and nok use cases
