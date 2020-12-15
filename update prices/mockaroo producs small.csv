@@ -1,0 +1,5 @@
+Product code;Product name;Quantity;Price;Language;Category;Taxes;Status;Downloadable
+440220992;Flower - Dish Garden;100000;190;fr;Category 5;TVA 20%;A;true
+3322637832;Cake - French Pear Tart;100000;241;fr;Category 3;TVA 20%;A;false
+5826778734;Bread Country Roll;100000;71;fr;Category 3;TVA 20%;A;true
+483694071;Beef - Short Ribs;100000;121;fr;Category 4;TVA 20%;A;true

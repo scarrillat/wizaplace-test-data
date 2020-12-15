@@ -1,0 +1,2001 @@
+Product code;Product name;Quantity;Price;Language;Category;Taxes;Status;Downloadable
+440220992;Flower - Dish Garden;100000;190;fr;Category 5;TVA 20%;A;true
+3322637832;Cake - French Pear Tart;100000;241;fr;Category 3;TVA 20%;A;false
+5826778734;Bread Country Roll;100000;71;fr;Category 3;TVA 20%;A;true
+483694071;Beef - Short Ribs;100000;121;fr;Category 4;TVA 20%;A;true
+4060774306;Cheese Cloth No 100;100000;283;fr;Category 1;TVA 20%;A;false
+9568741137;Chick Peas - Canned;100000;89;fr;Category 9;TVA 20%;A;false
+9452780272;Wine - Semi Dry Riesling Vineland;100000;161;fr;Category 0;TVA 20%;A;true
+8036498974;Ham - Proscuitto;100000;46;fr;Category 4;TVA 20%;A;true
+6416984669;Wine - Saint Emilion Calvet;100000;212;fr;Category 8;TVA 20%;A;false
+8010354663;Lettuce - California Mix;100000;94;fr;Category 1;TVA 20%;A;false
+3897381629;Cherries - Bing, Canned;100000;132;fr;Category 9;TVA 20%;A;true
+2058618322;Jam - Apricot;100000;351;fr;Category 7;TVA 20%;A;false
+1477761068;Jagermeister;100000;286;fr;Category 0;TVA 20%;A;false
+2538874765;Wine - Trimbach Pinot Blanc;100000;213;fr;Category 1;TVA 20%;A;true
+9439968793;Asparagus - Green, Fresh;100000;393;fr;Category 6;TVA 20%;A;true
+6306284720;Coffee - Irish Cream;100000;243;fr;Category 7;TVA 20%;A;false
+337200588;Chocolate - Unsweetened;100000;18;fr;Category 8;TVA 20%;A;true
+1648943492;Pepper Squash;100000;357;fr;Category 9;TVA 20%;A;false
+3278818769;Tortillas - Flour, 8;100000;7;fr;Category 6;TVA 20%;A;false
+6532629598;Cheese - Bocconcini;100000;319;fr;Category 0;TVA 20%;A;true
+3463755035;Extract - Lemon;100000;362;fr;Category 3;TVA 20%;A;true
+1018328090;Chips - Potato Jalapeno;100000;241;fr;Category 1;TVA 20%;A;true
+5874182807;Coffee - Frthy Coffee Crisp;100000;148;fr;Category 0;TVA 20%;A;true
+8286043663;Lemonade - Natural, 591 Ml;100000;142;fr;Category 1;TVA 20%;A;false
+7647406148;Napkin - Dinner, White;100000;200;fr;Category 1;TVA 20%;A;true
+6998443182;Bagel - Everything;100000;335;fr;Category 1;TVA 20%;A;true
+6691701651;Carbonated Water - Blackcherry;100000;130;fr;Category 8;TVA 20%;A;false
+6777766284;Ham - Cooked Bayonne Tinned;100000;328;fr;Category 5;TVA 20%;A;false
+8293000147;Plate Pie Foil;100000;65;fr;Category 9;TVA 20%;A;false
+6300778750;Cheese - Stilton;100000;37;fr;Category 6;TVA 20%;A;false
+5352656831;Wine - Guy Sage Touraine;100000;66;fr;Category 3;TVA 20%;A;false
+7586318073;Water - Evian 355 Ml;100000;232;fr;Category 4;TVA 20%;A;
+2601765153;Spring Roll Veg Mini;100000;298;fr;Category 7;TVA 20%;A;
+3270417404;Veal - Shank, Pieces;100000;189;fr;Category 4;TVA 20%;A;true
+3138639808;Soup - Campbells - Tomato;100000;368;fr;Category 1;TVA 20%;A;false
+2848536288;Trueblue - Blueberry Cranberry;100000;117;fr;Category 3;TVA 20%;A;true
+1862159972;Bread - Roll, Italian;100000;397;fr;Category 5;TVA 20%;A;true
+6806219906;Butter Sweet;100000;200;fr;Category 5;TVA 20%;A;true
+973361715;Shrimp - 21/25, Peel And Deviened;100000;33;fr;Category 2;TVA 20%;A;true
+2355561243;Tandoori Curry Paste;100000;104;fr;Category 0;TVA 20%;A;false
+7925210877;Coriander - Ground;100000;134;fr;Category 4;TVA 20%;A;true
+8558844553;Ecolab Crystal Fusion;100000;214;fr;Category 0;TVA 20%;A;true
+2692235146;Cinnamon - Stick;100000;27;fr;Category 2;TVA 20%;A;true
+300097085;Pasta - Cannelloni, Sheets, Fresh;100000;305;fr;Category 3;TVA 20%;A;false
+8809886527;Straws - Cocktale;100000;355;fr;Category 9;TVA 20%;A;true
+5967629984;Tea - Mint;100000;294;fr;Category 7;TVA 20%;A;false
+1846050087;Trueblue - Blueberry 12x473ml;100000;39;fr;Category 8;TVA 20%;A;false
+3179966737;Crab - Blue, Frozen;100000;303;fr;Category 7;TVA 20%;A;true
+786621889;Sauce - Soya, Dark;100000;309;fr;Category 8;TVA 20%;A;true
+8762265625;Pumpkin - Seed;100000;232;fr;Category 3;TVA 20%;A;false
+6155828129;Beer - Rickards Red;100000;71;fr;Category 7;TVA 20%;A;false
+416762057;Beer - Molson Excel;100000;27;fr;Category 5;TVA 20%;A;true
+4841503357;Beer - Original Organic Lager;100000;291;fr;Category 6;TVA 20%;A;true
+2250415901;Rolled Oats;100000;270;fr;Category 7;TVA 20%;A;true
+2856235485;Dc - Frozen Momji;100000;197;fr;Category 9;TVA 20%;A;true
+3170483394;Sauce Tomato Pouch;100000;148;fr;Category 0;TVA 20%;A;false
+3700100092;Cream - 10%;100000;326;fr;Category 5;TVA 20%;A;false
+2799727915;Phyllo Dough;100000;176;fr;Category 0;TVA 20%;A;false
+8934285190;Shrimp - Black Tiger 13/15;100000;358;fr;Category 0;TVA 20%;A;false
+1243945443;Asparagus - White, Canned;100000;171;fr;Category 7;TVA 20%;A;true
+3640725583;Nestea - Iced Tea;100000;307;fr;Category 0;TVA 20%;A;false
+3444860185;Wine - Red, Black Opal Shiraz;100000;331;fr;Category 5;TVA 20%;A;true
+2867729847;Water - San Pellegrino;100000;43;fr;Category 6;TVA 20%;A;false
+2334806355;Plastic Arrow Stir Stick;100000;275;fr;Category 9;TVA 20%;A;false
+4904101432;Sprite, Diet - 355ml;100000;88;fr;Category 9;TVA 20%;A;true
+1267358272;Brandy - Bar;100000;82;fr;Category 9;TVA 20%;A;false
+5024881215;Coffee - Ristretto Coffee Capsule;100000;160;fr;Category 5;TVA 20%;A;true
+88340021;Cookie - Oreo 100x2;100000;141;fr;Category 0;TVA 20%;A;true
+7325552057;Beef - Baby, Liver;100000;337;fr;Category 3;TVA 20%;A;false
+9839060333;Beef - Top Butt;100000;76;fr;Category 2;TVA 20%;A;false
+3040248306;Rice - Jasmine Sented;100000;1;fr;Category 1;TVA 20%;A;false
+4947539059;Rye Special Old;100000;126;fr;Category 1;TVA 20%;A;false
+5709347330;Pastry - Baked Cinnamon Stick;100000;330;fr;Category 0;TVA 20%;A;false
+2300579989;Sobe - Orange Carrot;100000;392;fr;Category 5;TVA 20%;A;true
+9559669079;Tequila Rose Cream Liquor;100000;36;fr;Category 5;TVA 20%;A;true
+1319702617;Veal - Nuckle;100000;382;fr;Category 3;TVA 20%;A;true
+4930248485;Cheese - Blue;100000;318;fr;Category 5;TVA 20%;A;false
+174958297;Cleaner - Pine Sol;100000;299;fr;Category 6;TVA 20%;A;false
+1069260278;Juice - Happy Planet;100000;332;fr;Category 2;TVA 20%;A;true
+7694643581;Rice - Brown;100000;145;fr;Category 7;TVA 20%;A;false
+3308267277;Appetiser - Bought;100000;260;fr;Category 7;TVA 20%;A;false
+4555334446;Sobe - Lizard Fuel;100000;196;fr;Category 7;TVA 20%;A;true
+9065656305;Wine - Carmenere Casillero Del;100000;106;fr;Category 1;TVA 20%;A;false
+8176648411;Fib N9 - Prague Powder;100000;135;fr;Category 9;TVA 20%;A;true
+3985975672;Beer - Upper Canada Lager;100000;393;fr;Category 7;TVA 20%;A;true
+7019440987;Soup - Campbells Chili Veg;100000;224;fr;Category 4;TVA 20%;A;true
+5452955298;Split Peas - Yellow, Dry;100000;96;fr;Category 5;TVA 20%;A;true
+1818350115;Eel - Smoked;100000;255;fr;Category 1;TVA 20%;A;false
+4198388428;Wine - Cave Springs Dry Riesling;100000;57;fr;Category 1;TVA 20%;A;true
+814183388;Appetizer - Mini Egg Roll, Shrimp;100000;77;fr;Category 4;TVA 20%;A;false
+5884029136;Pork - Butt, Boneless;100000;7;fr;Category 9;TVA 20%;A;false
+9460297156;Soup - Knorr, Chicken Gumbo;100000;385;fr;Category 3;TVA 20%;A;true
+4831819210;Zucchini - Green;100000;166;fr;Category 9;TVA 20%;A;false
+342928874;Ham - Procutinni;100000;362;fr;Category 2;TVA 20%;A;true
+1586296035;Crab - Dungeness, Whole, live;100000;400;fr;Category 4;TVA 20%;A;false
+479306757;Muffin Batt - Ban Dream Zero;100000;229;fr;Category 8;TVA 20%;A;true
+9359362626;Longos - Chicken Curried;100000;117;fr;Category 6;TVA 20%;A;true
+2661228062;Oranges;100000;178;fr;Category 7;TVA 20%;A;false
+7635599935;Flour - Rye;100000;109;fr;Category 0;TVA 20%;A;false
+8690125411;Creme De Cacao White;100000;1;fr;Category 0;TVA 20%;A;false
+5265621899;Cilantro / Coriander - Fresh;100000;83;fr;Category 4;TVA 20%;A;true
+2271762440;Longos - Lasagna Beef;100000;75;fr;Category 6;TVA 20%;A;false
+3804951495;Herb Du Provence - Primerba;100000;286;fr;Category 9;TVA 20%;A;true
+4659376139;Tendrils - Baby Pea, Organic;100000;280;fr;Category 0;TVA 20%;A;true
+8073747957;Orange Roughy 4/6 Oz;100000;128;fr;Category 3;TVA 20%;A;true
+755662010;Pasta - Cheese / Spinach Bauletti;100000;200;fr;Category 9;TVA 20%;A;true
+3387785456;Buffalo - Tenderloin;100000;325;fr;Category 0;TVA 20%;A;true
+4947833736;Quinoa;100000;272;fr;Category 3;TVA 20%;A;false
+68651531;Beer - Sleemans Cream Ale;100000;127;fr;Category 0;TVA 20%;A;true
+1092515602;Lime Cordial - Roses;100000;92;fr;Category 7;TVA 20%;A;false
+629103849;Salt And Pepper Mix - White;100000;341;fr;Category 0;TVA 20%;A;true
+4621112839;Puree - Blackcurrant;100000;371;fr;Category 9;TVA 20%;A;true
+4448280672;Yams;100000;239;fr;Category 7;TVA 20%;A;false
+7906866062;Cherries - Fresh;100000;240;fr;Category 9;TVA 20%;A;true
+7292510893;Bread Foccacia Whole;100000;300;fr;Category 8;TVA 20%;A;false
+6879766995;Chocolate - Milk;100000;7;fr;Category 5;TVA 20%;A;true
+4106050358;Coffee Cup 16oz Foam;100000;56;fr;Category 6;TVA 20%;A;false
+849709856;Pork - Butt, Boneless;100000;247;fr;Category 0;TVA 20%;A;false
+8520745107;Tomatoes - Heirloom;100000;249;fr;Category 6;TVA 20%;A;false
+1022305143;Pea - Snow;100000;88;fr;Category 4;TVA 20%;A;false
+6531353764;Truffle Cups - White Paper;100000;129;fr;Category 6;TVA 20%;A;false
+9472250322;Bread - 10 Grain Parisian;100000;166;fr;Category 8;TVA 20%;A;false
+2124596135;Wine - White, Ej Gallo;100000;222;fr;Category 7;TVA 20%;A;true
+1266319957;Pepper - Gypsy Pepper;100000;388;fr;Category 3;TVA 20%;A;true
+7522083028;Soup - Campbells Pasta Fagioli;100000;216;fr;Category 4;TVA 20%;A;true
+8477390894;Mushroom - Morel Frozen;100000;374;fr;Category 2;TVA 20%;A;false
+402046902;Soup Campbells - Tomato Bisque;100000;256;fr;Category 2;TVA 20%;A;false
+8280292241;Transfer Sheets;100000;348;fr;Category 1;TVA 20%;A;false
+6217674659;Cookies - Englishbay Chochip;100000;291;fr;Category 5;TVA 20%;A;true
+4922969191;Pate Pans Yellow;100000;8;fr;Category 3;TVA 20%;A;false
+3819587638;Broom And Brush Rack Black;100000;16;fr;Category 3;TVA 20%;A;false
+6141062800;Apricots - Halves;100000;103;fr;Category 4;TVA 20%;A;false
+2771006523;Dooleys Toffee;100000;192;fr;Category 5;TVA 20%;A;true
+5239262555;Wine - Sawmill Creek Autumn;100000;228;fr;Category 4;TVA 20%;A;false
+5858941626;Island Oasis - Raspberry;100000;206;fr;Category 7;TVA 20%;A;true
+5301941556;Eel Fresh;100000;66;fr;Category 9;TVA 20%;A;false
+3587295061;Beef - Cooked, Corned;100000;357;fr;Category 0;TVA 20%;A;false
+7766346624;Pastry - Baked Cinnamon Stick;100000;47;fr;Category 5;TVA 20%;A;true
+327468959;Dikon;100000;38;fr;Category 3;TVA 20%;A;true
+5616457785;Skewers - Bamboo;100000;294;fr;Category 9;TVA 20%;A;true
+3407009980;Crab - Imitation Flakes;100000;261;fr;Category 8;TVA 20%;A;true
+4701861679;Squash - Sunburst;100000;352;fr;Category 9;TVA 20%;A;true
+4898398093;Juice - Pineapple, 48 Oz;100000;243;fr;Category 3;TVA 20%;A;false
+7139375259;Truffle Cups - Brown;100000;245;fr;Category 7;TVA 20%;A;false
+5087645107;Bar Energy Chocchip;100000;218;fr;Category 3;TVA 20%;A;false
+5143598804;Stock - Beef, Brown;100000;27;fr;Category 2;TVA 20%;A;false
+3242257470;Swiss Chard - Red;100000;219;fr;Category 5;TVA 20%;A;true
+4745905938;Soup - Knorr, Chicken Noodle;100000;290;fr;Category 9;TVA 20%;A;true
+862331282;Truffle Paste;100000;3;fr;Category 2;TVA 20%;A;true
+2398740313;Crab - Dungeness, Whole, live;100000;132;fr;Category 3;TVA 20%;A;false
+5175463390;Cake - Box Window 10x10x2.5;100000;335;fr;Category 8;TVA 20%;A;false
+9601626888;Gherkin;100000;34;fr;Category 9;TVA 20%;A;
+1723561476;Pastry - Butterscotch Baked;100000;308;fr;Category 3;TVA 20%;A;false
+2357824284;Bread - Crumbs, Bulk;100000;209;fr;Category 0;TVA 20%;A;false
+8258577098;Poppy Seed;100000;314;fr;Category 0;TVA 20%;A;false
+8631112349;Eel - Smoked;100000;226;fr;Category 7;TVA 20%;A;true
+7389303698;Beer - Pilsner Urquell;100000;172;fr;Category 1;TVA 20%;A;true
+8920690070;Cranberries - Fresh;100000;156;fr;Category 6;TVA 20%;A;false
+9955405706;Flounder - Fresh;100000;202;fr;Category 9;TVA 20%;A;true
+4908687400;Cod - Salted, Boneless;100000;395;fr;Category 5;TVA 20%;A;
+1896854217;Soupfoamcont12oz 112con;100000;353;fr;Category 1;TVA 20%;A;false
+4641166810;Wine - Sherry Dry Sack, William;100000;69;fr;Category 9;TVA 20%;A;true
+8219723428;Lamb Tenderloin Nz Fr;100000;338;fr;Category 7;TVA 20%;A;true
+8198248795;Lamb - Whole Head Off;100000;381;fr;Category 0;TVA 20%;A;false
+7820585935;Pasta - Spaghetti, Dry;100000;267;fr;Category 4;TVA 20%;A;true
+200033490;Iced Tea - Lemon, 340ml;100000;371;fr;Category 1;TVA 20%;A;false
+4727708266;Shrimp - 150 - 250;100000;338;fr;Category 8;TVA 20%;A;false
+4078510719;Eel - Smoked;100000;218;fr;Category 2;TVA 20%;A;false
+3465406129;Mikes Hard Lemonade;100000;253;fr;Category 9;TVA 20%;A;true
+599626732;Cabbage - Savoy;100000;286;fr;Category 4;TVA 20%;A;false
+8545632040;Pheasants - Whole;100000;23;fr;Category 3;TVA 20%;A;false
+1881356575;Hot Choc Vending;100000;102;fr;Category 7;TVA 20%;A;true
+7918260084;Mini - Vol Au Vents;100000;302;fr;Category 2;TVA 20%;A;false
+2218992299;Cookie Dough - Double;100000;34;fr;Category 4;TVA 20%;A;true
+5009939888;Chocolate - Unsweetened;100000;40;fr;Category 9;TVA 20%;A;true
+4085734021;Beer - Heinekin;100000;39;fr;Category 6;TVA 20%;A;true
+7347258440;Sprouts Dikon;100000;257;fr;Category 8;TVA 20%;A;true
+5803256428;Mustard - Individual Pkg;100000;334;fr;Category 2;TVA 20%;A;true
+1526171260;Soup - Knorr, Chicken Noodle;100000;201;fr;Category 1;TVA 20%;A;false
+2616088292;Spice - Greek 1 Step;100000;93;fr;Category 5;TVA 20%;A;true
+1073466169;Lamb - Whole, Frozen;100000;3;fr;Category 4;TVA 20%;A;false
+6019482135;Container - Clear 32 Oz;100000;12;fr;Category 6;TVA 20%;A;false
+3820342265;V8 Splash Strawberry Banana;100000;186;fr;Category 4;TVA 20%;A;false
+6284875774;Radish - Black, Winter, Organic;100000;99;fr;Category 1;TVA 20%;A;false
+9501141361;Pails With Lids;100000;290;fr;Category 7;TVA 20%;A;false
+5495858880;Pastry - Apple Muffins - Mini;100000;208;fr;Category 2;TVA 20%;A;false
+9148227677;Sausage - Andouille;100000;151;fr;Category 3;TVA 20%;A;false
+8098978309;Juice - Apple, 1.36l;100000;345;fr;Category 9;TVA 20%;A;false
+6434073902;Doilies - 10, Paper;100000;19;fr;Category 4;TVA 20%;A;false
+7697256707;Wine - Cotes Du Rhone;100000;114;fr;Category 6;TVA 20%;A;true
+2216109065;Bay Leaf Fresh;100000;213;fr;Category 1;TVA 20%;A;false
+8615360274;Juice - Apple, 500 Ml;100000;267;fr;Category 2;TVA 20%;A;true
+3234839565;Tart - Pecan Butter Squares;100000;133;fr;Category 8;TVA 20%;A;false
+8208846877;Monkfish Fresh - Skin Off;100000;266;fr;Category 3;TVA 20%;A;false
+1243820021;Wine - White, Ej Gallo;100000;309;fr;Category 3;TVA 20%;A;false
+2933109562;Quail - Whole, Boneless;100000;298;fr;Category 6;TVA 20%;A;true
+1338728868;Guinea Fowl;100000;316;fr;Category 0;TVA 20%;A;false
+8499908601;Urban Zen Drinks;100000;99;fr;Category 9;TVA 20%;A;false
+2695877362;Strawberries;100000;359;fr;Category 2;TVA 20%;A;false
+7315953030;Melon - Watermelon Yellow;100000;385;fr;Category 1;TVA 20%;A;false
+5388202223;Bread Bowl Plain;100000;15;fr;Category 8;TVA 20%;A;true
+5415531620;Sage - Fresh;100000;88;fr;Category 2;TVA 20%;A;true
+5653856695;Tumeric;100000;163;fr;Category 6;TVA 20%;A;false
+4771712951;Bread - Raisin;100000;344;fr;Category 0;TVA 20%;A;true
+6428732418;Longos - Assorted Sandwich;100000;299;fr;Category 5;TVA 20%;A;true
+1636002295;Wine - Marlbourough Sauv Blanc;100000;22;fr;Category 9;TVA 20%;A;true
+9202519121;Tea - Black Currant;100000;304;fr;Category 9;TVA 20%;A;true
+271955737;Pork - Kidney;100000;252;fr;Category 6;TVA 20%;A;false
+595666116;Island Oasis - Banana Daiquiri;100000;30;fr;Category 1;TVA 20%;A;true
+772162672;Wine - Cava Aria Estate Brut;100000;146;fr;Category 7;TVA 20%;A;true
+6217606895;Bread Crumbs - Japanese Style;100000;359;fr;Category 1;TVA 20%;A;true
+4638984661;Rum - Mount Gay Eclipes;100000;200;fr;Category 2;TVA 20%;A;true
+3875394800;Appetizer - Mini Egg Roll, Shrimp;100000;373;fr;Category 5;TVA 20%;A;false
+7461340916;Longos - Lasagna Veg;100000;131;fr;Category 5;TVA 20%;A;true
+6888732107;Arizona - Green Tea;100000;58;fr;Category 3;TVA 20%;A;true
+5558094291;Pork Ham Prager;100000;118;fr;Category 6;TVA 20%;A;false
+2705720939;Rabbit - Legs;100000;161;fr;Category 1;TVA 20%;A;true
+4246674097;Crab - Dungeness, Whole;100000;203;fr;Category 8;TVA 20%;A;true
+8272578795;Lettuce - Romaine;100000;121;fr;Category 5;TVA 20%;A;true
+2167542891;Pastry - Mini French Pastries;100000;146;fr;Category 9;TVA 20%;A;true
+2071564977;Cheese - Cheddar, Mild;100000;394;fr;Category 7;TVA 20%;A;false
+475275583;Squid - U 5;100000;333;fr;Category 9;TVA 20%;A;
+1316698175;Garbage Bags - Clear;100000;316;fr;Category 2;TVA 20%;A;false
+9514548553;Longos - Grilled Veg Sandwiches;100000;269;fr;Category 5;TVA 20%;A;false
+2211335742;Tortillas - Flour, 10;100000;327;fr;Category 2;TVA 20%;A;true
+4792998251;Gatorade - Fruit Punch;100000;274;fr;Category 0;TVA 20%;A;true
+2560442746;Bread - Roll, Whole Wheat;100000;259;fr;Category 1;TVA 20%;A;false
+8254471094;Pimento - Canned;100000;187;fr;Category 2;TVA 20%;A;true
+1760762912;Bar Bran Honey Nut;100000;174;fr;Category 0;TVA 20%;A;true
+8198448538;Lettuce - Iceberg;100000;14;fr;Category 0;TVA 20%;A;true
+8143282120;Bread - French Baquette;100000;354;fr;Category 5;TVA 20%;A;false
+1864497827;Wine - Tio Pepe Sherry Fino;100000;334;fr;Category 9;TVA 20%;A;true
+6751560911;Fish - Base, Bouillion;100000;229;fr;Category 4;TVA 20%;A;
+2589029862;Cornstarch;100000;221;fr;Category 9;TVA 20%;A;true
+1155082901;Wine - Jafflin Bourgongone;100000;222;fr;Category 7;TVA 20%;A;false
+8282049725;Wine - Chablis J Moreau Et Fils;100000;364;fr;Category 6;TVA 20%;A;false
+8793619617;Wine - Red Oakridge Merlot;100000;183;fr;Category 9;TVA 20%;A;false
+1135460295;Olives - Green, Pitted;100000;368;fr;Category 0;TVA 20%;A;false
+5294670317;Sugar - Crumb;100000;334;fr;Category 6;TVA 20%;A;false
+274574955;Veal - Striploin;100000;268;fr;Category 8;TVA 20%;A;false
+7906885007;Flour - Rye;100000;12;fr;Category 7;TVA 20%;A;false
+7286871370;Five Alive Citrus;100000;184;fr;Category 8;TVA 20%;A;true
+4230380391;Sambuca - Opal Nera;100000;110;fr;Category 4;TVA 20%;A;false
+4022482360;Asparagus - Mexican;100000;328;fr;Category 4;TVA 20%;A;true
+7545874896;Macaroons - Two Bite Choc;100000;288;fr;Category 8;TVA 20%;A;true
+8237183255;Evaporated Milk - Skim;100000;29;fr;Category 8;TVA 20%;A;false
+1847949446;Wine - Bourgogne 2002, La;100000;313;fr;Category 1;TVA 20%;A;false
+160179095;Bread Foccacia Whole;100000;125;fr;Category 0;TVA 20%;A;true
+7916919743;Arctic Char - Fillets;100000;315;fr;Category 3;TVA 20%;A;false
+7577597894;Sun - Dried Tomatoes;100000;104;fr;Category 6;TVA 20%;A;true
+9201918048;Sauce - Rosee;100000;198;fr;Category 9;TVA 20%;A;true
+7852316254;Chocolate Bar - Oh Henry;100000;150;fr;Category 3;TVA 20%;A;false
+1237723788;Cheese - Swiss;100000;6;fr;Category 1;TVA 20%;A;false
+2478694681;Bar Nature Valley;100000;227;fr;Category 7;TVA 20%;A;false
+9849291658;Juice - Ocean Spray Kiwi;100000;239;fr;Category 0;TVA 20%;A;true
+5429727368;Wine - Red, Gallo, Merlot;100000;380;fr;Category 9;TVA 20%;A;true
+4769811021;Eggs - Extra Large;100000;299;fr;Category 3;TVA 20%;A;false
+8351621001;Coke - Diet, 355 Ml;100000;354;fr;Category 0;TVA 20%;A;false
+2735463841;Miso Paste White;100000;81;fr;Category 9;TVA 20%;A;true
+5342463769;Beef - Striploin;100000;332;fr;Category 4;TVA 20%;A;false
+8660675583;Cheese - Woolwich Goat, Log;100000;121;fr;Category 3;TVA 20%;A;
+4607686145;Laundry - Bag Cloth;100000;279;fr;Category 6;TVA 20%;A;false
+2265587616;Beef - Tenderlion, Center Cut;100000;297;fr;Category 7;TVA 20%;A;false
+1075526710;Oil - Sesame;100000;111;fr;Category 0;TVA 20%;A;true
+596134758;Liqueur Banana, Ramazzotti;100000;394;fr;Category 6;TVA 20%;A;true
+9050274229;Beans - Fine;100000;94;fr;Category 0;TVA 20%;A;true
+2897675877;Avocado;100000;270;fr;Category 0;TVA 20%;A;true
+4034446064;Beer - Creemore;100000;75;fr;Category 4;TVA 20%;A;false
+5137674917;Bread Foccacia Whole;100000;132;fr;Category 3;TVA 20%;A;false
+1175798997;Instant Coffee;100000;326;fr;Category 3;TVA 20%;A;
+7625442563;Pasta - Rotini, Colour, Dry;100000;189;fr;Category 3;TVA 20%;A;true
+8689896379;Sauce - Soya, Dark;100000;368;fr;Category 6;TVA 20%;A;true
+4627275334;Sour Puss Raspberry;100000;312;fr;Category 2;TVA 20%;A;true
+2470827526;Sardines;100000;108;fr;Category 9;TVA 20%;A;true
+6950734755;Beef - Ox Tongue, Pickled;100000;321;fr;Category 7;TVA 20%;A;false
+6777046987;Cherries - Bing, Canned;100000;80;fr;Category 7;TVA 20%;A;true
+5796102512;Wine - Ice Wine;100000;80;fr;Category 1;TVA 20%;A;true
+306579262;Tart Shells - Savory, 4;100000;168;fr;Category 4;TVA 20%;A;true
+754930968;Sardines;100000;57;fr;Category 1;TVA 20%;A;true
+1513236108;Beef - Flank Steak;100000;247;fr;Category 5;TVA 20%;A;false
+6337929455;Dc - Sakura Fu;100000;289;fr;Category 0;TVA 20%;A;false
+9218244389;Island Oasis - Cappucino Mix;100000;156;fr;Category 5;TVA 20%;A;false
+6101404233;Sausage - Andouille;100000;319;fr;Category 5;TVA 20%;A;false
+7909617277;Wine - Casillero Deldiablo;100000;201;fr;Category 2;TVA 20%;A;true
+4216641610;Beef - Roasted, Cooked;100000;217;fr;Category 9;TVA 20%;A;false
+8117703222;Lamb Shoulder Boneless Nz;100000;343;fr;Category 5;TVA 20%;A;true
+1826069343;Sprite, Diet - 355ml;100000;344;fr;Category 0;TVA 20%;A;true
+9009764014;Rice Wine - Aji Mirin;100000;158;fr;Category 0;TVA 20%;A;false
+9602575889;Tortillas - Flour, 10;100000;121;fr;Category 5;TVA 20%;A;true
+4725384028;Squid - U 5;100000;13;fr;Category 3;TVA 20%;A;false
+1429931962;Wine - Semi Dry Riesling Vineland;100000;8;fr;Category 4;TVA 20%;A;false
+9866478298;Pork - Bones;100000;376;fr;Category 4;TVA 20%;A;true
+8293327980;Sobe - Green Tea;100000;305;fr;Category 8;TVA 20%;A;false
+2034264843;Parsley Italian - Fresh;100000;1;fr;Category 3;TVA 20%;A;false
+4576334323;Bay Leaf;100000;170;fr;Category 7;TVA 20%;A;true
+5372376999;Pepper - Jalapeno;100000;194;fr;Category 1;TVA 20%;A;false
+9457710309;Water - Aquafina Vitamin;100000;327;fr;Category 2;TVA 20%;A;false
+5371692917;Compound - Raspberry;100000;266;fr;Category 6;TVA 20%;A;false
+5875257731;Grouper - Fresh;100000;394;fr;Category 1;TVA 20%;A;true
+3849349622;Pepper - Chillies, Crushed;100000;73;fr;Category 1;TVA 20%;A;false
+652698249;Dried Cherries;100000;211;fr;Category 0;TVA 20%;A;false
+8628231795;Cheese - Camembert;100000;33;fr;Category 0;TVA 20%;A;true
+323135269;Coffee - Decafenated;100000;380;fr;Category 1;TVA 20%;A;false
+2640121881;Wine - Peller Estates Late;100000;148;fr;Category 5;TVA 20%;A;true
+7812925302;Coconut - Shredded, Unsweet;100000;338;fr;Category 5;TVA 20%;A;true
+1104907359;Nut - Macadamia;100000;253;fr;Category 7;TVA 20%;A;true
+9688668268;Pop Shoppe Cream Soda;100000;248;fr;Category 0;TVA 20%;A;false
+7406205006;Wine - Barolo Fontanafredda;100000;353;fr;Category 7;TVA 20%;A;true
+4426840679;Butter - Salted, Micro;100000;250;fr;Category 3;TVA 20%;A;false
+5676312876;Beer - Sleeman Fine Porter;100000;214;fr;Category 1;TVA 20%;A;false
+9128075541;Cup - 4oz Translucent;100000;85;fr;Category 0;TVA 20%;A;false
+601236219;Oil - Truffle, Black;100000;309;fr;Category 6;TVA 20%;A;false
+5705503884;Vinegar - White;100000;342;fr;Category 0;TVA 20%;A;true
+356453984;Stock - Veal, White;100000;1;fr;Category 5;TVA 20%;A;true
+7595795752;Sobe - Cranberry Grapefruit;100000;266;fr;Category 4;TVA 20%;A;true
+9601154217;Cookie - Oreo 100x2;100000;4;fr;Category 7;TVA 20%;A;true
+2015522601;Bread - Multigrain, Loaf;100000;363;fr;Category 3;TVA 20%;A;false
+6009685612;Muffin Batt - Blueberry Passion;100000;130;fr;Category 0;TVA 20%;A;true
+601950554;Russian Prince;100000;30;fr;Category 0;TVA 20%;A;true
+5203588818;Quail - Whole, Bone - In;100000;312;fr;Category 5;TVA 20%;A;true
+7359591153;Soup - Campbells - Tomato;100000;237;fr;Category 6;TVA 20%;A;false
+6266710869;Soup - Campbells Beef Strogonoff;100000;306;fr;Category 8;TVA 20%;A;true
+9005586383;Cake - Box Window 10x10x2.5;100000;292;fr;Category 8;TVA 20%;A;false
+5988441302;Yogurt - French Vanilla;100000;365;fr;Category 1;TVA 20%;A;false
+7254536999;Herb Du Provence - Primerba;100000;135;fr;Category 3;TVA 20%;A;false
+8901524144;Beer - Sleemans Honey Brown;100000;279;fr;Category 7;TVA 20%;A;true
+4669847848;Oven Mitts - 15 Inch;100000;11;fr;Category 2;TVA 20%;A;true
+817337890;Table Cloth 53x53 White;100000;123;fr;Category 2;TVA 20%;A;false
+7789682853;Ecolab Digiclean Mild Fm;100000;130;fr;Category 5;TVA 20%;A;true
+2252186629;Pasta - Penne, Rigate, Dry;100000;92;fr;Category 9;TVA 20%;A;true
+3248910631;Tea - Vanilla Chai;100000;260;fr;Category 2;TVA 20%;A;true
+8691279835;Wine - Chardonnay South;100000;60;fr;Category 4;TVA 20%;A;false
+2265088544;Nut - Hazelnut, Whole;100000;113;fr;Category 0;TVA 20%;A;false
+4832076557;Rum - Spiced, Captain Morgan;100000;258;fr;Category 3;TVA 20%;A;true
+5755858538;Pop Shoppe Cream Soda;100000;369;fr;Category 4;TVA 20%;A;true
+4565980336;Pastry - Cherry Danish - Mini;100000;125;fr;Category 3;TVA 20%;A;false
+7612199177;Sugar - Splenda Sweetener;100000;283;fr;Category 4;TVA 20%;A;false
+4419989393;Beef - Flank Steak;100000;210;fr;Category 0;TVA 20%;A;false
+5514300341;Sprouts - Brussel;100000;254;fr;Category 0;TVA 20%;A;false
+1308178711;Wine - Alicanca Vinho Verde;100000;260;fr;Category 1;TVA 20%;A;true
+86114361;Pork - Kidney;100000;381;fr;Category 7;TVA 20%;A;false
+524761314;Roe - White Fish;100000;181;fr;Category 4;TVA 20%;A;false
+3617024833;Chicken - White Meat, No Tender;100000;254;fr;Category 6;TVA 20%;A;true
+9419882520;Dried Apple;100000;67;fr;Category 1;TVA 20%;A;true
+1164516366;Coffee - Cafe Moreno;100000;386;fr;Category 6;TVA 20%;A;true
+5470372865;Hand Towel;100000;177;fr;Category 6;TVA 20%;A;true
+9247361791;Puff Pastry - Slab;100000;175;fr;Category 5;TVA 20%;A;true
+2012652296;Pumpkin - Seed;100000;35;fr;Category 5;TVA 20%;A;true
+8418315606;Ham - Cooked;100000;100;fr;Category 0;TVA 20%;A;true
+5212194559;Lamb - Leg, Diced;100000;188;fr;Category 4;TVA 20%;A;true
+9397732974;Water - Spring 1.5lit;100000;124;fr;Category 6;TVA 20%;A;true
+8389482095;Stock - Beef, White;100000;200;fr;Category 9;TVA 20%;A;true
+7488244786;Flour - All Purpose;100000;121;fr;Category 4;TVA 20%;A;true
+488621315;Clam - Cherrystone;100000;151;fr;Category 2;TVA 20%;A;true
+2208054031;Pail With Metal Handle 16l White;100000;183;fr;Category 5;TVA 20%;A;true
+3528520581;Truffle Paste;100000;295;fr;Category 5;TVA 20%;A;true
+8541684404;Eggs - Extra Large;100000;12;fr;Category 0;TVA 20%;A;false
+2153599717;Cotton Wet Mop 16 Oz;100000;136;fr;Category 3;TVA 20%;A;false
+2901599259;Doilies - 12, Paper;100000;131;fr;Category 2;TVA 20%;A;false
+8172931018;Bagel - Ched Chs Presliced;100000;333;fr;Category 7;TVA 20%;A;false
+4234904401;Veal - Liver;100000;233;fr;Category 6;TVA 20%;A;true
+9096405688;Bay Leaf Ground;100000;65;fr;Category 6;TVA 20%;A;false
+5286625755;Mix - Cocktail Strawberry Daiquiri;100000;348;fr;Category 3;TVA 20%;A;false
+5360950498;Cake - Lemon Chiffon;100000;197;fr;Category 8;TVA 20%;A;true
+7200994468;Sugar - Icing;100000;278;fr;Category 3;TVA 20%;A;true
+1350300068;Tuna - Bluefin;100000;198;fr;Category 8;TVA 20%;A;false
+4717319830;Sausage - Breakfast;100000;63;fr;Category 3;TVA 20%;A;true
+2365493710;Lettuce - Sea / Sea Asparagus;100000;26;fr;Category 6;TVA 20%;A;true
+1323724059;Appetiser - Bought;100000;84;fr;Category 4;TVA 20%;A;true
+6586301503;Beans - Kidney White;100000;298;fr;Category 7;TVA 20%;A;true
+2508093592;Crab - Back Fin Meat, Canned;100000;374;fr;Category 6;TVA 20%;A;true
+1188233840;Water - Mineral, Carbonated;100000;348;fr;Category 9;TVA 20%;A;true
+6718459476;Catfish - Fillets;100000;303;fr;Category 9;TVA 20%;A;false
+2401081044;Turkey - Breast, Smoked;100000;7;fr;Category 8;TVA 20%;A;false
+3432818251;Hipnotiq Liquor;100000;273;fr;Category 1;TVA 20%;A;false
+5104372230;Pomello;100000;52;fr;Category 9;TVA 20%;A;true
+4179108886;Fudge - Chocolate Fudge;100000;239;fr;Category 7;TVA 20%;A;false
+2033616209;Sprouts Dikon;100000;267;fr;Category 6;TVA 20%;A;true
+1119911315;Table Cloth 72x144 White;100000;75;fr;Category 2;TVA 20%;A;true
+3453084304;Beef - Cow Feet Split;100000;351;fr;Category 8;TVA 20%;A;true
+1514580784;Flour - So Mix Cake White;100000;267;fr;Category 7;TVA 20%;A;false
+8404481836;Extract - Vanilla,artificial;100000;350;fr;Category 5;TVA 20%;A;false
+1957161445;Sour Puss - Tangerine;100000;137;fr;Category 5;TVA 20%;A;false
+5584306571;Cheese - Brick With Onion;100000;293;fr;Category 3;TVA 20%;A;true
+7928366528;Cheese - St. Paulin;100000;132;fr;Category 2;TVA 20%;A;false
+4051849070;Hot Choc Vending;100000;180;fr;Category 6;TVA 20%;A;false
+3491586783;Sauce - Apple, Unsweetened;100000;325;fr;Category 2;TVA 20%;A;false
+1371584640;Sparkling Wine - Rose, Freixenet;100000;318;fr;Category 0;TVA 20%;A;true
+5386826472;Water, Tap;100000;222;fr;Category 0;TVA 20%;A;false
+9549353266;Chocolate - Semi Sweet;100000;368;fr;Category 3;TVA 20%;A;true
+4122271529;Yams;100000;110;fr;Category 0;TVA 20%;A;true
+4104196484;Worcestershire Sauce;100000;312;fr;Category 9;TVA 20%;A;true
+263150212;Appetizer - Spring Roll, Veg;100000;240;fr;Category 1;TVA 20%;A;false
+6419619805;Soupfoamcont12oz 112con;100000;287;fr;Category 8;TVA 20%;A;true
+7551039323;Wine - Riesling Alsace Ac 2001;100000;339;fr;Category 5;TVA 20%;A;false
+129459490;Nantucket Orange Juice;100000;297;fr;Category 0;TVA 20%;A;false
+1785489638;Pasta - Fettuccine, Dry;100000;14;fr;Category 3;TVA 20%;A;true
+5890647410;Vinegar - Balsamic;100000;267;fr;Category 2;TVA 20%;A;false
+7144062441;Fudge - Chocolate Fudge;100000;297;fr;Category 1;TVA 20%;A;true
+3022880781;Baking Soda;100000;136;fr;Category 1;TVA 20%;A;false
+4498452984;Vol Au Vents;100000;329;fr;Category 7;TVA 20%;A;false
+1071710553;Coffee - Cafe Moreno;100000;296;fr;Category 1;TVA 20%;A;true
+9281064727;Cookie Choc;100000;322;fr;Category 5;TVA 20%;A;true
+621067123;Butter - Unsalted;100000;316;fr;Category 4;TVA 20%;A;false
+8146940315;Cake Slab;100000;290;fr;Category 3;TVA 20%;A;false
+9714901403;Beer - Muskoka Cream Ale;100000;73;fr;Category 7;TVA 20%;A;true
+2258095575;Dried Apple;100000;333;fr;Category 9;TVA 20%;A;false
+7934625532;Flour - Pastry;100000;226;fr;Category 7;TVA 20%;A;false
+6483280187;Beans - Kidney, Canned;100000;19;fr;Category 3;TVA 20%;A;false
+7461528829;Artichoke - Hearts, Canned;100000;41;fr;Category 6;TVA 20%;A;true
+8575907588;Tart Shells - Savory, 4;100000;71;fr;Category 3;TVA 20%;A;false
+9374115675;Coffee Beans - Chocolate;100000;143;fr;Category 9;TVA 20%;A;false
+7708690157;Red Currant Jelly;100000;59;fr;Category 5;TVA 20%;A;false
+8713623702;Oil - Cooking Spray;100000;375;fr;Category 6;TVA 20%;A;
+1820192169;Cumin - Ground;100000;379;fr;Category 4;TVA 20%;A;false
+4502796150;Wine - Trimbach Pinot Blanc;100000;216;fr;Category 2;TVA 20%;A;true
+1387231997;Soup Campbells Mexicali Tortilla;100000;330;fr;Category 9;TVA 20%;A;true
+8355578184;Lemonade - Kiwi, 591 Ml;100000;295;fr;Category 3;TVA 20%;A;true
+6242019803;Muffin - Zero Transfat;100000;393;fr;Category 4;TVA 20%;A;true
+3262249314;Salmon Steak - Cohoe 6 Oz;100000;6;fr;Category 3;TVA 20%;A;true
+2129492297;Tabasco Sauce, 2 Oz;100000;17;fr;Category 7;TVA 20%;A;false
+853377159;Tart Shells - Sweet, 4;100000;122;fr;Category 1;TVA 20%;A;true
+7839018878;Wine - Sake;100000;64;fr;Category 2;TVA 20%;A;false
+163305156;Sugar - Fine;100000;168;fr;Category 2;TVA 20%;A;true
+335696534;Longos - Chicken Curried;100000;353;fr;Category 0;TVA 20%;A;false
+3009688177;Oregano - Dry, Rubbed;100000;303;fr;Category 6;TVA 20%;A;true
+3175238187;Pasta - Angel Hair;100000;158;fr;Category 8;TVA 20%;A;true
+695496369;Lettuce - Frisee;100000;178;fr;Category 2;TVA 20%;A;true
+4514503579;Garam Masala Powder;100000;155;fr;Category 4;TVA 20%;A;false
+1590231305;Sprouts - Bean;100000;364;fr;Category 6;TVA 20%;A;false
+1488221271;Sugar - Individual Portions;100000;374;fr;Category 0;TVA 20%;A;true
+626409263;Scallops - Live In Shell;100000;383;fr;Category 0;TVA 20%;A;true
+1410835752;Coconut - Creamed, Pure;100000;347;fr;Category 6;TVA 20%;A;true
+7392425079;Liqueur Banana, Ramazzotti;100000;177;fr;Category 6;TVA 20%;A;false
+2511200559;Cocktail Napkin Blue;100000;236;fr;Category 6;TVA 20%;A;false
+9866593278;Lettuce - Spring Mix;100000;254;fr;Category 0;TVA 20%;A;false
+8854217592;Wine - Gato Negro Cabernet;100000;191;fr;Category 3;TVA 20%;A;true
+5569089814;Juice - Cranberry, 341 Ml;100000;34;fr;Category 9;TVA 20%;A;false
+4358300864;Hot Chocolate - Individual;100000;4;fr;Category 1;TVA 20%;A;true
+5817490272;Wine - Lou Black Shiraz;100000;124;fr;Category 9;TVA 20%;A;false
+3044104924;Lemonade - Natural, 591 Ml;100000;6;fr;Category 4;TVA 20%;A;true
+7006266749;Trout - Hot Smkd, Dbl Fillet;100000;289;fr;Category 8;TVA 20%;A;true
+1397265829;Mustard - Seed;100000;134;fr;Category 9;TVA 20%;A;true
+3264066635;Aspic - Light;100000;283;fr;Category 9;TVA 20%;A;false
+8736550087;Onions - White;100000;53;fr;Category 0;TVA 20%;A;true
+9798384725;Passion Fruit;100000;154;fr;Category 3;TVA 20%;A;false
+9454690343;Grenadillo;100000;213;fr;Category 4;TVA 20%;A;true
+3632696425;Wine - Chablis J Moreau Et Fils;100000;23;fr;Category 3;TVA 20%;A;false
+5045786326;Cheese - Bakers Cream Cheese;100000;16;fr;Category 8;TVA 20%;A;false
+1615821972;Wine - Red, Metus Rose;100000;264;fr;Category 5;TVA 20%;A;false
+6520168278;Cookies Oatmeal Raisin;100000;398;fr;Category 1;TVA 20%;A;false
+2492174290;Pasta - Penne Primavera, Single;100000;377;fr;Category 9;TVA 20%;A;true
+7635572829;Tea - Camomele;100000;148;fr;Category 0;TVA 20%;A;false
+8007294196;Bar Mix - Lemon;100000;370;fr;Category 9;TVA 20%;A;true
+8365211807;Ice Cream Bar - Oreo Cone;100000;134;fr;Category 4;TVA 20%;A;true
+1379932194;Juice - Happy Planet;100000;75;fr;Category 5;TVA 20%;A;true
+5931329789;Bread Ww Cluster;100000;83;fr;Category 7;TVA 20%;A;false
+9696236797;Cakes Assorted;100000;313;fr;Category 1;TVA 20%;A;true
+3161402964;Pineapple - Canned, Rings;100000;178;fr;Category 0;TVA 20%;A;
+3995996959;Bread Cranberry Foccacia;100000;303;fr;Category 3;TVA 20%;A;true
+1643845456;Bread - Wheat Baguette;100000;180;fr;Category 7;TVA 20%;A;false
+3256236974;Tart Shells - Sweet, 3;100000;268;fr;Category 0;TVA 20%;A;true
+7785455862;Pastry - Butterscotch Baked;100000;258;fr;Category 6;TVA 20%;A;false
+5751090979;Pork - Inside;100000;218;fr;Category 2;TVA 20%;A;false
+1589663060;Spaghetti Squash;100000;24;fr;Category 0;TVA 20%;A;true
+6766483561;Veal - Kidney;100000;202;fr;Category 1;TVA 20%;A;false
+1811698340;Salmon - Canned;100000;324;fr;Category 8;TVA 20%;A;false
+4943076555;Tuna - Canned, Flaked, Light;100000;5;fr;Category 7;TVA 20%;A;false
+7310630398;Horseradish Root;100000;181;fr;Category 3;TVA 20%;A;false
+8532789326;Trueblue - Blueberry;100000;67;fr;Category 3;TVA 20%;A;false
+9259089812;Soy Protein;100000;213;fr;Category 5;TVA 20%;A;true
+2212565739;Port - 74 Brights;100000;294;fr;Category 3;TVA 20%;A;true
+4240239690;Pie Filling - Cherry;100000;36;fr;Category 5;TVA 20%;A;true
+803103377;Hand Towel;100000;207;fr;Category 5;TVA 20%;A;true
+282698362;Gelatine Leaves - Bulk;100000;342;fr;Category 2;TVA 20%;A;false
+8900456323;Stock - Veal, White;100000;106;fr;Category 2;TVA 20%;A;true
+4867590939;Oil - Pumpkinseed;100000;328;fr;Category 2;TVA 20%;A;true
+3963009268;Pepper - Green;100000;374;fr;Category 3;TVA 20%;A;false
+8785517835;Pie Filling - Pumpkin;100000;77;fr;Category 3;TVA 20%;A;true
+8594836612;Bacardi Limon;100000;54;fr;Category 4;TVA 20%;A;false
+5173089537;Rabbit - Saddles;100000;106;fr;Category 4;TVA 20%;A;false
+9518151213;Pork - Smoked Back Bacon;100000;185;fr;Category 8;TVA 20%;A;true
+6209696162;Sole - Fillet;100000;292;fr;Category 0;TVA 20%;A;false
+9597793311;Halibut - Fletches;100000;163;fr;Category 2;TVA 20%;A;true
+8565680318;Kohlrabi;100000;392;fr;Category 7;TVA 20%;A;false
+4428165643;Tofu - Firm;100000;386;fr;Category 2;TVA 20%;A;true
+8207080809;Sunflower Seed Raw;100000;141;fr;Category 2;TVA 20%;A;true
+8510622595;Sachet;100000;137;fr;Category 7;TVA 20%;A;true
+2589932848;Sunflower Seed Raw;100000;11;fr;Category 1;TVA 20%;A;true
+5303239273;Shrimp - Black Tiger 26/30;100000;292;fr;Category 2;TVA 20%;A;false
+825835869;Garbage Bags - Clear;100000;280;fr;Category 7;TVA 20%;A;false
+1467852116;Water - Evian 355 Ml;100000;318;fr;Category 3;TVA 20%;A;true
+2407373606;Tea - Earl Grey;100000;204;fr;Category 5;TVA 20%;A;true
+5262695083;Mackerel Whole Fresh;100000;57;fr;Category 1;TVA 20%;A;false
+1986759601;Cherries - Maraschino,jar;100000;93;fr;Category 7;TVA 20%;A;true
+5531108335;Soup - Base Broth Beef;100000;381;fr;Category 6;TVA 20%;A;false
+2629385636;Lemonade - Island Tea, 591 Ml;100000;160;fr;Category 7;TVA 20%;A;false
+2951760160;Fennel;100000;354;fr;Category 7;TVA 20%;A;true
+6156367237;Pork - Back Ribs;100000;268;fr;Category 9;TVA 20%;A;false
+1915513109;Pasta - Spaghetti, Dry;100000;31;fr;Category 9;TVA 20%;A;true
+3096653111;Bread - White Mini Epi;100000;289;fr;Category 1;TVA 20%;A;false
+4276364711;Coriander - Ground;100000;371;fr;Category 6;TVA 20%;A;false
+2670215028;Soap - Mr.clean Floor Soap;100000;21;fr;Category 7;TVA 20%;A;true
+5184385452;Orange - Blood;100000;257;fr;Category 6;TVA 20%;A;true
+1930261455;Water - Spring 1.5lit;100000;289;fr;Category 9;TVA 20%;A;false
+446551817;Tandoori Curry Paste;100000;227;fr;Category 9;TVA 20%;A;false
+1595199546;Pants Custom Dry Clean;100000;100;fr;Category 8;TVA 20%;A;true
+8009888156;Quail - Jumbo;100000;93;fr;Category 2;TVA 20%;A;true
+1018066875;Wine - Saint Emilion Calvet;100000;305;fr;Category 2;TVA 20%;A;false
+7330730860;Coffee - Espresso;100000;185;fr;Category 6;TVA 20%;A;false
+6142808247;Bread Ww Cluster;100000;137;fr;Category 0;TVA 20%;A;false
+2521668580;Flour Pastry Super Fine;100000;132;fr;Category 2;TVA 20%;A;true
+7452973635;Toamtoes 6x7 Select;100000;231;fr;Category 0;TVA 20%;A;true
+7223910958;Oxtail - Cut;100000;210;fr;Category 1;TVA 20%;A;false
+2637692749;Filter - Coffee;100000;96;fr;Category 8;TVA 20%;A;false
+3278476543;Sterno - Chafing Dish Fuel;100000;104;fr;Category 2;TVA 20%;A;true
+8214714835;Sea Urchin;100000;330;fr;Category 6;TVA 20%;A;false
+34983927;Mustard Prepared;100000;280;fr;Category 2;TVA 20%;A;true
+7663569609;Island Oasis - Sweet And Sour Mix;100000;392;fr;Category 5;TVA 20%;A;false
+1415709334;Water - San Pellegrino;100000;384;fr;Category 7;TVA 20%;A;false
+4246621231;Cucumber - English;100000;257;fr;Category 7;TVA 20%;A;true
+1930598695;Juice - Apple, 500 Ml;100000;310;fr;Category 8;TVA 20%;A;false
+351084231;Pineapple - Golden;100000;314;fr;Category 8;TVA 20%;A;true
+2602303550;Irish Cream - Butterscotch;100000;210;fr;Category 2;TVA 20%;A;true
+5073140552;Chocolate - Dark;100000;375;fr;Category 3;TVA 20%;A;false
+5786899318;Longan;100000;52;fr;Category 0;TVA 20%;A;false
+4232920164;Sauerkraut;100000;391;fr;Category 3;TVA 20%;A;false
+428269854;Nut - Almond, Blanched, Ground;100000;400;fr;Category 6;TVA 20%;A;false
+787955452;Lentils - Green, Dry;100000;397;fr;Category 8;TVA 20%;A;true
+4541535004;Pastrami;100000;77;fr;Category 3;TVA 20%;A;false
+7950984306;Lamb - Shoulder, Boneless;100000;203;fr;Category 7;TVA 20%;A;true
+9975505107;Soup - Knorr, Veg / Beef;100000;397;fr;Category 8;TVA 20%;A;true
+5390359554;Cheese - Valancey;100000;369;fr;Category 5;TVA 20%;A;true
+4610329265;Clams - Bay;100000;272;fr;Category 3;TVA 20%;A;true
+9665855916;Cornflakes;100000;288;fr;Category 9;TVA 20%;A;
+5613769218;Baking Soda;100000;62;fr;Category 2;TVA 20%;A;false
+1949622756;Salt - Rock, Course;100000;32;fr;Category 6;TVA 20%;A;false
+9717395288;Bread - Roll, Whole Wheat;100000;209;fr;Category 9;TVA 20%;A;false
+7232525266;Isomalt;100000;214;fr;Category 2;TVA 20%;A;false
+711900366;Turnip - Mini;100000;41;fr;Category 0;TVA 20%;A;false
+9045716133;Wine - Pinot Grigio Collavini;100000;182;fr;Category 2;TVA 20%;A;false
+7531822582;Cloves - Whole;100000;383;fr;Category 5;TVA 20%;A;false
+7025196707;Tomatoes Tear Drop Yellow;100000;157;fr;Category 5;TVA 20%;A;true
+6852506493;Pastry - Apple Large;100000;244;fr;Category 6;TVA 20%;A;false
+3774852441;Steamers White;100000;241;fr;Category 0;TVA 20%;A;false
+9433533758;Bread - Bagels, Plain;100000;161;fr;Category 8;TVA 20%;A;true
+1811900284;Flour - Bran, Red;100000;8;fr;Category 2;TVA 20%;A;false
+8328687422;Soup - Campbells Mac N Cheese;100000;158;fr;Category 0;TVA 20%;A;false
+3062915520;Onions - White;100000;75;fr;Category 1;TVA 20%;A;true
+558812693;Nut - Pecan, Pieces;100000;350;fr;Category 6;TVA 20%;A;false
+3456168067;Leeks - Large;100000;77;fr;Category 0;TVA 20%;A;true
+9742863740;Dish Towel;100000;251;fr;Category 2;TVA 20%;A;true
+8114154125;Kellogs Special K Cereal;100000;239;fr;Category 5;TVA 20%;A;
+7001419287;Tart Shells - Sweet, 4;100000;171;fr;Category 0;TVA 20%;A;
+9562566477;Greens Mustard;100000;167;fr;Category 5;TVA 20%;A;false
+6436801213;Veal - Sweetbread;100000;136;fr;Category 0;TVA 20%;A;true
+5933336597;Lamb - Leg, Boneless;100000;10;fr;Category 5;TVA 20%;A;false
+921556605;Bread - English Muffin;100000;103;fr;Category 0;TVA 20%;A;true
+5644457202;Cheese - Brie Roitelet;100000;109;fr;Category 7;TVA 20%;A;true
+1508243179;Wine - Beaujolais Villages;100000;201;fr;Category 5;TVA 20%;A;false
+633552706;Duck - Fat;100000;256;fr;Category 1;TVA 20%;A;true
+6926136590;Wine - Shiraz South Eastern;100000;216;fr;Category 2;TVA 20%;A;false
+6834090064;Wine - Red, Mouton Cadet;100000;13;fr;Category 7;TVA 20%;A;true
+1298450935;Nut - Hazelnut, Whole;100000;117;fr;Category 5;TVA 20%;A;false
+7885342835;Towel - Roll White;100000;222;fr;Category 5;TVA 20%;A;false
+867726623;Transfer Sheets;100000;264;fr;Category 7;TVA 20%;A;false
+6657285140;Veal - Liver;100000;143;fr;Category 6;TVA 20%;A;true
+6600514908;Spice - Paprika;100000;50;fr;Category 8;TVA 20%;A;false
+9388885547;Pastry - Trippleberry Muffin - Mini;100000;227;fr;Category 9;TVA 20%;A;true
+4048037538;Jam - Marmalade, Orange;100000;178;fr;Category 6;TVA 20%;A;false
+7318094365;Lighter - Bbq;100000;224;fr;Category 8;TVA 20%;A;false
+9169588836;Split Peas - Green, Dry;100000;148;fr;Category 9;TVA 20%;A;false
+4640504518;Shrimp - Black Tiger 16/20;100000;213;fr;Category 4;TVA 20%;A;false
+2965783043;Vaccum Bag - 14x20;100000;312;fr;Category 1;TVA 20%;A;false
+2943293579;Tuna - Bluefin;100000;192;fr;Category 2;TVA 20%;A;true
+5895886864;Nut - Hazelnut, Ground, Natural;100000;351;fr;Category 3;TVA 20%;A;false
+5933066823;Turnip - Wax;100000;153;fr;Category 1;TVA 20%;A;
+740761665;Foil - Round Foil;100000;150;fr;Category 1;TVA 20%;A;false
+6453488579;Ecolab - Hobart Upr Prewash Arm;100000;224;fr;Category 5;TVA 20%;A;false
+4744038785;Venison - Liver;100000;197;fr;Category 5;TVA 20%;A;true
+9331925031;Bread - Wheat Baguette;100000;291;fr;Category 9;TVA 20%;A;false
+3092440603;Cranberries - Frozen;100000;336;fr;Category 3;TVA 20%;A;false
+8881160778;Tea - Jasmin Green;100000;311;fr;Category 6;TVA 20%;A;true
+2745752397;Ocean Spray - Ruby Red;100000;16;fr;Category 6;TVA 20%;A;
+2593598471;Arrowroot;100000;265;fr;Category 2;TVA 20%;A;true
+8610124762;Rum - Dark, Bacardi, Black;100000;129;fr;Category 7;TVA 20%;A;false
+1279276042;Table Cloth 90x90 Colour;100000;117;fr;Category 0;TVA 20%;A;true
+4565457789;Momiji Oroshi Chili Sauce;100000;336;fr;Category 0;TVA 20%;A;false
+5630375135;Wine - Chateau Timberlay;100000;23;fr;Category 3;TVA 20%;A;false
+8169032278;Cheese - Mozzarella;100000;394;fr;Category 2;TVA 20%;A;true
+7370029718;Eel - Smoked;100000;35;fr;Category 8;TVA 20%;A;true
+1639276023;Soup - Campbells, Chix Gumbo;100000;327;fr;Category 2;TVA 20%;A;true
+811510194;Sugar - Brown, Individual;100000;354;fr;Category 3;TVA 20%;A;true
+370024291;Pork - Sausage Casing;100000;89;fr;Category 0;TVA 20%;A;true
+9613766466;Salt - Celery;100000;11;fr;Category 4;TVA 20%;A;false
+9251333909;Plasticknivesblack;100000;298;fr;Category 2;TVA 20%;A;true
+6672515755;Table Cloth 120 Round White;100000;290;fr;Category 7;TVA 20%;A;true
+8358144940;Duck - Fat;100000;64;fr;Category 4;TVA 20%;A;false
+4715553236;Cheese - Swiss;100000;70;fr;Category 4;TVA 20%;A;false
+8127532054;Rabbit - Whole;100000;200;fr;Category 1;TVA 20%;A;false
+2095419228;Table Cloth 62x114 Colour;100000;201;fr;Category 8;TVA 20%;A;false
+9425087915;Pears - Anjou;100000;323;fr;Category 3;TVA 20%;A;false
+7330260408;Skewers - Bamboo;100000;317;fr;Category 4;TVA 20%;A;false
+8781635802;Emulsifier;100000;301;fr;Category 5;TVA 20%;A;false
+6602768656;Wine - Sicilia Igt Nero Avola;100000;257;fr;Category 7;TVA 20%;A;false
+1889867119;Flour - Whole Wheat;100000;125;fr;Category 3;TVA 20%;A;false
+2681664330;Wine - Soave Folonari;100000;291;fr;Category 6;TVA 20%;A;true
+1702357865;Bread - Pullman, Sliced;100000;325;fr;Category 2;TVA 20%;A;true
+3624107610;General Purpose Trigger;100000;272;fr;Category 8;TVA 20%;A;false
+9020213741;Tea - Decaf Lipton;100000;245;fr;Category 4;TVA 20%;A;true
+4619678650;Shrimp - Black Tiger 16/20;100000;245;fr;Category 0;TVA 20%;A;true
+7036788699;French Pastries;100000;73;fr;Category 9;TVA 20%;A;true
+8315731078;Wine - Harrow Estates, Vidal;100000;145;fr;Category 6;TVA 20%;A;false
+5198020319;Pork - Loin, Bone - In;100000;245;fr;Category 3;TVA 20%;A;true
+4090000776;Muffin Mix - Lemon Cranberry;100000;345;fr;Category 5;TVA 20%;A;true
+7319586792;Butter Sweet;100000;212;fr;Category 6;TVA 20%;A;false
+8197572094;Beef - Diced;100000;272;fr;Category 6;TVA 20%;A;true
+9328061074;Lobak;100000;244;fr;Category 4;TVA 20%;A;true
+5527260328;Soup V8 Roasted Red Pepper;100000;343;fr;Category 1;TVA 20%;A;false
+7502017752;Pop - Club Soda Can;100000;251;fr;Category 0;TVA 20%;A;true
+4846632620;Longos - Chicken Cordon Bleu;100000;180;fr;Category 9;TVA 20%;A;
+9166458725;Cleaner - Comet;100000;322;fr;Category 4;TVA 20%;A;false
+4792306710;Longos - Grilled Veg Sandwiches;100000;193;fr;Category 7;TVA 20%;A;true
+8387923959;Container - Clear 32 Oz;100000;76;fr;Category 9;TVA 20%;A;false
+7359265836;Shrimp - 21/25, Peel And Deviened;100000;106;fr;Category 6;TVA 20%;A;false
+5291425683;Ice Cream - Turtles Stick Bar;100000;350;fr;Category 9;TVA 20%;A;true
+3009650983;Lettuce Romaine Chopped;100000;117;fr;Category 6;TVA 20%;A;false
+6788895490;Thyme - Dried;100000;208;fr;Category 5;TVA 20%;A;false
+2467216143;Table Cloth 62x114 Colour;100000;117;fr;Category 6;TVA 20%;A;false
+8287417035;Truffle - Peelings;100000;33;fr;Category 7;TVA 20%;A;false
+3438985486;Lamb Shoulder Boneless Nz;100000;216;fr;Category 6;TVA 20%;A;false
+7992154411;Ocean Spray - Ruby Red;100000;58;fr;Category 8;TVA 20%;A;false
+4042166258;Bar - Granola Trail Mix Fruit Nut;100000;293;fr;Category 2;TVA 20%;A;true
+8284997823;Oil - Margarine;100000;316;fr;Category 5;TVA 20%;A;false
+3944583754;Fish - Bones;100000;300;fr;Category 9;TVA 20%;A;true
+4192862360;Olives - Stuffed;100000;206;fr;Category 4;TVA 20%;A;false
+10227936;Bread Country Roll;100000;176;fr;Category 9;TVA 20%;A;false
+5456976839;Beef - Tender Tips;100000;205;fr;Category 0;TVA 20%;A;false
+1470046504;Pickles - Gherkins;100000;20;fr;Category 3;TVA 20%;A;true
+3003882122;Evaporated Milk - Skim;100000;193;fr;Category 3;TVA 20%;A;false
+1351630571;Calypso - Pineapple Passion;100000;147;fr;Category 7;TVA 20%;A;true
+1965744169;Leeks - Baby, White;100000;132;fr;Category 5;TVA 20%;A;true
+3848003529;Cookie - Oreo 100x2;100000;348;fr;Category 0;TVA 20%;A;false
+3604913178;Cookie - Oreo 100x2;100000;241;fr;Category 2;TVA 20%;A;false
+933144383;Shrimp - Black Tiger 6 - 8;100000;298;fr;Category 8;TVA 20%;A;false
+5142029013;Wine - Chablis 2003 Champs;100000;42;fr;Category 6;TVA 20%;A;false
+5525265748;Ecolab Crystal Fusion;100000;172;fr;Category 0;TVA 20%;A;true
+2831275514;Garbag Bags - Black;100000;382;fr;Category 5;TVA 20%;A;false
+8864891213;Tomato - Plum With Basil;100000;196;fr;Category 0;TVA 20%;A;false
+97482633;Tofu - Firm;100000;193;fr;Category 2;TVA 20%;A;true
+6498724740;Wine - Harrow Estates, Vidal;100000;215;fr;Category 8;TVA 20%;A;true
+7062062392;Tomatoes;100000;366;fr;Category 4;TVA 20%;A;false
+3469353144;Sauce - Bernaise, Mix;100000;41;fr;Category 5;TVA 20%;A;true
+4384610611;Bar - Sweet And Salty Chocolate;100000;374;fr;Category 3;TVA 20%;A;true
+1606863490;Wine - Winzer Krems Gruner;100000;23;fr;Category 5;TVA 20%;A;false
+8562856221;Crush - Orange, 355ml;100000;1;fr;Category 0;TVA 20%;A;false
+6659675857;Pork - Side Ribs;100000;285;fr;Category 0;TVA 20%;A;true
+5859176477;Tomatoes - Diced, Canned;100000;38;fr;Category 1;TVA 20%;A;true
+3977429368;Wine - Peller Estates Late;100000;150;fr;Category 6;TVA 20%;A;true
+6562117217;Bread - Raisin Walnut Pull;100000;120;fr;Category 1;TVA 20%;A;false
+2430227636;Pepper - Chillies, Crushed;100000;80;fr;Category 2;TVA 20%;A;false
+285388264;Extract Vanilla Pure;100000;35;fr;Category 2;TVA 20%;A;false
+2564094397;Chinese Lemon Pork;100000;396;fr;Category 5;TVA 20%;A;true
+3285658266;Kellogs Special K Cereal;100000;147;fr;Category 4;TVA 20%;A;false
+1634435147;Stainless Steel Cleaner Vision;100000;317;fr;Category 8;TVA 20%;A;true
+5257897934;Lotus Rootlets - Canned;100000;155;fr;Category 7;TVA 20%;A;true
+9302669318;Vodka - Smirnoff;100000;152;fr;Category 0;TVA 20%;A;true
+6384167158;Eggplant Oriental;100000;282;fr;Category 2;TVA 20%;A;true
+5362947924;Veal - Nuckle;100000;371;fr;Category 2;TVA 20%;A;true
+5212116868;Beer - Sleemans Cream Ale;100000;332;fr;Category 9;TVA 20%;A;false
+6223544225;Cheese - Oka;100000;121;fr;Category 1;TVA 20%;A;true
+8849358395;Coffee - Colombian, Portioned;100000;354;fr;Category 5;TVA 20%;A;true
+67205344;Pasta - Shells, Medium, Dry;100000;216;fr;Category 2;TVA 20%;A;true
+944614021;Cheese - La Sauvagine;100000;199;fr;Category 4;TVA 20%;A;false
+9174551027;Apple - Northern Spy;100000;114;fr;Category 8;TVA 20%;A;true
+3815300502;Wine - Fontanafredda Barolo;100000;81;fr;Category 0;TVA 20%;A;false
+7768087380;Silicone Parch. 16.3x24.3;100000;42;fr;Category 8;TVA 20%;A;false
+9303254996;Bacardi Breezer - Tropical;100000;324;fr;Category 3;TVA 20%;A;false
+3839807924;Chips Potato Swt Chilli Sour;100000;156;fr;Category 1;TVA 20%;A;false
+7299450217;Black Currants;100000;229;fr;Category 0;TVA 20%;A;true
+2740949803;Bread - Bagels, Plain;100000;9;fr;Category 9;TVA 20%;A;false
+6961297046;Gatorade - Orange;100000;124;fr;Category 0;TVA 20%;A;false
+9195783421;Hinge W Undercut;100000;283;fr;Category 6;TVA 20%;A;false
+4638105934;Sprouts - Baby Pea Tendrils;100000;120;fr;Category 8;TVA 20%;A;true
+556370118;Lamb - Shoulder;100000;77;fr;Category 7;TVA 20%;A;true
+6623693462;Ice Cream - Life Savers;100000;15;fr;Category 6;TVA 20%;A;true
+9443059774;Chicken - Tenderloin;100000;110;fr;Category 7;TVA 20%;A;false
+1339996454;Eggplant Oriental;100000;52;fr;Category 8;TVA 20%;A;false
+5079926695;Rice - Basmati;100000;350;fr;Category 2;TVA 20%;A;
+9415597805;Dc - Sakura Fu;100000;164;fr;Category 1;TVA 20%;A;false
+9041622035;Muffin - Bran Ind Wrpd;100000;399;fr;Category 1;TVA 20%;A;false
+4477383821;Pie Filling - Cherry;100000;192;fr;Category 0;TVA 20%;A;false
+7085858667;Mustard - Dijon;100000;99;fr;Category 5;TVA 20%;A;false
+7092071506;Tea - Black Currant;100000;189;fr;Category 0;TVA 20%;A;false
+1279130454;Table Cloth 81x81 Colour;100000;377;fr;Category 9;TVA 20%;A;false
+1931688094;Wine - Placido Pinot Grigo;100000;52;fr;Category 0;TVA 20%;A;true
+2825141419;V8 Pet;100000;258;fr;Category 6;TVA 20%;A;false
+6012150789;Foam Tray S2;100000;355;fr;Category 1;TVA 20%;A;false
+3923656502;Pork - Bacon, Double Smoked;100000;331;fr;Category 9;TVA 20%;A;false
+1828185432;Flour - Strong Pizza;100000;286;fr;Category 7;TVA 20%;A;false
+3844280325;Water - Evian 355 Ml;100000;9;fr;Category 4;TVA 20%;A;false
+6118606095;Wine - Magnotta - Pinot Gris Sr;100000;151;fr;Category 0;TVA 20%;A;false
+3021226101;Wonton Wrappers;100000;248;fr;Category 5;TVA 20%;A;true
+9768693615;Ice Cream - Fudge Bars;100000;9;fr;Category 5;TVA 20%;A;false
+6450681923;Wine - Red, Antinori Santa;100000;379;fr;Category 4;TVA 20%;A;true
+6695525449;Compound - Orange;100000;163;fr;Category 6;TVA 20%;A;false
+1671398540;Flavouring - Raspberry;100000;223;fr;Category 1;TVA 20%;A;false
+8893550131;Filling - Mince Meat;100000;194;fr;Category 5;TVA 20%;A;true
+2343814448;Hinge W Undercut;100000;252;fr;Category 7;TVA 20%;A;true
+8836663112;Juice - Apple, 341 Ml;100000;235;fr;Category 3;TVA 20%;A;true
+9479382677;Onions Granulated;100000;278;fr;Category 4;TVA 20%;A;false
+5421702241;Coke - Diet, 355 Ml;100000;229;fr;Category 6;TVA 20%;A;true
+916678022;Yokaline;100000;234;fr;Category 4;TVA 20%;A;false
+2658517729;Celery Root;100000;366;fr;Category 7;TVA 20%;A;false
+539267431;Soup - Base Broth Beef;100000;365;fr;Category 1;TVA 20%;A;
+5535046077;Daves Island Stinger;100000;194;fr;Category 9;TVA 20%;A;true
+5543527358;Tea - Herbal Sweet Dreams;100000;154;fr;Category 4;TVA 20%;A;true
+3057804334;Wine - Fontanafredda Barolo;100000;129;fr;Category 3;TVA 20%;A;true
+8925620067;Olives - Nicoise;100000;65;fr;Category 7;TVA 20%;A;true
+6660704242;Bar - Sweet And Salty Chocolate;100000;266;fr;Category 2;TVA 20%;A;true
+5936651047;Chocolate - Unsweetened;100000;135;fr;Category 9;TVA 20%;A;false
+1882963015;Chocolate - Milk;100000;370;fr;Category 4;TVA 20%;A;false
+980418118;Rum - White, Gg White;100000;288;fr;Category 1;TVA 20%;A;false
+4603567157;Lychee - Canned;100000;302;fr;Category 5;TVA 20%;A;true
+2746293582;Glass Clear 7 Oz Xl;100000;369;fr;Category 9;TVA 20%;A;true
+4566065872;Oranges - Navel, 72;100000;14;fr;Category 1;TVA 20%;A;true
+885598854;Soup - Campbells - Chicken Noodle;100000;118;fr;Category 4;TVA 20%;A;false
+1383646305;Snapple Lemon Tea;100000;50;fr;Category 5;TVA 20%;A;true
+6358944433;Mini - Vol Au Vents;100000;134;fr;Category 4;TVA 20%;A;false
+9296245390;Shrimp - 16 - 20 Cooked, Peeled;100000;53;fr;Category 8;TVA 20%;A;true
+4187717060;Beef Dry Aged Tenderloin Aaa;100000;93;fr;Category 8;TVA 20%;A;true
+2823810051;The Pop Shoppe - Black Cherry;100000;57;fr;Category 2;TVA 20%;A;true
+4188430528;Crab Brie In Phyllo;100000;317;fr;Category 5;TVA 20%;A;true
+1850421882;Pepper - Roasted Red;100000;341;fr;Category 1;TVA 20%;A;true
+751864127;Vector Energy Bar;100000;205;fr;Category 5;TVA 20%;A;true
+1581418541;Bread - Raisin Walnut Pull;100000;33;fr;Category 0;TVA 20%;A;false
+1000139454;Lid Tray - 16in Dome;100000;305;fr;Category 9;TVA 20%;A;true
+63255284;Soup - Knorr, Country Bean;100000;261;fr;Category 7;TVA 20%;A;false
+6868622248;Beer - Tetleys;100000;358;fr;Category 5;TVA 20%;A;true
+4823236563;Pasta - Penne, Rigate, Dry;100000;327;fr;Category 5;TVA 20%;A;false
+240886456;Chinese Foods - Chicken Wing;100000;129;fr;Category 4;TVA 20%;A;true
+9099718312;Beer - Mcauslan Apricot;100000;32;fr;Category 3;TVA 20%;A;false
+8846525704;Lemonade - Kiwi, 591 Ml;100000;25;fr;Category 9;TVA 20%;A;true
+4107945215;Halibut - Fletches;100000;126;fr;Category 8;TVA 20%;A;false
+6140284353;Pasta - Detalini, White, Fresh;100000;69;fr;Category 5;TVA 20%;A;false
+421204693;Soda Water - Club Soda, 355 Ml;100000;299;fr;Category 5;TVA 20%;A;true
+5862861676;Rice - Basmati;100000;314;fr;Category 8;TVA 20%;A;true
+1740146167;Beef - Short Loin;100000;180;fr;Category 0;TVA 20%;A;false
+6669294351;Tuna - Fresh;100000;228;fr;Category 4;TVA 20%;A;true
+8805266566;Nantucket - Carrot Orange;100000;190;fr;Category 2;TVA 20%;A;false
+4953690593;Pasta - Bauletti, Chicken White;100000;283;fr;Category 9;TVA 20%;A;true
+6326587315;Wine - Segura Viudas Aria Brut;100000;376;fr;Category 3;TVA 20%;A;true
+7698157440;Oven Mitts - 15 Inch;100000;239;fr;Category 7;TVA 20%;A;false
+3917779918;Wiberg Cure;100000;56;fr;Category 0;TVA 20%;A;false
+7342596213;Cheese - Brie, Cups 125g;100000;355;fr;Category 4;TVA 20%;A;true
+8654770930;Pasta - Ravioli;100000;373;fr;Category 5;TVA 20%;A;true
+9507718792;Chips - Potato Jalapeno;100000;163;fr;Category 3;TVA 20%;A;false
+3299839712;Melon - Cantaloupe;100000;31;fr;Category 1;TVA 20%;A;true
+2018473099;Containter - 3oz Microwave Rect.;100000;63;fr;Category 8;TVA 20%;A;true
+6347900270;Beer - Muskoka Cream Ale;100000;322;fr;Category 2;TVA 20%;A;false
+722042828;Bread - French Baquette;100000;322;fr;Category 7;TVA 20%;A;false
+5506789063;Tea - English Breakfast;100000;233;fr;Category 7;TVA 20%;A;true
+9318203536;Flour Pastry Super Fine;100000;53;fr;Category 2;TVA 20%;A;true
+7879157414;Bread - Granary Small Pull;100000;202;fr;Category 5;TVA 20%;A;false
+3107319586;Chicken - Whole;100000;204;fr;Category 6;TVA 20%;A;false
+5334399220;Chip - Potato Dill Pickle;100000;35;fr;Category 0;TVA 20%;A;false
+1312506119;Easy Off Oven Cleaner;100000;393;fr;Category 5;TVA 20%;A;true
+889144615;Buffalo - Striploin;100000;33;fr;Category 4;TVA 20%;A;
+3254535233;Muffin Mix - Morning Glory;100000;359;fr;Category 9;TVA 20%;A;false
+1494630672;Cookie Chocolate Chip With;100000;20;fr;Category 3;TVA 20%;A;false
+1461461371;Tuna - Yellowfin;100000;264;fr;Category 6;TVA 20%;A;true
+1880074968;Ginsing - Fresh;100000;80;fr;Category 2;TVA 20%;A;true
+7583798710;Sausage - Breakfast;100000;207;fr;Category 3;TVA 20%;A;true
+805175756;Kohlrabi;100000;227;fr;Category 8;TVA 20%;A;false
+763413900;Plate Foam Laminated 9in Blk;100000;400;fr;Category 4;TVA 20%;A;false
+2916193847;Pepper - Chillies, Crushed;100000;125;fr;Category 7;TVA 20%;A;false
+2314810689;Pork - Back, Short Cut, Boneless;100000;157;fr;Category 9;TVA 20%;A;true
+5309179356;Shrimp - 16/20, Peeled Deviened;100000;121;fr;Category 2;TVA 20%;A;true
+3094383441;Container - Clear 16 Oz;100000;217;fr;Category 9;TVA 20%;A;false
+2948771068;Tea - Herbal I Love Lemon;100000;397;fr;Category 2;TVA 20%;A;false
+695109312;Tobasco Sauce;100000;272;fr;Category 8;TVA 20%;A;true
+673610387;Lemons;100000;150;fr;Category 8;TVA 20%;A;true
+7649773660;Sansho Powder;100000;146;fr;Category 6;TVA 20%;A;false
+9885418526;Ecolab Digiclean Mild Fm;100000;399;fr;Category 9;TVA 20%;A;false
+5575611424;Wine - Riesling Dr. Pauly;100000;388;fr;Category 5;TVA 20%;A;true
+4847506521;Pork - Ham Hocks - Smoked;100000;193;fr;Category 5;TVA 20%;A;true
+6431062819;Five Alive Citrus;100000;230;fr;Category 8;TVA 20%;A;false
+7617574191;Island Oasis - Cappucino Mix;100000;11;fr;Category 9;TVA 20%;A;true
+7356184893;Cheese - Cheddar With Claret;100000;305;fr;Category 8;TVA 20%;A;true
+4960888041;Pepper - Cubanelle;100000;220;fr;Category 3;TVA 20%;A;true
+4841212040;Milk - Chocolate 500ml;100000;322;fr;Category 1;TVA 20%;A;true
+7643978466;Bagel - Everything;100000;97;fr;Category 9;TVA 20%;A;true
+7108691831;Ham - Virginia;100000;182;fr;Category 2;TVA 20%;A;false
+5985438517;Napkin - Cocktail,beige 2 - Ply;100000;233;fr;Category 5;TVA 20%;A;false
+7603428730;Oranges - Navel, 72;100000;132;fr;Category 0;TVA 20%;A;true
+1053210688;Tuna - Canned, Flaked, Light;100000;223;fr;Category 7;TVA 20%;A;false
+2332990938;Squash - Butternut;100000;324;fr;Category 7;TVA 20%;A;true
+1843826148;Greens Mustard;100000;167;fr;Category 5;TVA 20%;A;false
+2418943104;Glaze - Clear;100000;386;fr;Category 8;TVA 20%;A;true
+8463451432;Crab - Soft Shell;100000;81;fr;Category 4;TVA 20%;A;false
+1764318227;Grapes - Black;100000;175;fr;Category 6;TVA 20%;A;true
+2391106830;Calypso - Pineapple Passion;100000;191;fr;Category 5;TVA 20%;A;false
+6656367550;Glass Clear 8 Oz;100000;228;fr;Category 0;TVA 20%;A;true
+5484231106;Lamb Leg - Bone - In Nz;100000;213;fr;Category 3;TVA 20%;A;false
+114943961;Cherries - Frozen;100000;47;fr;Category 2;TVA 20%;A;false
+7452173532;Chinese Lemon Pork;100000;400;fr;Category 2;TVA 20%;A;true
+1484238677;Ocean Spray - Kiwi Strawberry;100000;300;fr;Category 4;TVA 20%;A;false
+124951054;Chicken - White Meat With Tender;100000;235;fr;Category 1;TVA 20%;A;false
+9221200875;Soupcontfoam16oz 116con;100000;118;fr;Category 5;TVA 20%;A;false
+8511187921;Cheese Cheddar Processed;100000;381;fr;Category 0;TVA 20%;A;false
+1035193450;Cheese - Brie,danish;100000;86;fr;Category 0;TVA 20%;A;true
+2675013799;Beer - Upper Canada Light;100000;3;fr;Category 2;TVA 20%;A;false
+9396736738;Breakfast Quesadillas;100000;39;fr;Category 4;TVA 20%;A;false
+3340880106;Horseradish - Prepared;100000;176;fr;Category 5;TVA 20%;A;false
+2584797759;Eggplant - Baby;100000;352;fr;Category 2;TVA 20%;A;true
+7005482319;Oregano - Dry, Rubbed;100000;206;fr;Category 6;TVA 20%;A;true
+125353154;Beans - Turtle, Black, Dry;100000;382;fr;Category 4;TVA 20%;A;false
+9914965126;Pastry - Key Limepoppy Seed Tea;100000;231;fr;Category 8;TVA 20%;A;false
+80860796;Ham - Cooked;100000;57;fr;Category 1;TVA 20%;A;false
+8338812441;Squash - Pepper;100000;121;fr;Category 4;TVA 20%;A;false
+177694837;Chervil - Fresh;100000;7;fr;Category 5;TVA 20%;A;false
+1741204744;Uniform Linen Charge;100000;180;fr;Category 9;TVA 20%;A;true
+2221405997;Cheese - Brick With Pepper;100000;225;fr;Category 4;TVA 20%;A;true
+8559690373;Wine - Beaujolais Villages;100000;119;fr;Category 0;TVA 20%;A;
+8755586791;Soup - Campbells Mac N Cheese;100000;87;fr;Category 0;TVA 20%;A;true
+4300987356;Tomatoes - Hot House;100000;229;fr;Category 3;TVA 20%;A;false
+3024808133;Gatorade - Fruit Punch;100000;203;fr;Category 9;TVA 20%;A;false
+3875830139;Dried Figs;100000;167;fr;Category 2;TVA 20%;A;true
+3994527379;Mountain Dew;100000;246;fr;Category 2;TVA 20%;A;true
+8193770886;Capicola - Hot;100000;228;fr;Category 3;TVA 20%;A;false
+3430925736;Wine - Pinot Noir Stoneleigh;100000;395;fr;Category 3;TVA 20%;A;true
+6437013637;Scallops - In Shell;100000;327;fr;Category 5;TVA 20%;A;false
+7304264153;Salsify, Organic;100000;51;fr;Category 0;TVA 20%;A;false
+6778376518;Tea - Camomele;100000;154;fr;Category 6;TVA 20%;A;false
+5533684933;Ham - Cooked Bayonne Tinned;100000;142;fr;Category 6;TVA 20%;A;true
+5690874756;Bonito Flakes - Toku Katsuo;100000;56;fr;Category 8;TVA 20%;A;true
+528296770;Juice - Cranberry, 341 Ml;100000;339;fr;Category 2;TVA 20%;A;false
+395910386;Toamtoes 6x7 Select;100000;195;fr;Category 4;TVA 20%;A;true
+4267444307;Cheese - Shred Cheddar / Mozza;100000;279;fr;Category 5;TVA 20%;A;true
+4248975124;Beef Dry Aged Tenderloin Aaa;100000;287;fr;Category 2;TVA 20%;A;false
+6250977712;Soup - Knorr, French Onion;100000;190;fr;Category 3;TVA 20%;A;true
+3223501065;Milk - Chocolate 250 Ml;100000;182;fr;Category 6;TVA 20%;A;false
+7012197631;Quail - Eggs, Fresh;100000;25;fr;Category 7;TVA 20%;A;false
+9098748976;The Pop Shoppe - Root Beer;100000;4;fr;Category 3;TVA 20%;A;true
+4102087630;Amaretto;100000;47;fr;Category 8;TVA 20%;A;false
+4126311729;Stock - Veal, Brown;100000;8;fr;Category 3;TVA 20%;A;false
+6306874684;Paper Towel Touchless;100000;92;fr;Category 1;TVA 20%;A;true
+868377423;Cheese - Roquefort Pappillon;100000;108;fr;Category 7;TVA 20%;A;false
+8350669598;Beer - Blue Light;100000;308;fr;Category 5;TVA 20%;A;true
+8084709897;Pineapple - Golden;100000;31;fr;Category 0;TVA 20%;A;true
+4641406479;Apple - Northern Spy;100000;131;fr;Category 8;TVA 20%;A;false
+5495275347;Cup - 4oz Translucent;100000;145;fr;Category 0;TVA 20%;A;true
+9952003394;Wine - Malbec Trapiche Reserve;100000;141;fr;Category 6;TVA 20%;A;false
+9630463286;Soup - Campbells Beef Stew;100000;298;fr;Category 7;TVA 20%;A;true
+3157897978;Tia Maria;100000;70;fr;Category 2;TVA 20%;A;true
+5385475503;Wine - Chianti Classica Docg;100000;258;fr;Category 5;TVA 20%;A;false
+3881863479;Blueberries;100000;62;fr;Category 4;TVA 20%;A;false
+4777563156;Wine - Puligny Montrachet A.;100000;102;fr;Category 3;TVA 20%;A;false
+6827083155;Chocolate - Unsweetened;100000;154;fr;Category 1;TVA 20%;A;false
+9905092643;Pork - Shoulder;100000;186;fr;Category 3;TVA 20%;A;true
+784594261;Wine - Shiraz Wolf Blass Premium;100000;385;fr;Category 7;TVA 20%;A;true
+2131039884;Chicken - Leg / Back Attach;100000;157;fr;Category 7;TVA 20%;A;true
+9266512523;Glycerine;100000;231;fr;Category 1;TVA 20%;A;false
+2456215016;Lid - Translucent, 3.5 And 6 Oz;100000;379;fr;Category 9;TVA 20%;A;
+6619874168;The Pop Shoppe - Lime Rickey;100000;259;fr;Category 9;TVA 20%;A;true
+9118333133;Coke - Diet, 355 Ml;100000;231;fr;Category 9;TVA 20%;A;false
+4361658135;Wine - White, Ej;100000;250;fr;Category 8;TVA 20%;A;true
+2778619656;Island Oasis - Cappucino Mix;100000;207;fr;Category 8;TVA 20%;A;false
+4996810527;Buffalo - Tenderloin;100000;181;fr;Category 3;TVA 20%;A;true
+20052781;Corn Syrup;100000;281;fr;Category 8;TVA 20%;A;true
+8715232181;Red Currants;100000;56;fr;Category 7;TVA 20%;A;true
+6785913608;Spice - Peppercorn Melange;100000;211;fr;Category 0;TVA 20%;A;true
+2350904425;Chivas Regal - 12 Year Old;100000;39;fr;Category 7;TVA 20%;A;true
+8906064133;Cheese Cheddar Processed;100000;298;fr;Category 0;TVA 20%;A;true
+6893454370;Wine - Pinot Noir Stoneleigh;100000;274;fr;Category 9;TVA 20%;A;false
+2234954293;Potatoes - Purple, Organic;100000;107;fr;Category 8;TVA 20%;A;true
+2574463390;Lid - High Heat, Super Clear;100000;239;fr;Category 0;TVA 20%;A;false
+4811513540;Long Island Ice Tea;100000;346;fr;Category 8;TVA 20%;A;false
+2805569628;Juice - Orange, Concentrate;100000;100;fr;Category 6;TVA 20%;A;false
+6721388534;Beans - Soya Bean;100000;375;fr;Category 6;TVA 20%;A;false
+1302634007;Breadfruit;100000;41;fr;Category 5;TVA 20%;A;false
+1314944872;Peach - Halves;100000;208;fr;Category 2;TVA 20%;A;false
+4744736504;Halibut - Whole, Fresh;100000;115;fr;Category 3;TVA 20%;A;true
+4710365442;Wine - Two Oceans Cabernet;100000;366;fr;Category 6;TVA 20%;A;false
+6162052629;Pastry - Cherry Danish - Mini;100000;183;fr;Category 1;TVA 20%;A;true
+7924842908;Soup - Campbells, Butternut;100000;359;fr;Category 3;TVA 20%;A;false
+8169918131;Grenadine;100000;295;fr;Category 9;TVA 20%;A;true
+8864165151;Ginger - Crystalized;100000;358;fr;Category 1;TVA 20%;A;false
+5283163108;Gatorade - Xfactor Berry;100000;400;fr;Category 5;TVA 20%;A;true
+3422676943;Cookie Dough - Peanut Butter;100000;19;fr;Category 6;TVA 20%;A;true
+1581004768;Pesto - Primerba, Paste;100000;3;fr;Category 2;TVA 20%;A;false
+7144892175;Cake - Lemon Chiffon;100000;386;fr;Category 4;TVA 20%;A;true
+8200967653;Banana - Green;100000;326;fr;Category 8;TVA 20%;A;true
+9373479157;Jack Daniels;100000;320;fr;Category 6;TVA 20%;A;false
+4870145688;Beans - Yellow;100000;166;fr;Category 9;TVA 20%;A;false
+9040182740;Bread - Flat Bread;100000;138;fr;Category 7;TVA 20%;A;true
+8817864142;Bag Clear 10 Lb;100000;32;fr;Category 7;TVA 20%;A;true
+1840100065;Salmon - Atlantic, Fresh, Whole;100000;295;fr;Category 4;TVA 20%;A;true
+8182363845;Lid - 3oz Med Rec;100000;396;fr;Category 5;TVA 20%;A;true
+385153801;Tumeric;100000;123;fr;Category 9;TVA 20%;A;true
+6408289642;Dill Weed - Dry;100000;346;fr;Category 6;TVA 20%;A;true
+3062883308;Wine - Carmenere Casillero Del;100000;380;fr;Category 3;TVA 20%;A;true
+3500456758;Cheese - Bocconcini;100000;19;fr;Category 0;TVA 20%;A;false
+6428955805;Wasabi Powder;100000;378;fr;Category 6;TVA 20%;A;true
+1460941546;Oil - Food, Lacquer Spray;100000;179;fr;Category 3;TVA 20%;A;true
+8470237760;Mikes Hard Lemonade;100000;76;fr;Category 2;TVA 20%;A;true
+6759025961;Apron;100000;347;fr;Category 3;TVA 20%;A;true
+8775883842;Soap - Mr.clean Floor Soap;100000;108;fr;Category 6;TVA 20%;A;false
+4615952090;Fib N9 - Prague Powder;100000;316;fr;Category 1;TVA 20%;A;false
+932060056;Muffin - Bran Ind Wrpd;100000;261;fr;Category 2;TVA 20%;A;true
+8855842124;Cornstarch;100000;374;fr;Category 7;TVA 20%;A;false
+6367934617;Chips Potato All Dressed - 43g;100000;362;fr;Category 0;TVA 20%;A;true
+3908367731;Pork Salted Bellies;100000;293;fr;Category 8;TVA 20%;A;false
+8755651120;Russian Prince;100000;96;fr;Category 2;TVA 20%;A;true
+6715255320;Sweet Pea Sprouts;100000;272;fr;Category 6;TVA 20%;A;true
+7378077741;Ostrich - Fan Fillet;100000;213;fr;Category 5;TVA 20%;A;false
+1318246141;Wine - White, Concha Y Toro;100000;178;fr;Category 6;TVA 20%;A;true
+6104896720;Appetizer - Shrimp Puff;100000;158;fr;Category 6;TVA 20%;A;true
+5806818244;Cheese - Brie;100000;10;fr;Category 3;TVA 20%;A;true
+3472062959;Macaroons - Homestyle Two Bit;100000;231;fr;Category 1;TVA 20%;A;true
+3619509006;Lemonade - Pineapple Passion;100000;91;fr;Category 9;TVA 20%;A;true
+8626551483;Pepper - Orange;100000;327;fr;Category 4;TVA 20%;A;true
+2146587000;Quail - Eggs, Fresh;100000;4;fr;Category 1;TVA 20%;A;true
+3578772559;Bok Choy - Baby;100000;121;fr;Category 6;TVA 20%;A;true
+6157634684;Soup - Base Broth Chix;100000;72;fr;Category 1;TVA 20%;A;true
+8653014028;Cheese - Blue;100000;236;fr;Category 3;TVA 20%;A;false
+2471901434;Nescafe - Frothy French Vanilla;100000;65;fr;Category 4;TVA 20%;A;false
+5978401988;Bouq All Italian - Primerba;100000;205;fr;Category 3;TVA 20%;A;false
+9194173939;Sobe - Cranberry Grapefruit;100000;176;fr;Category 8;TVA 20%;A;false
+8769184076;Liquid Aminios Acid - Braggs;100000;78;fr;Category 3;TVA 20%;A;false
+4695020843;Shrimp, Dried, Small / Lb;100000;282;fr;Category 0;TVA 20%;A;true
+5912791457;Puree - Passion Fruit;100000;124;fr;Category 6;TVA 20%;A;true
+1404160348;Beer - Mill St Organic;100000;327;fr;Category 7;TVA 20%;A;false
+8317764884;Nut - Pine Nuts, Whole;100000;265;fr;Category 9;TVA 20%;A;false
+6844507284;Wine - Prosecco Valdobienne;100000;195;fr;Category 0;TVA 20%;A;true
+8776659020;Asparagus - White, Fresh;100000;13;fr;Category 4;TVA 20%;A;false
+4108470923;Carbonated Water - Wildberry;100000;173;fr;Category 7;TVA 20%;A;false
+2432998766;Wine - Magnotta - Pinot Gris Sr;100000;34;fr;Category 4;TVA 20%;A;true
+7438146214;Wine - Chianti Classico Riserva;100000;3;fr;Category 4;TVA 20%;A;false
+9099510472;Tea - Lemon Green Tea;100000;94;fr;Category 4;TVA 20%;A;false
+5991308681;Veal - Ground;100000;185;fr;Category 6;TVA 20%;A;false
+5385474630;Wine - Sake;100000;156;fr;Category 1;TVA 20%;A;true
+255990616;Wine - Red, Black Opal Shiraz;100000;355;fr;Category 3;TVA 20%;A;false
+8032443675;Vinegar - Cider;100000;210;fr;Category 6;TVA 20%;A;false
+8491791961;Sauce - Salsa;100000;395;fr;Category 1;TVA 20%;A;
+1667848776;Compound - Mocha;100000;154;fr;Category 8;TVA 20%;A;false
+329679378;Island Oasis - Lemonade;100000;70;fr;Category 6;TVA 20%;A;false
+7864520104;Muffin - Mix - Creme Brule 15l;100000;190;fr;Category 0;TVA 20%;A;true
+1947313742;Soup - Base Broth Beef;100000;27;fr;Category 3;TVA 20%;A;false
+2696290857;Sprouts - China Rose;100000;387;fr;Category 8;TVA 20%;A;false
+7682795970;Salt And Pepper Mix - White;100000;11;fr;Category 0;TVA 20%;A;true
+587744940;Wine - White, Ej Gallo;100000;329;fr;Category 7;TVA 20%;A;true
+1583833221;Kiwano;100000;40;fr;Category 2;TVA 20%;A;false
+3212806997;Pork - Bacon, Double Smoked;100000;126;fr;Category 4;TVA 20%;A;true
+5093194458;Ice Cream Bar - Hagen Daz;100000;376;fr;Category 2;TVA 20%;A;true
+7836669860;Pasta - Fettuccine, Dry;100000;281;fr;Category 9;TVA 20%;A;true
+3672179503;Lamb - Rack;100000;343;fr;Category 1;TVA 20%;A;false
+6222575485;Curry Paste - Madras;100000;208;fr;Category 6;TVA 20%;A;false
+8245926653;Oregano - Fresh;100000;192;fr;Category 6;TVA 20%;A;true
+3274961648;Instant Coffee;100000;121;fr;Category 4;TVA 20%;A;false
+503846240;Crackers - Graham;100000;108;fr;Category 9;TVA 20%;A;true
+5080449110;Soy Protein;100000;6;fr;Category 9;TVA 20%;A;false
+1204986979;Fireball Whisky;100000;27;fr;Category 1;TVA 20%;A;false
+5859149592;Tendrils - Baby Pea, Organic;100000;336;fr;Category 6;TVA 20%;A;true
+6862726720;Water Chestnut - Canned;100000;223;fr;Category 3;TVA 20%;A;false
+6918951170;Rolled Oats;100000;38;fr;Category 0;TVA 20%;A;false
+6702061207;Pears - Anjou;100000;171;fr;Category 8;TVA 20%;A;false
+3590032682;Jameson - Irish Whiskey;100000;34;fr;Category 3;TVA 20%;A;true
+5148906415;Cookie - Dough Variety;100000;81;fr;Category 9;TVA 20%;A;true
+2641579756;Syrup - Monin - Blue Curacao;100000;178;fr;Category 9;TVA 20%;A;false
+2414275136;Quail - Jumbo Boneless;100000;345;fr;Category 9;TVA 20%;A;false
+2578758671;Chambord Royal;100000;176;fr;Category 4;TVA 20%;A;false
+1853246741;Bar Mix - Pina Colada, 355 Ml;100000;267;fr;Category 8;TVA 20%;A;false
+1961643772;Pie Filling - Cherry;100000;372;fr;Category 5;TVA 20%;A;false
+2233722708;Cranberries - Fresh;100000;53;fr;Category 9;TVA 20%;A;false
+8337413674;Cheese - Stilton;100000;200;fr;Category 1;TVA 20%;A;false
+6514142462;Beef - Outside, Round;100000;85;fr;Category 9;TVA 20%;A;false
+9564017894;Crab - Claws, Snow 16 - 24;100000;9;fr;Category 6;TVA 20%;A;true
+4720259673;Nantuket Peach Orange;100000;71;fr;Category 6;TVA 20%;A;false
+6865304576;Beer - Creemore;100000;61;fr;Category 8;TVA 20%;A;false
+3941960452;Wine - White, Gewurtzraminer;100000;17;fr;Category 8;TVA 20%;A;true
+2807929593;Wine - Vouvray Cuvee Domaine;100000;214;fr;Category 3;TVA 20%;A;true
+5879022371;Bananas;100000;367;fr;Category 6;TVA 20%;A;false
+8897786128;Bread - Hamburger Buns;100000;163;fr;Category 0;TVA 20%;A;false
+352907119;Tea - Decaf 1 Cup;100000;330;fr;Category 7;TVA 20%;A;true
+2812617392;Lamb Rack - Ontario;100000;119;fr;Category 4;TVA 20%;A;true
+8969305871;Campari;100000;226;fr;Category 0;TVA 20%;A;false
+7379223421;Pork Loin Bine - In Frenched;100000;154;fr;Category 4;TVA 20%;A;false
+7254304847;Pur Value;100000;203;fr;Category 0;TVA 20%;A;false
+1435366459;Cookies Almond Hazelnut;100000;130;fr;Category 1;TVA 20%;A;false
+6222987718;Wine - German Riesling;100000;239;fr;Category 0;TVA 20%;A;false
+8468868119;Nantuket Peach Orange;100000;147;fr;Category 3;TVA 20%;A;true
+8977250988;Pepper - Pablano;100000;334;fr;Category 9;TVA 20%;A;true
+8775715296;Extract Vanilla Pure;100000;113;fr;Category 8;TVA 20%;A;false
+2235391326;Soup - Canadian Pea, Dry Mix;100000;388;fr;Category 8;TVA 20%;A;true
+4697598050;Salmon Steak - Cohoe 6 Oz;100000;121;fr;Category 5;TVA 20%;A;true
+9451125846;Wine - Valpolicella Masi;100000;200;fr;Category 5;TVA 20%;A;false
+9999871404;Ice Cream Bar - Hageen Daz To;100000;323;fr;Category 2;TVA 20%;A;true
+6865311958;Sauce - White, Mix;100000;264;fr;Category 9;TVA 20%;A;true
+5684205280;Oil - Sesame;100000;99;fr;Category 5;TVA 20%;A;false
+440220992;Flower - Dish Garden;100000;190;fr;Category 5;TVA 20%;A;true
+3322637832;Cake - French Pear Tart;100000;241;fr;Category 3;TVA 20%;A;false
+5826778734;Bread Country Roll;100000;71;fr;Category 3;TVA 20%;A;true
+483694071;Beef - Short Ribs;100000;121;fr;Category 4;TVA 20%;A;true
+4060774306;Cheese Cloth No 100;100000;283;fr;Category 1;TVA 20%;A;false
+9568741137;Chick Peas - Canned;100000;89;fr;Category 9;TVA 20%;A;false
+9452780272;Wine - Semi Dry Riesling Vineland;100000;161;fr;Category 0;TVA 20%;A;true
+8036498974;Ham - Proscuitto;100000;46;fr;Category 4;TVA 20%;A;true
+6416984669;Wine - Saint Emilion Calvet;100000;212;fr;Category 8;TVA 20%;A;false
+8010354663;Lettuce - California Mix;100000;94;fr;Category 1;TVA 20%;A;false
+3897381629;Cherries - Bing, Canned;100000;132;fr;Category 9;TVA 20%;A;true
+2058618322;Jam - Apricot;100000;351;fr;Category 7;TVA 20%;A;false
+1477761068;Jagermeister;100000;286;fr;Category 0;TVA 20%;A;false
+2538874765;Wine - Trimbach Pinot Blanc;100000;213;fr;Category 1;TVA 20%;A;true
+9439968793;Asparagus - Green, Fresh;100000;393;fr;Category 6;TVA 20%;A;true
+6306284720;Coffee - Irish Cream;100000;243;fr;Category 7;TVA 20%;A;false
+337200588;Chocolate - Unsweetened;100000;18;fr;Category 8;TVA 20%;A;true
+1648943492;Pepper Squash;100000;357;fr;Category 9;TVA 20%;A;false
+3278818769;Tortillas - Flour, 8;100000;7;fr;Category 6;TVA 20%;A;false
+6532629598;Cheese - Bocconcini;100000;319;fr;Category 0;TVA 20%;A;true
+3463755035;Extract - Lemon;100000;362;fr;Category 3;TVA 20%;A;true
+1018328090;Chips - Potato Jalapeno;100000;241;fr;Category 1;TVA 20%;A;true
+5874182807;Coffee - Frthy Coffee Crisp;100000;148;fr;Category 0;TVA 20%;A;true
+8286043663;Lemonade - Natural, 591 Ml;100000;142;fr;Category 1;TVA 20%;A;false
+7647406148;Napkin - Dinner, White;100000;200;fr;Category 1;TVA 20%;A;true
+6998443182;Bagel - Everything;100000;335;fr;Category 1;TVA 20%;A;true
+6691701651;Carbonated Water - Blackcherry;100000;130;fr;Category 8;TVA 20%;A;false
+6777766284;Ham - Cooked Bayonne Tinned;100000;328;fr;Category 5;TVA 20%;A;false
+8293000147;Plate Pie Foil;100000;65;fr;Category 9;TVA 20%;A;false
+6300778750;Cheese - Stilton;100000;37;fr;Category 6;TVA 20%;A;false
+5352656831;Wine - Guy Sage Touraine;100000;66;fr;Category 3;TVA 20%;A;false
+7586318073;Water - Evian 355 Ml;100000;232;fr;Category 4;TVA 20%;A;
+2601765153;Spring Roll Veg Mini;100000;298;fr;Category 7;TVA 20%;A;
+3270417404;Veal - Shank, Pieces;100000;189;fr;Category 4;TVA 20%;A;true
+3138639808;Soup - Campbells - Tomato;100000;368;fr;Category 1;TVA 20%;A;false
+2848536288;Trueblue - Blueberry Cranberry;100000;117;fr;Category 3;TVA 20%;A;true
+1862159972;Bread - Roll, Italian;100000;397;fr;Category 5;TVA 20%;A;true
+6806219906;Butter Sweet;100000;200;fr;Category 5;TVA 20%;A;true
+973361715;Shrimp - 21/25, Peel And Deviened;100000;33;fr;Category 2;TVA 20%;A;true
+2355561243;Tandoori Curry Paste;100000;104;fr;Category 0;TVA 20%;A;false
+7925210877;Coriander - Ground;100000;134;fr;Category 4;TVA 20%;A;true
+8558844553;Ecolab Crystal Fusion;100000;214;fr;Category 0;TVA 20%;A;true
+2692235146;Cinnamon - Stick;100000;27;fr;Category 2;TVA 20%;A;true
+300097085;Pasta - Cannelloni, Sheets, Fresh;100000;305;fr;Category 3;TVA 20%;A;false
+8809886527;Straws - Cocktale;100000;355;fr;Category 9;TVA 20%;A;true
+5967629984;Tea - Mint;100000;294;fr;Category 7;TVA 20%;A;false
+1846050087;Trueblue - Blueberry 12x473ml;100000;39;fr;Category 8;TVA 20%;A;false
+3179966737;Crab - Blue, Frozen;100000;303;fr;Category 7;TVA 20%;A;true
+786621889;Sauce - Soya, Dark;100000;309;fr;Category 8;TVA 20%;A;true
+8762265625;Pumpkin - Seed;100000;232;fr;Category 3;TVA 20%;A;false
+6155828129;Beer - Rickards Red;100000;71;fr;Category 7;TVA 20%;A;false
+416762057;Beer - Molson Excel;100000;27;fr;Category 5;TVA 20%;A;true
+4841503357;Beer - Original Organic Lager;100000;291;fr;Category 6;TVA 20%;A;true
+2250415901;Rolled Oats;100000;270;fr;Category 7;TVA 20%;A;true
+2856235485;Dc - Frozen Momji;100000;197;fr;Category 9;TVA 20%;A;true
+3170483394;Sauce Tomato Pouch;100000;148;fr;Category 0;TVA 20%;A;false
+3700100092;Cream - 10%;100000;326;fr;Category 5;TVA 20%;A;false
+2799727915;Phyllo Dough;100000;176;fr;Category 0;TVA 20%;A;false
+8934285190;Shrimp - Black Tiger 13/15;100000;358;fr;Category 0;TVA 20%;A;false
+1243945443;Asparagus - White, Canned;100000;171;fr;Category 7;TVA 20%;A;true
+3640725583;Nestea - Iced Tea;100000;307;fr;Category 0;TVA 20%;A;false
+3444860185;Wine - Red, Black Opal Shiraz;100000;331;fr;Category 5;TVA 20%;A;true
+2867729847;Water - San Pellegrino;100000;43;fr;Category 6;TVA 20%;A;false
+2334806355;Plastic Arrow Stir Stick;100000;275;fr;Category 9;TVA 20%;A;false
+4904101432;Sprite, Diet - 355ml;100000;88;fr;Category 9;TVA 20%;A;true
+1267358272;Brandy - Bar;100000;82;fr;Category 9;TVA 20%;A;false
+5024881215;Coffee - Ristretto Coffee Capsule;100000;160;fr;Category 5;TVA 20%;A;true
+88340021;Cookie - Oreo 100x2;100000;141;fr;Category 0;TVA 20%;A;true
+7325552057;Beef - Baby, Liver;100000;337;fr;Category 3;TVA 20%;A;false
+9839060333;Beef - Top Butt;100000;76;fr;Category 2;TVA 20%;A;false
+3040248306;Rice - Jasmine Sented;100000;1;fr;Category 1;TVA 20%;A;false
+4947539059;Rye Special Old;100000;126;fr;Category 1;TVA 20%;A;false
+5709347330;Pastry - Baked Cinnamon Stick;100000;330;fr;Category 0;TVA 20%;A;false
+2300579989;Sobe - Orange Carrot;100000;392;fr;Category 5;TVA 20%;A;true
+9559669079;Tequila Rose Cream Liquor;100000;36;fr;Category 5;TVA 20%;A;true
+1319702617;Veal - Nuckle;100000;382;fr;Category 3;TVA 20%;A;true
+4930248485;Cheese - Blue;100000;318;fr;Category 5;TVA 20%;A;false
+174958297;Cleaner - Pine Sol;100000;299;fr;Category 6;TVA 20%;A;false
+1069260278;Juice - Happy Planet;100000;332;fr;Category 2;TVA 20%;A;true
+7694643581;Rice - Brown;100000;145;fr;Category 7;TVA 20%;A;false
+3308267277;Appetiser - Bought;100000;260;fr;Category 7;TVA 20%;A;false
+4555334446;Sobe - Lizard Fuel;100000;196;fr;Category 7;TVA 20%;A;true
+9065656305;Wine - Carmenere Casillero Del;100000;106;fr;Category 1;TVA 20%;A;false
+8176648411;Fib N9 - Prague Powder;100000;135;fr;Category 9;TVA 20%;A;true
+3985975672;Beer - Upper Canada Lager;100000;393;fr;Category 7;TVA 20%;A;true
+7019440987;Soup - Campbells Chili Veg;100000;224;fr;Category 4;TVA 20%;A;true
+5452955298;Split Peas - Yellow, Dry;100000;96;fr;Category 5;TVA 20%;A;true
+1818350115;Eel - Smoked;100000;255;fr;Category 1;TVA 20%;A;false
+4198388428;Wine - Cave Springs Dry Riesling;100000;57;fr;Category 1;TVA 20%;A;true
+814183388;Appetizer - Mini Egg Roll, Shrimp;100000;77;fr;Category 4;TVA 20%;A;false
+5884029136;Pork - Butt, Boneless;100000;7;fr;Category 9;TVA 20%;A;false
+9460297156;Soup - Knorr, Chicken Gumbo;100000;385;fr;Category 3;TVA 20%;A;true
+4831819210;Zucchini - Green;100000;166;fr;Category 9;TVA 20%;A;false
+342928874;Ham - Procutinni;100000;362;fr;Category 2;TVA 20%;A;true
+1586296035;Crab - Dungeness, Whole, live;100000;400;fr;Category 4;TVA 20%;A;false
+479306757;Muffin Batt - Ban Dream Zero;100000;229;fr;Category 8;TVA 20%;A;true
+9359362626;Longos - Chicken Curried;100000;117;fr;Category 6;TVA 20%;A;true
+2661228062;Oranges;100000;178;fr;Category 7;TVA 20%;A;false
+7635599935;Flour - Rye;100000;109;fr;Category 0;TVA 20%;A;false
+8690125411;Creme De Cacao White;100000;1;fr;Category 0;TVA 20%;A;false
+5265621899;Cilantro / Coriander - Fresh;100000;83;fr;Category 4;TVA 20%;A;true
+2271762440;Longos - Lasagna Beef;100000;75;fr;Category 6;TVA 20%;A;false
+3804951495;Herb Du Provence - Primerba;100000;286;fr;Category 9;TVA 20%;A;true
+4659376139;Tendrils - Baby Pea, Organic;100000;280;fr;Category 0;TVA 20%;A;true
+8073747957;Orange Roughy 4/6 Oz;100000;128;fr;Category 3;TVA 20%;A;true
+755662010;Pasta - Cheese / Spinach Bauletti;100000;200;fr;Category 9;TVA 20%;A;true
+3387785456;Buffalo - Tenderloin;100000;325;fr;Category 0;TVA 20%;A;true
+4947833736;Quinoa;100000;272;fr;Category 3;TVA 20%;A;false
+68651531;Beer - Sleemans Cream Ale;100000;127;fr;Category 0;TVA 20%;A;true
+1092515602;Lime Cordial - Roses;100000;92;fr;Category 7;TVA 20%;A;false
+629103849;Salt And Pepper Mix - White;100000;341;fr;Category 0;TVA 20%;A;true
+4621112839;Puree - Blackcurrant;100000;371;fr;Category 9;TVA 20%;A;true
+4448280672;Yams;100000;239;fr;Category 7;TVA 20%;A;false
+7906866062;Cherries - Fresh;100000;240;fr;Category 9;TVA 20%;A;true
+7292510893;Bread Foccacia Whole;100000;300;fr;Category 8;TVA 20%;A;false
+6879766995;Chocolate - Milk;100000;7;fr;Category 5;TVA 20%;A;true
+4106050358;Coffee Cup 16oz Foam;100000;56;fr;Category 6;TVA 20%;A;false
+849709856;Pork - Butt, Boneless;100000;247;fr;Category 0;TVA 20%;A;false
+8520745107;Tomatoes - Heirloom;100000;249;fr;Category 6;TVA 20%;A;false
+1022305143;Pea - Snow;100000;88;fr;Category 4;TVA 20%;A;false
+6531353764;Truffle Cups - White Paper;100000;129;fr;Category 6;TVA 20%;A;false
+9472250322;Bread - 10 Grain Parisian;100000;166;fr;Category 8;TVA 20%;A;false
+2124596135;Wine - White, Ej Gallo;100000;222;fr;Category 7;TVA 20%;A;true
+1266319957;Pepper - Gypsy Pepper;100000;388;fr;Category 3;TVA 20%;A;true
+7522083028;Soup - Campbells Pasta Fagioli;100000;216;fr;Category 4;TVA 20%;A;true
+8477390894;Mushroom - Morel Frozen;100000;374;fr;Category 2;TVA 20%;A;false
+402046902;Soup Campbells - Tomato Bisque;100000;256;fr;Category 2;TVA 20%;A;false
+8280292241;Transfer Sheets;100000;348;fr;Category 1;TVA 20%;A;false
+6217674659;Cookies - Englishbay Chochip;100000;291;fr;Category 5;TVA 20%;A;true
+4922969191;Pate Pans Yellow;100000;8;fr;Category 3;TVA 20%;A;false
+3819587638;Broom And Brush Rack Black;100000;16;fr;Category 3;TVA 20%;A;false
+6141062800;Apricots - Halves;100000;103;fr;Category 4;TVA 20%;A;false
+2771006523;Dooleys Toffee;100000;192;fr;Category 5;TVA 20%;A;true
+5239262555;Wine - Sawmill Creek Autumn;100000;228;fr;Category 4;TVA 20%;A;false
+5858941626;Island Oasis - Raspberry;100000;206;fr;Category 7;TVA 20%;A;true
+5301941556;Eel Fresh;100000;66;fr;Category 9;TVA 20%;A;false
+3587295061;Beef - Cooked, Corned;100000;357;fr;Category 0;TVA 20%;A;false
+7766346624;Pastry - Baked Cinnamon Stick;100000;47;fr;Category 5;TVA 20%;A;true
+327468959;Dikon;100000;38;fr;Category 3;TVA 20%;A;true
+5616457785;Skewers - Bamboo;100000;294;fr;Category 9;TVA 20%;A;true
+3407009980;Crab - Imitation Flakes;100000;261;fr;Category 8;TVA 20%;A;true
+4701861679;Squash - Sunburst;100000;352;fr;Category 9;TVA 20%;A;true
+4898398093;Juice - Pineapple, 48 Oz;100000;243;fr;Category 3;TVA 20%;A;false
+7139375259;Truffle Cups - Brown;100000;245;fr;Category 7;TVA 20%;A;false
+5087645107;Bar Energy Chocchip;100000;218;fr;Category 3;TVA 20%;A;false
+5143598804;Stock - Beef, Brown;100000;27;fr;Category 2;TVA 20%;A;false
+3242257470;Swiss Chard - Red;100000;219;fr;Category 5;TVA 20%;A;true
+4745905938;Soup - Knorr, Chicken Noodle;100000;290;fr;Category 9;TVA 20%;A;true
+862331282;Truffle Paste;100000;3;fr;Category 2;TVA 20%;A;true
+2398740313;Crab - Dungeness, Whole, live;100000;132;fr;Category 3;TVA 20%;A;false
+5175463390;Cake - Box Window 10x10x2.5;100000;335;fr;Category 8;TVA 20%;A;false
+9601626888;Gherkin;100000;34;fr;Category 9;TVA 20%;A;
+1723561476;Pastry - Butterscotch Baked;100000;308;fr;Category 3;TVA 20%;A;false
+2357824284;Bread - Crumbs, Bulk;100000;209;fr;Category 0;TVA 20%;A;false
+8258577098;Poppy Seed;100000;314;fr;Category 0;TVA 20%;A;false
+8631112349;Eel - Smoked;100000;226;fr;Category 7;TVA 20%;A;true
+7389303698;Beer - Pilsner Urquell;100000;172;fr;Category 1;TVA 20%;A;true
+8920690070;Cranberries - Fresh;100000;156;fr;Category 6;TVA 20%;A;false
+9955405706;Flounder - Fresh;100000;202;fr;Category 9;TVA 20%;A;true
+4908687400;Cod - Salted, Boneless;100000;395;fr;Category 5;TVA 20%;A;
+1896854217;Soupfoamcont12oz 112con;100000;353;fr;Category 1;TVA 20%;A;false
+4641166810;Wine - Sherry Dry Sack, William;100000;69;fr;Category 9;TVA 20%;A;true
+8219723428;Lamb Tenderloin Nz Fr;100000;338;fr;Category 7;TVA 20%;A;true
+8198248795;Lamb - Whole Head Off;100000;381;fr;Category 0;TVA 20%;A;false
+7820585935;Pasta - Spaghetti, Dry;100000;267;fr;Category 4;TVA 20%;A;true
+200033490;Iced Tea - Lemon, 340ml;100000;371;fr;Category 1;TVA 20%;A;false
+4727708266;Shrimp - 150 - 250;100000;338;fr;Category 8;TVA 20%;A;false
+4078510719;Eel - Smoked;100000;218;fr;Category 2;TVA 20%;A;false
+3465406129;Mikes Hard Lemonade;100000;253;fr;Category 9;TVA 20%;A;true
+599626732;Cabbage - Savoy;100000;286;fr;Category 4;TVA 20%;A;false
+8545632040;Pheasants - Whole;100000;23;fr;Category 3;TVA 20%;A;false
+1881356575;Hot Choc Vending;100000;102;fr;Category 7;TVA 20%;A;true
+7918260084;Mini - Vol Au Vents;100000;302;fr;Category 2;TVA 20%;A;false
+2218992299;Cookie Dough - Double;100000;34;fr;Category 4;TVA 20%;A;true
+5009939888;Chocolate - Unsweetened;100000;40;fr;Category 9;TVA 20%;A;true
+4085734021;Beer - Heinekin;100000;39;fr;Category 6;TVA 20%;A;true
+7347258440;Sprouts Dikon;100000;257;fr;Category 8;TVA 20%;A;true
+5803256428;Mustard - Individual Pkg;100000;334;fr;Category 2;TVA 20%;A;true
+1526171260;Soup - Knorr, Chicken Noodle;100000;201;fr;Category 1;TVA 20%;A;false
+2616088292;Spice - Greek 1 Step;100000;93;fr;Category 5;TVA 20%;A;true
+1073466169;Lamb - Whole, Frozen;100000;3;fr;Category 4;TVA 20%;A;false
+6019482135;Container - Clear 32 Oz;100000;12;fr;Category 6;TVA 20%;A;false
+3820342265;V8 Splash Strawberry Banana;100000;186;fr;Category 4;TVA 20%;A;false
+6284875774;Radish - Black, Winter, Organic;100000;99;fr;Category 1;TVA 20%;A;false
+9501141361;Pails With Lids;100000;290;fr;Category 7;TVA 20%;A;false
+5495858880;Pastry - Apple Muffins - Mini;100000;208;fr;Category 2;TVA 20%;A;false
+9148227677;Sausage - Andouille;100000;151;fr;Category 3;TVA 20%;A;false
+8098978309;Juice - Apple, 1.36l;100000;345;fr;Category 9;TVA 20%;A;false
+6434073902;Doilies - 10, Paper;100000;19;fr;Category 4;TVA 20%;A;false
+7697256707;Wine - Cotes Du Rhone;100000;114;fr;Category 6;TVA 20%;A;true
+2216109065;Bay Leaf Fresh;100000;213;fr;Category 1;TVA 20%;A;false
+8615360274;Juice - Apple, 500 Ml;100000;267;fr;Category 2;TVA 20%;A;true
+3234839565;Tart - Pecan Butter Squares;100000;133;fr;Category 8;TVA 20%;A;false
+8208846877;Monkfish Fresh - Skin Off;100000;266;fr;Category 3;TVA 20%;A;false
+1243820021;Wine - White, Ej Gallo;100000;309;fr;Category 3;TVA 20%;A;false
+2933109562;Quail - Whole, Boneless;100000;298;fr;Category 6;TVA 20%;A;true
+1338728868;Guinea Fowl;100000;316;fr;Category 0;TVA 20%;A;false
+8499908601;Urban Zen Drinks;100000;99;fr;Category 9;TVA 20%;A;false
+2695877362;Strawberries;100000;359;fr;Category 2;TVA 20%;A;false
+7315953030;Melon - Watermelon Yellow;100000;385;fr;Category 1;TVA 20%;A;false
+5388202223;Bread Bowl Plain;100000;15;fr;Category 8;TVA 20%;A;true
+5415531620;Sage - Fresh;100000;88;fr;Category 2;TVA 20%;A;true
+5653856695;Tumeric;100000;163;fr;Category 6;TVA 20%;A;false
+4771712951;Bread - Raisin;100000;344;fr;Category 0;TVA 20%;A;true
+6428732418;Longos - Assorted Sandwich;100000;299;fr;Category 5;TVA 20%;A;true
+1636002295;Wine - Marlbourough Sauv Blanc;100000;22;fr;Category 9;TVA 20%;A;true
+9202519121;Tea - Black Currant;100000;304;fr;Category 9;TVA 20%;A;true
+271955737;Pork - Kidney;100000;252;fr;Category 6;TVA 20%;A;false
+595666116;Island Oasis - Banana Daiquiri;100000;30;fr;Category 1;TVA 20%;A;true
+772162672;Wine - Cava Aria Estate Brut;100000;146;fr;Category 7;TVA 20%;A;true
+6217606895;Bread Crumbs - Japanese Style;100000;359;fr;Category 1;TVA 20%;A;true
+4638984661;Rum - Mount Gay Eclipes;100000;200;fr;Category 2;TVA 20%;A;true
+3875394800;Appetizer - Mini Egg Roll, Shrimp;100000;373;fr;Category 5;TVA 20%;A;false
+7461340916;Longos - Lasagna Veg;100000;131;fr;Category 5;TVA 20%;A;true
+6888732107;Arizona - Green Tea;100000;58;fr;Category 3;TVA 20%;A;true
+5558094291;Pork Ham Prager;100000;118;fr;Category 6;TVA 20%;A;false
+2705720939;Rabbit - Legs;100000;161;fr;Category 1;TVA 20%;A;true
+4246674097;Crab - Dungeness, Whole;100000;203;fr;Category 8;TVA 20%;A;true
+8272578795;Lettuce - Romaine;100000;121;fr;Category 5;TVA 20%;A;true
+2167542891;Pastry - Mini French Pastries;100000;146;fr;Category 9;TVA 20%;A;true
+2071564977;Cheese - Cheddar, Mild;100000;394;fr;Category 7;TVA 20%;A;false
+475275583;Squid - U 5;100000;333;fr;Category 9;TVA 20%;A;
+1316698175;Garbage Bags - Clear;100000;316;fr;Category 2;TVA 20%;A;false
+9514548553;Longos - Grilled Veg Sandwiches;100000;269;fr;Category 5;TVA 20%;A;false
+2211335742;Tortillas - Flour, 10;100000;327;fr;Category 2;TVA 20%;A;true
+4792998251;Gatorade - Fruit Punch;100000;274;fr;Category 0;TVA 20%;A;true
+2560442746;Bread - Roll, Whole Wheat;100000;259;fr;Category 1;TVA 20%;A;false
+8254471094;Pimento - Canned;100000;187;fr;Category 2;TVA 20%;A;true
+1760762912;Bar Bran Honey Nut;100000;174;fr;Category 0;TVA 20%;A;true
+8198448538;Lettuce - Iceberg;100000;14;fr;Category 0;TVA 20%;A;true
+8143282120;Bread - French Baquette;100000;354;fr;Category 5;TVA 20%;A;false
+1864497827;Wine - Tio Pepe Sherry Fino;100000;334;fr;Category 9;TVA 20%;A;true
+6751560911;Fish - Base, Bouillion;100000;229;fr;Category 4;TVA 20%;A;
+2589029862;Cornstarch;100000;221;fr;Category 9;TVA 20%;A;true
+1155082901;Wine - Jafflin Bourgongone;100000;222;fr;Category 7;TVA 20%;A;false
+8282049725;Wine - Chablis J Moreau Et Fils;100000;364;fr;Category 6;TVA 20%;A;false
+8793619617;Wine - Red Oakridge Merlot;100000;183;fr;Category 9;TVA 20%;A;false
+1135460295;Olives - Green, Pitted;100000;368;fr;Category 0;TVA 20%;A;false
+5294670317;Sugar - Crumb;100000;334;fr;Category 6;TVA 20%;A;false
+274574955;Veal - Striploin;100000;268;fr;Category 8;TVA 20%;A;false
+7906885007;Flour - Rye;100000;12;fr;Category 7;TVA 20%;A;false
+7286871370;Five Alive Citrus;100000;184;fr;Category 8;TVA 20%;A;true
+4230380391;Sambuca - Opal Nera;100000;110;fr;Category 4;TVA 20%;A;false
+4022482360;Asparagus - Mexican;100000;328;fr;Category 4;TVA 20%;A;true
+7545874896;Macaroons - Two Bite Choc;100000;288;fr;Category 8;TVA 20%;A;true
+8237183255;Evaporated Milk - Skim;100000;29;fr;Category 8;TVA 20%;A;false
+1847949446;Wine - Bourgogne 2002, La;100000;313;fr;Category 1;TVA 20%;A;false
+160179095;Bread Foccacia Whole;100000;125;fr;Category 0;TVA 20%;A;true
+7916919743;Arctic Char - Fillets;100000;315;fr;Category 3;TVA 20%;A;false
+7577597894;Sun - Dried Tomatoes;100000;104;fr;Category 6;TVA 20%;A;true
+9201918048;Sauce - Rosee;100000;198;fr;Category 9;TVA 20%;A;true
+7852316254;Chocolate Bar - Oh Henry;100000;150;fr;Category 3;TVA 20%;A;false
+1237723788;Cheese - Swiss;100000;6;fr;Category 1;TVA 20%;A;false
+2478694681;Bar Nature Valley;100000;227;fr;Category 7;TVA 20%;A;false
+9849291658;Juice - Ocean Spray Kiwi;100000;239;fr;Category 0;TVA 20%;A;true
+5429727368;Wine - Red, Gallo, Merlot;100000;380;fr;Category 9;TVA 20%;A;true
+4769811021;Eggs - Extra Large;100000;299;fr;Category 3;TVA 20%;A;false
+8351621001;Coke - Diet, 355 Ml;100000;354;fr;Category 0;TVA 20%;A;false
+2735463841;Miso Paste White;100000;81;fr;Category 9;TVA 20%;A;true
+5342463769;Beef - Striploin;100000;332;fr;Category 4;TVA 20%;A;false
+8660675583;Cheese - Woolwich Goat, Log;100000;121;fr;Category 3;TVA 20%;A;
+4607686145;Laundry - Bag Cloth;100000;279;fr;Category 6;TVA 20%;A;false
+2265587616;Beef - Tenderlion, Center Cut;100000;297;fr;Category 7;TVA 20%;A;false
+1075526710;Oil - Sesame;100000;111;fr;Category 0;TVA 20%;A;true
+596134758;Liqueur Banana, Ramazzotti;100000;394;fr;Category 6;TVA 20%;A;true
+9050274229;Beans - Fine;100000;94;fr;Category 0;TVA 20%;A;true
+2897675877;Avocado;100000;270;fr;Category 0;TVA 20%;A;true
+4034446064;Beer - Creemore;100000;75;fr;Category 4;TVA 20%;A;false
+5137674917;Bread Foccacia Whole;100000;132;fr;Category 3;TVA 20%;A;false
+1175798997;Instant Coffee;100000;326;fr;Category 3;TVA 20%;A;
+7625442563;Pasta - Rotini, Colour, Dry;100000;189;fr;Category 3;TVA 20%;A;true
+8689896379;Sauce - Soya, Dark;100000;368;fr;Category 6;TVA 20%;A;true
+4627275334;Sour Puss Raspberry;100000;312;fr;Category 2;TVA 20%;A;true
+2470827526;Sardines;100000;108;fr;Category 9;TVA 20%;A;true
+6950734755;Beef - Ox Tongue, Pickled;100000;321;fr;Category 7;TVA 20%;A;false
+6777046987;Cherries - Bing, Canned;100000;80;fr;Category 7;TVA 20%;A;true
+5796102512;Wine - Ice Wine;100000;80;fr;Category 1;TVA 20%;A;true
+306579262;Tart Shells - Savory, 4;100000;168;fr;Category 4;TVA 20%;A;true
+754930968;Sardines;100000;57;fr;Category 1;TVA 20%;A;true
+1513236108;Beef - Flank Steak;100000;247;fr;Category 5;TVA 20%;A;false
+6337929455;Dc - Sakura Fu;100000;289;fr;Category 0;TVA 20%;A;false
+9218244389;Island Oasis - Cappucino Mix;100000;156;fr;Category 5;TVA 20%;A;false
+6101404233;Sausage - Andouille;100000;319;fr;Category 5;TVA 20%;A;false
+7909617277;Wine - Casillero Deldiablo;100000;201;fr;Category 2;TVA 20%;A;true
+4216641610;Beef - Roasted, Cooked;100000;217;fr;Category 9;TVA 20%;A;false
+8117703222;Lamb Shoulder Boneless Nz;100000;343;fr;Category 5;TVA 20%;A;true
+1826069343;Sprite, Diet - 355ml;100000;344;fr;Category 0;TVA 20%;A;true
+9009764014;Rice Wine - Aji Mirin;100000;158;fr;Category 0;TVA 20%;A;false
+9602575889;Tortillas - Flour, 10;100000;121;fr;Category 5;TVA 20%;A;true
+4725384028;Squid - U 5;100000;13;fr;Category 3;TVA 20%;A;false
+1429931962;Wine - Semi Dry Riesling Vineland;100000;8;fr;Category 4;TVA 20%;A;false
+9866478298;Pork - Bones;100000;376;fr;Category 4;TVA 20%;A;true
+8293327980;Sobe - Green Tea;100000;305;fr;Category 8;TVA 20%;A;false
+2034264843;Parsley Italian - Fresh;100000;1;fr;Category 3;TVA 20%;A;false
+4576334323;Bay Leaf;100000;170;fr;Category 7;TVA 20%;A;true
+5372376999;Pepper - Jalapeno;100000;194;fr;Category 1;TVA 20%;A;false
+9457710309;Water - Aquafina Vitamin;100000;327;fr;Category 2;TVA 20%;A;false
+5371692917;Compound - Raspberry;100000;266;fr;Category 6;TVA 20%;A;false
+5875257731;Grouper - Fresh;100000;394;fr;Category 1;TVA 20%;A;true
+3849349622;Pepper - Chillies, Crushed;100000;73;fr;Category 1;TVA 20%;A;false
+652698249;Dried Cherries;100000;211;fr;Category 0;TVA 20%;A;false
+8628231795;Cheese - Camembert;100000;33;fr;Category 0;TVA 20%;A;true
+323135269;Coffee - Decafenated;100000;380;fr;Category 1;TVA 20%;A;false
+2640121881;Wine - Peller Estates Late;100000;148;fr;Category 5;TVA 20%;A;true
+7812925302;Coconut - Shredded, Unsweet;100000;338;fr;Category 5;TVA 20%;A;true
+1104907359;Nut - Macadamia;100000;253;fr;Category 7;TVA 20%;A;true
+9688668268;Pop Shoppe Cream Soda;100000;248;fr;Category 0;TVA 20%;A;false
+7406205006;Wine - Barolo Fontanafredda;100000;353;fr;Category 7;TVA 20%;A;true
+4426840679;Butter - Salted, Micro;100000;250;fr;Category 3;TVA 20%;A;false
+5676312876;Beer - Sleeman Fine Porter;100000;214;fr;Category 1;TVA 20%;A;false
+9128075541;Cup - 4oz Translucent;100000;85;fr;Category 0;TVA 20%;A;false
+601236219;Oil - Truffle, Black;100000;309;fr;Category 6;TVA 20%;A;false
+5705503884;Vinegar - White;100000;342;fr;Category 0;TVA 20%;A;true
+356453984;Stock - Veal, White;100000;1;fr;Category 5;TVA 20%;A;true
+7595795752;Sobe - Cranberry Grapefruit;100000;266;fr;Category 4;TVA 20%;A;true
+9601154217;Cookie - Oreo 100x2;100000;4;fr;Category 7;TVA 20%;A;true
+2015522601;Bread - Multigrain, Loaf;100000;363;fr;Category 3;TVA 20%;A;false
+6009685612;Muffin Batt - Blueberry Passion;100000;130;fr;Category 0;TVA 20%;A;true
+601950554;Russian Prince;100000;30;fr;Category 0;TVA 20%;A;true
+5203588818;Quail - Whole, Bone - In;100000;312;fr;Category 5;TVA 20%;A;true
+7359591153;Soup - Campbells - Tomato;100000;237;fr;Category 6;TVA 20%;A;false
+6266710869;Soup - Campbells Beef Strogonoff;100000;306;fr;Category 8;TVA 20%;A;true
+9005586383;Cake - Box Window 10x10x2.5;100000;292;fr;Category 8;TVA 20%;A;false
+5988441302;Yogurt - French Vanilla;100000;365;fr;Category 1;TVA 20%;A;false
+7254536999;Herb Du Provence - Primerba;100000;135;fr;Category 3;TVA 20%;A;false
+8901524144;Beer - Sleemans Honey Brown;100000;279;fr;Category 7;TVA 20%;A;true
+4669847848;Oven Mitts - 15 Inch;100000;11;fr;Category 2;TVA 20%;A;true
+817337890;Table Cloth 53x53 White;100000;123;fr;Category 2;TVA 20%;A;false
+7789682853;Ecolab Digiclean Mild Fm;100000;130;fr;Category 5;TVA 20%;A;true
+2252186629;Pasta - Penne, Rigate, Dry;100000;92;fr;Category 9;TVA 20%;A;true
+3248910631;Tea - Vanilla Chai;100000;260;fr;Category 2;TVA 20%;A;true
+8691279835;Wine - Chardonnay South;100000;60;fr;Category 4;TVA 20%;A;false
+2265088544;Nut - Hazelnut, Whole;100000;113;fr;Category 0;TVA 20%;A;false
+4832076557;Rum - Spiced, Captain Morgan;100000;258;fr;Category 3;TVA 20%;A;true
+5755858538;Pop Shoppe Cream Soda;100000;369;fr;Category 4;TVA 20%;A;true
+4565980336;Pastry - Cherry Danish - Mini;100000;125;fr;Category 3;TVA 20%;A;false
+7612199177;Sugar - Splenda Sweetener;100000;283;fr;Category 4;TVA 20%;A;false
+4419989393;Beef - Flank Steak;100000;210;fr;Category 0;TVA 20%;A;false
+5514300341;Sprouts - Brussel;100000;254;fr;Category 0;TVA 20%;A;false
+1308178711;Wine - Alicanca Vinho Verde;100000;260;fr;Category 1;TVA 20%;A;true
+86114361;Pork - Kidney;100000;381;fr;Category 7;TVA 20%;A;false
+524761314;Roe - White Fish;100000;181;fr;Category 4;TVA 20%;A;false
+3617024833;Chicken - White Meat, No Tender;100000;254;fr;Category 6;TVA 20%;A;true
+9419882520;Dried Apple;100000;67;fr;Category 1;TVA 20%;A;true
+1164516366;Coffee - Cafe Moreno;100000;386;fr;Category 6;TVA 20%;A;true
+5470372865;Hand Towel;100000;177;fr;Category 6;TVA 20%;A;true
+9247361791;Puff Pastry - Slab;100000;175;fr;Category 5;TVA 20%;A;true
+2012652296;Pumpkin - Seed;100000;35;fr;Category 5;TVA 20%;A;true
+8418315606;Ham - Cooked;100000;100;fr;Category 0;TVA 20%;A;true
+5212194559;Lamb - Leg, Diced;100000;188;fr;Category 4;TVA 20%;A;true
+9397732974;Water - Spring 1.5lit;100000;124;fr;Category 6;TVA 20%;A;true
+8389482095;Stock - Beef, White;100000;200;fr;Category 9;TVA 20%;A;true
+7488244786;Flour - All Purpose;100000;121;fr;Category 4;TVA 20%;A;true
+488621315;Clam - Cherrystone;100000;151;fr;Category 2;TVA 20%;A;true
+2208054031;Pail With Metal Handle 16l White;100000;183;fr;Category 5;TVA 20%;A;true
+3528520581;Truffle Paste;100000;295;fr;Category 5;TVA 20%;A;true
+8541684404;Eggs - Extra Large;100000;12;fr;Category 0;TVA 20%;A;false
+2153599717;Cotton Wet Mop 16 Oz;100000;136;fr;Category 3;TVA 20%;A;false
+2901599259;Doilies - 12, Paper;100000;131;fr;Category 2;TVA 20%;A;false
+8172931018;Bagel - Ched Chs Presliced;100000;333;fr;Category 7;TVA 20%;A;false
+4234904401;Veal - Liver;100000;233;fr;Category 6;TVA 20%;A;true
+9096405688;Bay Leaf Ground;100000;65;fr;Category 6;TVA 20%;A;false
+5286625755;Mix - Cocktail Strawberry Daiquiri;100000;348;fr;Category 3;TVA 20%;A;false
+5360950498;Cake - Lemon Chiffon;100000;197;fr;Category 8;TVA 20%;A;true
+7200994468;Sugar - Icing;100000;278;fr;Category 3;TVA 20%;A;true
+1350300068;Tuna - Bluefin;100000;198;fr;Category 8;TVA 20%;A;false
+4717319830;Sausage - Breakfast;100000;63;fr;Category 3;TVA 20%;A;true
+2365493710;Lettuce - Sea / Sea Asparagus;100000;26;fr;Category 6;TVA 20%;A;true
+1323724059;Appetiser - Bought;100000;84;fr;Category 4;TVA 20%;A;true
+6586301503;Beans - Kidney White;100000;298;fr;Category 7;TVA 20%;A;true
+2508093592;Crab - Back Fin Meat, Canned;100000;374;fr;Category 6;TVA 20%;A;true
+1188233840;Water - Mineral, Carbonated;100000;348;fr;Category 9;TVA 20%;A;true
+6718459476;Catfish - Fillets;100000;303;fr;Category 9;TVA 20%;A;false
+2401081044;Turkey - Breast, Smoked;100000;7;fr;Category 8;TVA 20%;A;false
+3432818251;Hipnotiq Liquor;100000;273;fr;Category 1;TVA 20%;A;false
+5104372230;Pomello;100000;52;fr;Category 9;TVA 20%;A;true
+4179108886;Fudge - Chocolate Fudge;100000;239;fr;Category 7;TVA 20%;A;false
+2033616209;Sprouts Dikon;100000;267;fr;Category 6;TVA 20%;A;true
+1119911315;Table Cloth 72x144 White;100000;75;fr;Category 2;TVA 20%;A;true
+3453084304;Beef - Cow Feet Split;100000;351;fr;Category 8;TVA 20%;A;true
+1514580784;Flour - So Mix Cake White;100000;267;fr;Category 7;TVA 20%;A;false
+8404481836;Extract - Vanilla,artificial;100000;350;fr;Category 5;TVA 20%;A;false
+1957161445;Sour Puss - Tangerine;100000;137;fr;Category 5;TVA 20%;A;false
+5584306571;Cheese - Brick With Onion;100000;293;fr;Category 3;TVA 20%;A;true
+7928366528;Cheese - St. Paulin;100000;132;fr;Category 2;TVA 20%;A;false
+4051849070;Hot Choc Vending;100000;180;fr;Category 6;TVA 20%;A;false
+3491586783;Sauce - Apple, Unsweetened;100000;325;fr;Category 2;TVA 20%;A;false
+1371584640;Sparkling Wine - Rose, Freixenet;100000;318;fr;Category 0;TVA 20%;A;true
+5386826472;Water, Tap;100000;222;fr;Category 0;TVA 20%;A;false
+9549353266;Chocolate - Semi Sweet;100000;368;fr;Category 3;TVA 20%;A;true
+4122271529;Yams;100000;110;fr;Category 0;TVA 20%;A;true
+4104196484;Worcestershire Sauce;100000;312;fr;Category 9;TVA 20%;A;true
+263150212;Appetizer - Spring Roll, Veg;100000;240;fr;Category 1;TVA 20%;A;false
+6419619805;Soupfoamcont12oz 112con;100000;287;fr;Category 8;TVA 20%;A;true
+7551039323;Wine - Riesling Alsace Ac 2001;100000;339;fr;Category 5;TVA 20%;A;false
+129459490;Nantucket Orange Juice;100000;297;fr;Category 0;TVA 20%;A;false
+1785489638;Pasta - Fettuccine, Dry;100000;14;fr;Category 3;TVA 20%;A;true
+5890647410;Vinegar - Balsamic;100000;267;fr;Category 2;TVA 20%;A;false
+7144062441;Fudge - Chocolate Fudge;100000;297;fr;Category 1;TVA 20%;A;true
+3022880781;Baking Soda;100000;136;fr;Category 1;TVA 20%;A;false
+4498452984;Vol Au Vents;100000;329;fr;Category 7;TVA 20%;A;false
+1071710553;Coffee - Cafe Moreno;100000;296;fr;Category 1;TVA 20%;A;true
+9281064727;Cookie Choc;100000;322;fr;Category 5;TVA 20%;A;true
+621067123;Butter - Unsalted;100000;316;fr;Category 4;TVA 20%;A;false
+8146940315;Cake Slab;100000;290;fr;Category 3;TVA 20%;A;false
+9714901403;Beer - Muskoka Cream Ale;100000;73;fr;Category 7;TVA 20%;A;true
+2258095575;Dried Apple;100000;333;fr;Category 9;TVA 20%;A;false
+7934625532;Flour - Pastry;100000;226;fr;Category 7;TVA 20%;A;false
+6483280187;Beans - Kidney, Canned;100000;19;fr;Category 3;TVA 20%;A;false
+7461528829;Artichoke - Hearts, Canned;100000;41;fr;Category 6;TVA 20%;A;true
+8575907588;Tart Shells - Savory, 4;100000;71;fr;Category 3;TVA 20%;A;false
+9374115675;Coffee Beans - Chocolate;100000;143;fr;Category 9;TVA 20%;A;false
+7708690157;Red Currant Jelly;100000;59;fr;Category 5;TVA 20%;A;false
+8713623702;Oil - Cooking Spray;100000;375;fr;Category 6;TVA 20%;A;
+1820192169;Cumin - Ground;100000;379;fr;Category 4;TVA 20%;A;false
+4502796150;Wine - Trimbach Pinot Blanc;100000;216;fr;Category 2;TVA 20%;A;true
+1387231997;Soup Campbells Mexicali Tortilla;100000;330;fr;Category 9;TVA 20%;A;true
+8355578184;Lemonade - Kiwi, 591 Ml;100000;295;fr;Category 3;TVA 20%;A;true
+6242019803;Muffin - Zero Transfat;100000;393;fr;Category 4;TVA 20%;A;true
+3262249314;Salmon Steak - Cohoe 6 Oz;100000;6;fr;Category 3;TVA 20%;A;true
+2129492297;Tabasco Sauce, 2 Oz;100000;17;fr;Category 7;TVA 20%;A;false
+853377159;Tart Shells - Sweet, 4;100000;122;fr;Category 1;TVA 20%;A;true
+7839018878;Wine - Sake;100000;64;fr;Category 2;TVA 20%;A;false
+163305156;Sugar - Fine;100000;168;fr;Category 2;TVA 20%;A;true
+335696534;Longos - Chicken Curried;100000;353;fr;Category 0;TVA 20%;A;false
+3009688177;Oregano - Dry, Rubbed;100000;303;fr;Category 6;TVA 20%;A;true
+3175238187;Pasta - Angel Hair;100000;158;fr;Category 8;TVA 20%;A;true
+695496369;Lettuce - Frisee;100000;178;fr;Category 2;TVA 20%;A;true
+4514503579;Garam Masala Powder;100000;155;fr;Category 4;TVA 20%;A;false
+1590231305;Sprouts - Bean;100000;364;fr;Category 6;TVA 20%;A;false
+1488221271;Sugar - Individual Portions;100000;374;fr;Category 0;TVA 20%;A;true
+626409263;Scallops - Live In Shell;100000;383;fr;Category 0;TVA 20%;A;true
+1410835752;Coconut - Creamed, Pure;100000;347;fr;Category 6;TVA 20%;A;true
+7392425079;Liqueur Banana, Ramazzotti;100000;177;fr;Category 6;TVA 20%;A;false
+2511200559;Cocktail Napkin Blue;100000;236;fr;Category 6;TVA 20%;A;false
+9866593278;Lettuce - Spring Mix;100000;254;fr;Category 0;TVA 20%;A;false
+8854217592;Wine - Gato Negro Cabernet;100000;191;fr;Category 3;TVA 20%;A;true
+5569089814;Juice - Cranberry, 341 Ml;100000;34;fr;Category 9;TVA 20%;A;false
+4358300864;Hot Chocolate - Individual;100000;4;fr;Category 1;TVA 20%;A;true
+5817490272;Wine - Lou Black Shiraz;100000;124;fr;Category 9;TVA 20%;A;false
+3044104924;Lemonade - Natural, 591 Ml;100000;6;fr;Category 4;TVA 20%;A;true
+7006266749;Trout - Hot Smkd, Dbl Fillet;100000;289;fr;Category 8;TVA 20%;A;true
+1397265829;Mustard - Seed;100000;134;fr;Category 9;TVA 20%;A;true
+3264066635;Aspic - Light;100000;283;fr;Category 9;TVA 20%;A;false
+8736550087;Onions - White;100000;53;fr;Category 0;TVA 20%;A;true
+9798384725;Passion Fruit;100000;154;fr;Category 3;TVA 20%;A;false
+9454690343;Grenadillo;100000;213;fr;Category 4;TVA 20%;A;true
+3632696425;Wine - Chablis J Moreau Et Fils;100000;23;fr;Category 3;TVA 20%;A;false
+5045786326;Cheese - Bakers Cream Cheese;100000;16;fr;Category 8;TVA 20%;A;false
+1615821972;Wine - Red, Metus Rose;100000;264;fr;Category 5;TVA 20%;A;false
+6520168278;Cookies Oatmeal Raisin;100000;398;fr;Category 1;TVA 20%;A;false
+2492174290;Pasta - Penne Primavera, Single;100000;377;fr;Category 9;TVA 20%;A;true
+7635572829;Tea - Camomele;100000;148;fr;Category 0;TVA 20%;A;false
+8007294196;Bar Mix - Lemon;100000;370;fr;Category 9;TVA 20%;A;true
+8365211807;Ice Cream Bar - Oreo Cone;100000;134;fr;Category 4;TVA 20%;A;true
+1379932194;Juice - Happy Planet;100000;75;fr;Category 5;TVA 20%;A;true
+5931329789;Bread Ww Cluster;100000;83;fr;Category 7;TVA 20%;A;false
+9696236797;Cakes Assorted;100000;313;fr;Category 1;TVA 20%;A;true
+3161402964;Pineapple - Canned, Rings;100000;178;fr;Category 0;TVA 20%;A;
+3995996959;Bread Cranberry Foccacia;100000;303;fr;Category 3;TVA 20%;A;true
+1643845456;Bread - Wheat Baguette;100000;180;fr;Category 7;TVA 20%;A;false
+3256236974;Tart Shells - Sweet, 3;100000;268;fr;Category 0;TVA 20%;A;true
+7785455862;Pastry - Butterscotch Baked;100000;258;fr;Category 6;TVA 20%;A;false
+5751090979;Pork - Inside;100000;218;fr;Category 2;TVA 20%;A;false
+1589663060;Spaghetti Squash;100000;24;fr;Category 0;TVA 20%;A;true
+6766483561;Veal - Kidney;100000;202;fr;Category 1;TVA 20%;A;false
+1811698340;Salmon - Canned;100000;324;fr;Category 8;TVA 20%;A;false
+4943076555;Tuna - Canned, Flaked, Light;100000;5;fr;Category 7;TVA 20%;A;false
+7310630398;Horseradish Root;100000;181;fr;Category 3;TVA 20%;A;false
+8532789326;Trueblue - Blueberry;100000;67;fr;Category 3;TVA 20%;A;false
+9259089812;Soy Protein;100000;213;fr;Category 5;TVA 20%;A;true
+2212565739;Port - 74 Brights;100000;294;fr;Category 3;TVA 20%;A;true
+4240239690;Pie Filling - Cherry;100000;36;fr;Category 5;TVA 20%;A;true
+803103377;Hand Towel;100000;207;fr;Category 5;TVA 20%;A;true
+282698362;Gelatine Leaves - Bulk;100000;342;fr;Category 2;TVA 20%;A;false
+8900456323;Stock - Veal, White;100000;106;fr;Category 2;TVA 20%;A;true
+4867590939;Oil - Pumpkinseed;100000;328;fr;Category 2;TVA 20%;A;true
+3963009268;Pepper - Green;100000;374;fr;Category 3;TVA 20%;A;false
+8785517835;Pie Filling - Pumpkin;100000;77;fr;Category 3;TVA 20%;A;true
+8594836612;Bacardi Limon;100000;54;fr;Category 4;TVA 20%;A;false
+5173089537;Rabbit - Saddles;100000;106;fr;Category 4;TVA 20%;A;false
+9518151213;Pork - Smoked Back Bacon;100000;185;fr;Category 8;TVA 20%;A;true
+6209696162;Sole - Fillet;100000;292;fr;Category 0;TVA 20%;A;false
+9597793311;Halibut - Fletches;100000;163;fr;Category 2;TVA 20%;A;true
+8565680318;Kohlrabi;100000;392;fr;Category 7;TVA 20%;A;false
+4428165643;Tofu - Firm;100000;386;fr;Category 2;TVA 20%;A;true
+8207080809;Sunflower Seed Raw;100000;141;fr;Category 2;TVA 20%;A;true
+8510622595;Sachet;100000;137;fr;Category 7;TVA 20%;A;true
+2589932848;Sunflower Seed Raw;100000;11;fr;Category 1;TVA 20%;A;true
+5303239273;Shrimp - Black Tiger 26/30;100000;292;fr;Category 2;TVA 20%;A;false
+825835869;Garbage Bags - Clear;100000;280;fr;Category 7;TVA 20%;A;false
+1467852116;Water - Evian 355 Ml;100000;318;fr;Category 3;TVA 20%;A;true
+2407373606;Tea - Earl Grey;100000;204;fr;Category 5;TVA 20%;A;true
+5262695083;Mackerel Whole Fresh;100000;57;fr;Category 1;TVA 20%;A;false
+1986759601;Cherries - Maraschino,jar;100000;93;fr;Category 7;TVA 20%;A;true
+5531108335;Soup - Base Broth Beef;100000;381;fr;Category 6;TVA 20%;A;false
+2629385636;Lemonade - Island Tea, 591 Ml;100000;160;fr;Category 7;TVA 20%;A;false
+2951760160;Fennel;100000;354;fr;Category 7;TVA 20%;A;true
+6156367237;Pork - Back Ribs;100000;268;fr;Category 9;TVA 20%;A;false
+1915513109;Pasta - Spaghetti, Dry;100000;31;fr;Category 9;TVA 20%;A;true
+3096653111;Bread - White Mini Epi;100000;289;fr;Category 1;TVA 20%;A;false
+4276364711;Coriander - Ground;100000;371;fr;Category 6;TVA 20%;A;false
+2670215028;Soap - Mr.clean Floor Soap;100000;21;fr;Category 7;TVA 20%;A;true
+5184385452;Orange - Blood;100000;257;fr;Category 6;TVA 20%;A;true
+1930261455;Water - Spring 1.5lit;100000;289;fr;Category 9;TVA 20%;A;false
+446551817;Tandoori Curry Paste;100000;227;fr;Category 9;TVA 20%;A;false
+1595199546;Pants Custom Dry Clean;100000;100;fr;Category 8;TVA 20%;A;true
+8009888156;Quail - Jumbo;100000;93;fr;Category 2;TVA 20%;A;true
+1018066875;Wine - Saint Emilion Calvet;100000;305;fr;Category 2;TVA 20%;A;false
+7330730860;Coffee - Espresso;100000;185;fr;Category 6;TVA 20%;A;false
+6142808247;Bread Ww Cluster;100000;137;fr;Category 0;TVA 20%;A;false
+2521668580;Flour Pastry Super Fine;100000;132;fr;Category 2;TVA 20%;A;true
+7452973635;Toamtoes 6x7 Select;100000;231;fr;Category 0;TVA 20%;A;true
+7223910958;Oxtail - Cut;100000;210;fr;Category 1;TVA 20%;A;false
+2637692749;Filter - Coffee;100000;96;fr;Category 8;TVA 20%;A;false
+3278476543;Sterno - Chafing Dish Fuel;100000;104;fr;Category 2;TVA 20%;A;true
+8214714835;Sea Urchin;100000;330;fr;Category 6;TVA 20%;A;false
+34983927;Mustard Prepared;100000;280;fr;Category 2;TVA 20%;A;true
+7663569609;Island Oasis - Sweet And Sour Mix;100000;392;fr;Category 5;TVA 20%;A;false
+1415709334;Water - San Pellegrino;100000;384;fr;Category 7;TVA 20%;A;false
+4246621231;Cucumber - English;100000;257;fr;Category 7;TVA 20%;A;true
+1930598695;Juice - Apple, 500 Ml;100000;310;fr;Category 8;TVA 20%;A;false
+351084231;Pineapple - Golden;100000;314;fr;Category 8;TVA 20%;A;true
+2602303550;Irish Cream - Butterscotch;100000;210;fr;Category 2;TVA 20%;A;true
+5073140552;Chocolate - Dark;100000;375;fr;Category 3;TVA 20%;A;false
+5786899318;Longan;100000;52;fr;Category 0;TVA 20%;A;false
+4232920164;Sauerkraut;100000;391;fr;Category 3;TVA 20%;A;false
+428269854;Nut - Almond, Blanched, Ground;100000;400;fr;Category 6;TVA 20%;A;false
+787955452;Lentils - Green, Dry;100000;397;fr;Category 8;TVA 20%;A;true
+4541535004;Pastrami;100000;77;fr;Category 3;TVA 20%;A;false
+7950984306;Lamb - Shoulder, Boneless;100000;203;fr;Category 7;TVA 20%;A;true
+9975505107;Soup - Knorr, Veg / Beef;100000;397;fr;Category 8;TVA 20%;A;true
+5390359554;Cheese - Valancey;100000;369;fr;Category 5;TVA 20%;A;true
+4610329265;Clams - Bay;100000;272;fr;Category 3;TVA 20%;A;true
+9665855916;Cornflakes;100000;288;fr;Category 9;TVA 20%;A;
+5613769218;Baking Soda;100000;62;fr;Category 2;TVA 20%;A;false
+1949622756;Salt - Rock, Course;100000;32;fr;Category 6;TVA 20%;A;false
+9717395288;Bread - Roll, Whole Wheat;100000;209;fr;Category 9;TVA 20%;A;false
+7232525266;Isomalt;100000;214;fr;Category 2;TVA 20%;A;false
+711900366;Turnip - Mini;100000;41;fr;Category 0;TVA 20%;A;false
+9045716133;Wine - Pinot Grigio Collavini;100000;182;fr;Category 2;TVA 20%;A;false
+7531822582;Cloves - Whole;100000;383;fr;Category 5;TVA 20%;A;false
+7025196707;Tomatoes Tear Drop Yellow;100000;157;fr;Category 5;TVA 20%;A;true
+6852506493;Pastry - Apple Large;100000;244;fr;Category 6;TVA 20%;A;false
+3774852441;Steamers White;100000;241;fr;Category 0;TVA 20%;A;false
+9433533758;Bread - Bagels, Plain;100000;161;fr;Category 8;TVA 20%;A;true
+1811900284;Flour - Bran, Red;100000;8;fr;Category 2;TVA 20%;A;false
+8328687422;Soup - Campbells Mac N Cheese;100000;158;fr;Category 0;TVA 20%;A;false
+3062915520;Onions - White;100000;75;fr;Category 1;TVA 20%;A;true
+558812693;Nut - Pecan, Pieces;100000;350;fr;Category 6;TVA 20%;A;false
+3456168067;Leeks - Large;100000;77;fr;Category 0;TVA 20%;A;true
+9742863740;Dish Towel;100000;251;fr;Category 2;TVA 20%;A;true
+8114154125;Kellogs Special K Cereal;100000;239;fr;Category 5;TVA 20%;A;
+7001419287;Tart Shells - Sweet, 4;100000;171;fr;Category 0;TVA 20%;A;
+9562566477;Greens Mustard;100000;167;fr;Category 5;TVA 20%;A;false
+6436801213;Veal - Sweetbread;100000;136;fr;Category 0;TVA 20%;A;true
+5933336597;Lamb - Leg, Boneless;100000;10;fr;Category 5;TVA 20%;A;false
+921556605;Bread - English Muffin;100000;103;fr;Category 0;TVA 20%;A;true
+5644457202;Cheese - Brie Roitelet;100000;109;fr;Category 7;TVA 20%;A;true
+1508243179;Wine - Beaujolais Villages;100000;201;fr;Category 5;TVA 20%;A;false
+633552706;Duck - Fat;100000;256;fr;Category 1;TVA 20%;A;true
+6926136590;Wine - Shiraz South Eastern;100000;216;fr;Category 2;TVA 20%;A;false
+6834090064;Wine - Red, Mouton Cadet;100000;13;fr;Category 7;TVA 20%;A;true
+1298450935;Nut - Hazelnut, Whole;100000;117;fr;Category 5;TVA 20%;A;false
+7885342835;Towel - Roll White;100000;222;fr;Category 5;TVA 20%;A;false
+867726623;Transfer Sheets;100000;264;fr;Category 7;TVA 20%;A;false
+6657285140;Veal - Liver;100000;143;fr;Category 6;TVA 20%;A;true
+6600514908;Spice - Paprika;100000;50;fr;Category 8;TVA 20%;A;false
+9388885547;Pastry - Trippleberry Muffin - Mini;100000;227;fr;Category 9;TVA 20%;A;true
+4048037538;Jam - Marmalade, Orange;100000;178;fr;Category 6;TVA 20%;A;false
+7318094365;Lighter - Bbq;100000;224;fr;Category 8;TVA 20%;A;false
+9169588836;Split Peas - Green, Dry;100000;148;fr;Category 9;TVA 20%;A;false
+4640504518;Shrimp - Black Tiger 16/20;100000;213;fr;Category 4;TVA 20%;A;false
+2965783043;Vaccum Bag - 14x20;100000;312;fr;Category 1;TVA 20%;A;false
+2943293579;Tuna - Bluefin;100000;192;fr;Category 2;TVA 20%;A;true
+5895886864;Nut - Hazelnut, Ground, Natural;100000;351;fr;Category 3;TVA 20%;A;false
+5933066823;Turnip - Wax;100000;153;fr;Category 1;TVA 20%;A;
+740761665;Foil - Round Foil;100000;150;fr;Category 1;TVA 20%;A;false
+6453488579;Ecolab - Hobart Upr Prewash Arm;100000;224;fr;Category 5;TVA 20%;A;false
+4744038785;Venison - Liver;100000;197;fr;Category 5;TVA 20%;A;true
+9331925031;Bread - Wheat Baguette;100000;291;fr;Category 9;TVA 20%;A;false
+3092440603;Cranberries - Frozen;100000;336;fr;Category 3;TVA 20%;A;false
+8881160778;Tea - Jasmin Green;100000;311;fr;Category 6;TVA 20%;A;true
+2745752397;Ocean Spray - Ruby Red;100000;16;fr;Category 6;TVA 20%;A;
+2593598471;Arrowroot;100000;265;fr;Category 2;TVA 20%;A;true
+8610124762;Rum - Dark, Bacardi, Black;100000;129;fr;Category 7;TVA 20%;A;false
+1279276042;Table Cloth 90x90 Colour;100000;117;fr;Category 0;TVA 20%;A;true
+4565457789;Momiji Oroshi Chili Sauce;100000;336;fr;Category 0;TVA 20%;A;false
+5630375135;Wine - Chateau Timberlay;100000;23;fr;Category 3;TVA 20%;A;false
+8169032278;Cheese - Mozzarella;100000;394;fr;Category 2;TVA 20%;A;true
+7370029718;Eel - Smoked;100000;35;fr;Category 8;TVA 20%;A;true
+1639276023;Soup - Campbells, Chix Gumbo;100000;327;fr;Category 2;TVA 20%;A;true
+811510194;Sugar - Brown, Individual;100000;354;fr;Category 3;TVA 20%;A;true
+370024291;Pork - Sausage Casing;100000;89;fr;Category 0;TVA 20%;A;true
+9613766466;Salt - Celery;100000;11;fr;Category 4;TVA 20%;A;false
+9251333909;Plasticknivesblack;100000;298;fr;Category 2;TVA 20%;A;true
+6672515755;Table Cloth 120 Round White;100000;290;fr;Category 7;TVA 20%;A;true
+8358144940;Duck - Fat;100000;64;fr;Category 4;TVA 20%;A;false
+4715553236;Cheese - Swiss;100000;70;fr;Category 4;TVA 20%;A;false
+8127532054;Rabbit - Whole;100000;200;fr;Category 1;TVA 20%;A;false
+2095419228;Table Cloth 62x114 Colour;100000;201;fr;Category 8;TVA 20%;A;false
+9425087915;Pears - Anjou;100000;323;fr;Category 3;TVA 20%;A;false
+7330260408;Skewers - Bamboo;100000;317;fr;Category 4;TVA 20%;A;false
+8781635802;Emulsifier;100000;301;fr;Category 5;TVA 20%;A;false
+6602768656;Wine - Sicilia Igt Nero Avola;100000;257;fr;Category 7;TVA 20%;A;false
+1889867119;Flour - Whole Wheat;100000;125;fr;Category 3;TVA 20%;A;false
+2681664330;Wine - Soave Folonari;100000;291;fr;Category 6;TVA 20%;A;true
+1702357865;Bread - Pullman, Sliced;100000;325;fr;Category 2;TVA 20%;A;true
+3624107610;General Purpose Trigger;100000;272;fr;Category 8;TVA 20%;A;false
+9020213741;Tea - Decaf Lipton;100000;245;fr;Category 4;TVA 20%;A;true
+4619678650;Shrimp - Black Tiger 16/20;100000;245;fr;Category 0;TVA 20%;A;true
+7036788699;French Pastries;100000;73;fr;Category 9;TVA 20%;A;true
+8315731078;Wine - Harrow Estates, Vidal;100000;145;fr;Category 6;TVA 20%;A;false
+5198020319;Pork - Loin, Bone - In;100000;245;fr;Category 3;TVA 20%;A;true
+4090000776;Muffin Mix - Lemon Cranberry;100000;345;fr;Category 5;TVA 20%;A;true
+7319586792;Butter Sweet;100000;212;fr;Category 6;TVA 20%;A;false
+8197572094;Beef - Diced;100000;272;fr;Category 6;TVA 20%;A;true
+9328061074;Lobak;100000;244;fr;Category 4;TVA 20%;A;true
+5527260328;Soup V8 Roasted Red Pepper;100000;343;fr;Category 1;TVA 20%;A;false
+7502017752;Pop - Club Soda Can;100000;251;fr;Category 0;TVA 20%;A;true
+4846632620;Longos - Chicken Cordon Bleu;100000;180;fr;Category 9;TVA 20%;A;
+9166458725;Cleaner - Comet;100000;322;fr;Category 4;TVA 20%;A;false
+4792306710;Longos - Grilled Veg Sandwiches;100000;193;fr;Category 7;TVA 20%;A;true
+8387923959;Container - Clear 32 Oz;100000;76;fr;Category 9;TVA 20%;A;false
+7359265836;Shrimp - 21/25, Peel And Deviened;100000;106;fr;Category 6;TVA 20%;A;false
+5291425683;Ice Cream - Turtles Stick Bar;100000;350;fr;Category 9;TVA 20%;A;true
+3009650983;Lettuce Romaine Chopped;100000;117;fr;Category 6;TVA 20%;A;false
+6788895490;Thyme - Dried;100000;208;fr;Category 5;TVA 20%;A;false
+2467216143;Table Cloth 62x114 Colour;100000;117;fr;Category 6;TVA 20%;A;false
+8287417035;Truffle - Peelings;100000;33;fr;Category 7;TVA 20%;A;false
+3438985486;Lamb Shoulder Boneless Nz;100000;216;fr;Category 6;TVA 20%;A;false
+7992154411;Ocean Spray - Ruby Red;100000;58;fr;Category 8;TVA 20%;A;false
+4042166258;Bar - Granola Trail Mix Fruit Nut;100000;293;fr;Category 2;TVA 20%;A;true
+8284997823;Oil - Margarine;100000;316;fr;Category 5;TVA 20%;A;false
+3944583754;Fish - Bones;100000;300;fr;Category 9;TVA 20%;A;true
+4192862360;Olives - Stuffed;100000;206;fr;Category 4;TVA 20%;A;false
+10227936;Bread Country Roll;100000;176;fr;Category 9;TVA 20%;A;false
+5456976839;Beef - Tender Tips;100000;205;fr;Category 0;TVA 20%;A;false
+1470046504;Pickles - Gherkins;100000;20;fr;Category 3;TVA 20%;A;true
+3003882122;Evaporated Milk - Skim;100000;193;fr;Category 3;TVA 20%;A;false
+1351630571;Calypso - Pineapple Passion;100000;147;fr;Category 7;TVA 20%;A;true
+1965744169;Leeks - Baby, White;100000;132;fr;Category 5;TVA 20%;A;true
+3848003529;Cookie - Oreo 100x2;100000;348;fr;Category 0;TVA 20%;A;false
+3604913178;Cookie - Oreo 100x2;100000;241;fr;Category 2;TVA 20%;A;false
+933144383;Shrimp - Black Tiger 6 - 8;100000;298;fr;Category 8;TVA 20%;A;false
+5142029013;Wine - Chablis 2003 Champs;100000;42;fr;Category 6;TVA 20%;A;false
+5525265748;Ecolab Crystal Fusion;100000;172;fr;Category 0;TVA 20%;A;true
+2831275514;Garbag Bags - Black;100000;382;fr;Category 5;TVA 20%;A;false
+8864891213;Tomato - Plum With Basil;100000;196;fr;Category 0;TVA 20%;A;false
+97482633;Tofu - Firm;100000;193;fr;Category 2;TVA 20%;A;true
+6498724740;Wine - Harrow Estates, Vidal;100000;215;fr;Category 8;TVA 20%;A;true
+7062062392;Tomatoes;100000;366;fr;Category 4;TVA 20%;A;false
+3469353144;Sauce - Bernaise, Mix;100000;41;fr;Category 5;TVA 20%;A;true
+4384610611;Bar - Sweet And Salty Chocolate;100000;374;fr;Category 3;TVA 20%;A;true
+1606863490;Wine - Winzer Krems Gruner;100000;23;fr;Category 5;TVA 20%;A;false
+8562856221;Crush - Orange, 355ml;100000;1;fr;Category 0;TVA 20%;A;false
+6659675857;Pork - Side Ribs;100000;285;fr;Category 0;TVA 20%;A;true
+5859176477;Tomatoes - Diced, Canned;100000;38;fr;Category 1;TVA 20%;A;true
+3977429368;Wine - Peller Estates Late;100000;150;fr;Category 6;TVA 20%;A;true
+6562117217;Bread - Raisin Walnut Pull;100000;120;fr;Category 1;TVA 20%;A;false
+2430227636;Pepper - Chillies, Crushed;100000;80;fr;Category 2;TVA 20%;A;false
+285388264;Extract Vanilla Pure;100000;35;fr;Category 2;TVA 20%;A;false
+2564094397;Chinese Lemon Pork;100000;396;fr;Category 5;TVA 20%;A;true
+3285658266;Kellogs Special K Cereal;100000;147;fr;Category 4;TVA 20%;A;false
+1634435147;Stainless Steel Cleaner Vision;100000;317;fr;Category 8;TVA 20%;A;true
+5257897934;Lotus Rootlets - Canned;100000;155;fr;Category 7;TVA 20%;A;true
+9302669318;Vodka - Smirnoff;100000;152;fr;Category 0;TVA 20%;A;true
+6384167158;Eggplant Oriental;100000;282;fr;Category 2;TVA 20%;A;true
+5362947924;Veal - Nuckle;100000;371;fr;Category 2;TVA 20%;A;true
+5212116868;Beer - Sleemans Cream Ale;100000;332;fr;Category 9;TVA 20%;A;false
+6223544225;Cheese - Oka;100000;121;fr;Category 1;TVA 20%;A;true
+8849358395;Coffee - Colombian, Portioned;100000;354;fr;Category 5;TVA 20%;A;true
+67205344;Pasta - Shells, Medium, Dry;100000;216;fr;Category 2;TVA 20%;A;true
+944614021;Cheese - La Sauvagine;100000;199;fr;Category 4;TVA 20%;A;false
+9174551027;Apple - Northern Spy;100000;114;fr;Category 8;TVA 20%;A;true
+3815300502;Wine - Fontanafredda Barolo;100000;81;fr;Category 0;TVA 20%;A;false
+7768087380;Silicone Parch. 16.3x24.3;100000;42;fr;Category 8;TVA 20%;A;false
+9303254996;Bacardi Breezer - Tropical;100000;324;fr;Category 3;TVA 20%;A;false
+3839807924;Chips Potato Swt Chilli Sour;100000;156;fr;Category 1;TVA 20%;A;false
+7299450217;Black Currants;100000;229;fr;Category 0;TVA 20%;A;true
+2740949803;Bread - Bagels, Plain;100000;9;fr;Category 9;TVA 20%;A;false
+6961297046;Gatorade - Orange;100000;124;fr;Category 0;TVA 20%;A;false
+9195783421;Hinge W Undercut;100000;283;fr;Category 6;TVA 20%;A;false
+4638105934;Sprouts - Baby Pea Tendrils;100000;120;fr;Category 8;TVA 20%;A;true
+556370118;Lamb - Shoulder;100000;77;fr;Category 7;TVA 20%;A;true
+6623693462;Ice Cream - Life Savers;100000;15;fr;Category 6;TVA 20%;A;true
+9443059774;Chicken - Tenderloin;100000;110;fr;Category 7;TVA 20%;A;false
+1339996454;Eggplant Oriental;100000;52;fr;Category 8;TVA 20%;A;false
+5079926695;Rice - Basmati;100000;350;fr;Category 2;TVA 20%;A;
+9415597805;Dc - Sakura Fu;100000;164;fr;Category 1;TVA 20%;A;false
+9041622035;Muffin - Bran Ind Wrpd;100000;399;fr;Category 1;TVA 20%;A;false
+4477383821;Pie Filling - Cherry;100000;192;fr;Category 0;TVA 20%;A;false
+7085858667;Mustard - Dijon;100000;99;fr;Category 5;TVA 20%;A;false
+7092071506;Tea - Black Currant;100000;189;fr;Category 0;TVA 20%;A;false
+1279130454;Table Cloth 81x81 Colour;100000;377;fr;Category 9;TVA 20%;A;false
+1931688094;Wine - Placido Pinot Grigo;100000;52;fr;Category 0;TVA 20%;A;true
+2825141419;V8 Pet;100000;258;fr;Category 6;TVA 20%;A;false
+6012150789;Foam Tray S2;100000;355;fr;Category 1;TVA 20%;A;false
+3923656502;Pork - Bacon, Double Smoked;100000;331;fr;Category 9;TVA 20%;A;false
+1828185432;Flour - Strong Pizza;100000;286;fr;Category 7;TVA 20%;A;false
+3844280325;Water - Evian 355 Ml;100000;9;fr;Category 4;TVA 20%;A;false
+6118606095;Wine - Magnotta - Pinot Gris Sr;100000;151;fr;Category 0;TVA 20%;A;false
+3021226101;Wonton Wrappers;100000;248;fr;Category 5;TVA 20%;A;true
+9768693615;Ice Cream - Fudge Bars;100000;9;fr;Category 5;TVA 20%;A;false
+6450681923;Wine - Red, Antinori Santa;100000;379;fr;Category 4;TVA 20%;A;true
+6695525449;Compound - Orange;100000;163;fr;Category 6;TVA 20%;A;false
+1671398540;Flavouring - Raspberry;100000;223;fr;Category 1;TVA 20%;A;false
+8893550131;Filling - Mince Meat;100000;194;fr;Category 5;TVA 20%;A;true
+2343814448;Hinge W Undercut;100000;252;fr;Category 7;TVA 20%;A;true
+8836663112;Juice - Apple, 341 Ml;100000;235;fr;Category 3;TVA 20%;A;true
+9479382677;Onions Granulated;100000;278;fr;Category 4;TVA 20%;A;false
+5421702241;Coke - Diet, 355 Ml;100000;229;fr;Category 6;TVA 20%;A;true
+916678022;Yokaline;100000;234;fr;Category 4;TVA 20%;A;false
+2658517729;Celery Root;100000;366;fr;Category 7;TVA 20%;A;false
+539267431;Soup - Base Broth Beef;100000;365;fr;Category 1;TVA 20%;A;
+5535046077;Daves Island Stinger;100000;194;fr;Category 9;TVA 20%;A;true
+5543527358;Tea - Herbal Sweet Dreams;100000;154;fr;Category 4;TVA 20%;A;true
+3057804334;Wine - Fontanafredda Barolo;100000;129;fr;Category 3;TVA 20%;A;true
+8925620067;Olives - Nicoise;100000;65;fr;Category 7;TVA 20%;A;true
+6660704242;Bar - Sweet And Salty Chocolate;100000;266;fr;Category 2;TVA 20%;A;true
+5936651047;Chocolate - Unsweetened;100000;135;fr;Category 9;TVA 20%;A;false
+1882963015;Chocolate - Milk;100000;370;fr;Category 4;TVA 20%;A;false
+980418118;Rum - White, Gg White;100000;288;fr;Category 1;TVA 20%;A;false
+4603567157;Lychee - Canned;100000;302;fr;Category 5;TVA 20%;A;true
+2746293582;Glass Clear 7 Oz Xl;100000;369;fr;Category 9;TVA 20%;A;true
+4566065872;Oranges - Navel, 72;100000;14;fr;Category 1;TVA 20%;A;true
+885598854;Soup - Campbells - Chicken Noodle;100000;118;fr;Category 4;TVA 20%;A;false
+1383646305;Snapple Lemon Tea;100000;50;fr;Category 5;TVA 20%;A;true
+6358944433;Mini - Vol Au Vents;100000;134;fr;Category 4;TVA 20%;A;false
+9296245390;Shrimp - 16 - 20 Cooked, Peeled;100000;53;fr;Category 8;TVA 20%;A;true
+4187717060;Beef Dry Aged Tenderloin Aaa;100000;93;fr;Category 8;TVA 20%;A;true
+2823810051;The Pop Shoppe - Black Cherry;100000;57;fr;Category 2;TVA 20%;A;true
+4188430528;Crab Brie In Phyllo;100000;317;fr;Category 5;TVA 20%;A;true
+1850421882;Pepper - Roasted Red;100000;341;fr;Category 1;TVA 20%;A;true
+751864127;Vector Energy Bar;100000;205;fr;Category 5;TVA 20%;A;true
+1581418541;Bread - Raisin Walnut Pull;100000;33;fr;Category 0;TVA 20%;A;false
+1000139454;Lid Tray - 16in Dome;100000;305;fr;Category 9;TVA 20%;A;true
+63255284;Soup - Knorr, Country Bean;100000;261;fr;Category 7;TVA 20%;A;false
+6868622248;Beer - Tetleys;100000;358;fr;Category 5;TVA 20%;A;true
+4823236563;Pasta - Penne, Rigate, Dry;100000;327;fr;Category 5;TVA 20%;A;false
+240886456;Chinese Foods - Chicken Wing;100000;129;fr;Category 4;TVA 20%;A;true
+9099718312;Beer - Mcauslan Apricot;100000;32;fr;Category 3;TVA 20%;A;false
+8846525704;Lemonade - Kiwi, 591 Ml;100000;25;fr;Category 9;TVA 20%;A;true
+4107945215;Halibut - Fletches;100000;126;fr;Category 8;TVA 20%;A;false
+6140284353;Pasta - Detalini, White, Fresh;100000;69;fr;Category 5;TVA 20%;A;false
+421204693;Soda Water - Club Soda, 355 Ml;100000;299;fr;Category 5;TVA 20%;A;true
+5862861676;Rice - Basmati;100000;314;fr;Category 8;TVA 20%;A;true
+1740146167;Beef - Short Loin;100000;180;fr;Category 0;TVA 20%;A;false
+6669294351;Tuna - Fresh;100000;228;fr;Category 4;TVA 20%;A;true
+8805266566;Nantucket - Carrot Orange;100000;190;fr;Category 2;TVA 20%;A;false
+4953690593;Pasta - Bauletti, Chicken White;100000;283;fr;Category 9;TVA 20%;A;true
+6326587315;Wine - Segura Viudas Aria Brut;100000;376;fr;Category 3;TVA 20%;A;true
+7698157440;Oven Mitts - 15 Inch;100000;239;fr;Category 7;TVA 20%;A;false
+3917779918;Wiberg Cure;100000;56;fr;Category 0;TVA 20%;A;false
+7342596213;Cheese - Brie, Cups 125g;100000;355;fr;Category 4;TVA 20%;A;true
+8654770930;Pasta - Ravioli;100000;373;fr;Category 5;TVA 20%;A;true
+9507718792;Chips - Potato Jalapeno;100000;163;fr;Category 3;TVA 20%;A;false
+3299839712;Melon - Cantaloupe;100000;31;fr;Category 1;TVA 20%;A;true
+2018473099;Containter - 3oz Microwave Rect.;100000;63;fr;Category 8;TVA 20%;A;true
+6347900270;Beer - Muskoka Cream Ale;100000;322;fr;Category 2;TVA 20%;A;false
+722042828;Bread - French Baquette;100000;322;fr;Category 7;TVA 20%;A;false
+5506789063;Tea - English Breakfast;100000;233;fr;Category 7;TVA 20%;A;true
+9318203536;Flour Pastry Super Fine;100000;53;fr;Category 2;TVA 20%;A;true
+7879157414;Bread - Granary Small Pull;100000;202;fr;Category 5;TVA 20%;A;false
+3107319586;Chicken - Whole;100000;204;fr;Category 6;TVA 20%;A;false
+5334399220;Chip - Potato Dill Pickle;100000;35;fr;Category 0;TVA 20%;A;false
+1312506119;Easy Off Oven Cleaner;100000;393;fr;Category 5;TVA 20%;A;true
+889144615;Buffalo - Striploin;100000;33;fr;Category 4;TVA 20%;A;
+3254535233;Muffin Mix - Morning Glory;100000;359;fr;Category 9;TVA 20%;A;false
+1494630672;Cookie Chocolate Chip With;100000;20;fr;Category 3;TVA 20%;A;false
+1461461371;Tuna - Yellowfin;100000;264;fr;Category 6;TVA 20%;A;true
+1880074968;Ginsing - Fresh;100000;80;fr;Category 2;TVA 20%;A;true
+7583798710;Sausage - Breakfast;100000;207;fr;Category 3;TVA 20%;A;true
+805175756;Kohlrabi;100000;227;fr;Category 8;TVA 20%;A;false
+763413900;Plate Foam Laminated 9in Blk;100000;400;fr;Category 4;TVA 20%;A;false
+2916193847;Pepper - Chillies, Crushed;100000;125;fr;Category 7;TVA 20%;A;false
+2314810689;Pork - Back, Short Cut, Boneless;100000;157;fr;Category 9;TVA 20%;A;true
+5309179356;Shrimp - 16/20, Peeled Deviened;100000;121;fr;Category 2;TVA 20%;A;true
+3094383441;Container - Clear 16 Oz;100000;217;fr;Category 9;TVA 20%;A;false
+2948771068;Tea - Herbal I Love Lemon;100000;397;fr;Category 2;TVA 20%;A;false
+695109312;Tobasco Sauce;100000;272;fr;Category 8;TVA 20%;A;true
+673610387;Lemons;100000;150;fr;Category 8;TVA 20%;A;true
+7649773660;Sansho Powder;100000;146;fr;Category 6;TVA 20%;A;false
+9885418526;Ecolab Digiclean Mild Fm;100000;399;fr;Category 9;TVA 20%;A;false
+5575611424;Wine - Riesling Dr. Pauly;100000;388;fr;Category 5;TVA 20%;A;true
+4847506521;Pork - Ham Hocks - Smoked;100000;193;fr;Category 5;TVA 20%;A;true
+6431062819;Five Alive Citrus;100000;230;fr;Category 8;TVA 20%;A;false
+7617574191;Island Oasis - Cappucino Mix;100000;11;fr;Category 9;TVA 20%;A;true
+7356184893;Cheese - Cheddar With Claret;100000;305;fr;Category 8;TVA 20%;A;true
+4960888041;Pepper - Cubanelle;100000;220;fr;Category 3;TVA 20%;A;true
+4841212040;Milk - Chocolate 500ml;100000;322;fr;Category 1;TVA 20%;A;true
+7643978466;Bagel - Everything;100000;97;fr;Category 9;TVA 20%;A;true
+7108691831;Ham - Virginia;100000;182;fr;Category 2;TVA 20%;A;false
+5985438517;Napkin - Cocktail,beige 2 - Ply;100000;233;fr;Category 5;TVA 20%;A;false
+7603428730;Oranges - Navel, 72;100000;132;fr;Category 0;TVA 20%;A;true
+1053210688;Tuna - Canned, Flaked, Light;100000;223;fr;Category 7;TVA 20%;A;false
+2332990938;Squash - Butternut;100000;324;fr;Category 7;TVA 20%;A;true
+1843826148;Greens Mustard;100000;167;fr;Category 5;TVA 20%;A;false
+2418943104;Glaze - Clear;100000;386;fr;Category 8;TVA 20%;A;true
+8463451432;Crab - Soft Shell;100000;81;fr;Category 4;TVA 20%;A;false
+1764318227;Grapes - Black;100000;175;fr;Category 6;TVA 20%;A;true
+2391106830;Calypso - Pineapple Passion;100000;191;fr;Category 5;TVA 20%;A;false
+6656367550;Glass Clear 8 Oz;100000;228;fr;Category 0;TVA 20%;A;true
+5484231106;Lamb Leg - Bone - In Nz;100000;213;fr;Category 3;TVA 20%;A;false
+114943961;Cherries - Frozen;100000;47;fr;Category 2;TVA 20%;A;false
+7452173532;Chinese Lemon Pork;100000;400;fr;Category 2;TVA 20%;A;true
+1484238677;Ocean Spray - Kiwi Strawberry;100000;300;fr;Category 4;TVA 20%;A;false
+124951054;Chicken - White Meat With Tender;100000;235;fr;Category 1;TVA 20%;A;false
+9221200875;Soupcontfoam16oz 116con;100000;118;fr;Category 5;TVA 20%;A;false
+8511187921;Cheese Cheddar Processed;100000;381;fr;Category 0;TVA 20%;A;false
+1035193450;Cheese - Brie,danish;100000;86;fr;Category 0;TVA 20%;A;true
+2675013799;Beer - Upper Canada Light;100000;3;fr;Category 2;TVA 20%;A;false
+9396736738;Breakfast Quesadillas;100000;39;fr;Category 4;TVA 20%;A;false
+3340880106;Horseradish - Prepared;100000;176;fr;Category 5;TVA 20%;A;false
+2584797759;Eggplant - Baby;100000;352;fr;Category 2;TVA 20%;A;true
+7005482319;Oregano - Dry, Rubbed;100000;206;fr;Category 6;TVA 20%;A;true
+125353154;Beans - Turtle, Black, Dry;100000;382;fr;Category 4;TVA 20%;A;false
+9914965126;Pastry - Key Limepoppy Seed Tea;100000;231;fr;Category 8;TVA 20%;A;false
+80860796;Ham - Cooked;100000;57;fr;Category 1;TVA 20%;A;false
+8338812441;Squash - Pepper;100000;121;fr;Category 4;TVA 20%;A;false
+177694837;Chervil - Fresh;100000;7;fr;Category 5;TVA 20%;A;false
+1741204744;Uniform Linen Charge;100000;180;fr;Category 9;TVA 20%;A;true
+2221405997;Cheese - Brick With Pepper;100000;225;fr;Category 4;TVA 20%;A;true
+8559690373;Wine - Beaujolais Villages;100000;119;fr;Category 0;TVA 20%;A;
+8755586791;Soup - Campbells Mac N Cheese;100000;87;fr;Category 0;TVA 20%;A;true
+4300987356;Tomatoes - Hot House;100000;229;fr;Category 3;TVA 20%;A;false
+3024808133;Gatorade - Fruit Punch;100000;203;fr;Category 9;TVA 20%;A;false
+3875830139;Dried Figs;100000;167;fr;Category 2;TVA 20%;A;true
+3994527379;Mountain Dew;100000;246;fr;Category 2;TVA 20%;A;true
+8193770886;Capicola - Hot;100000;228;fr;Category 3;TVA 20%;A;false
+3430925736;Wine - Pinot Noir Stoneleigh;100000;395;fr;Category 3;TVA 20%;A;true
+6437013637;Scallops - In Shell;100000;327;fr;Category 5;TVA 20%;A;false
+7304264153;Salsify, Organic;100000;51;fr;Category 0;TVA 20%;A;false
+6778376518;Tea - Camomele;100000;154;fr;Category 6;TVA 20%;A;false
+5533684933;Ham - Cooked Bayonne Tinned;100000;142;fr;Category 6;TVA 20%;A;true
+5690874756;Bonito Flakes - Toku Katsuo;100000;56;fr;Category 8;TVA 20%;A;true
+528296770;Juice - Cranberry, 341 Ml;100000;339;fr;Category 2;TVA 20%;A;false
+395910386;Toamtoes 6x7 Select;100000;195;fr;Category 4;TVA 20%;A;true
+4267444307;Cheese - Shred Cheddar / Mozza;100000;279;fr;Category 5;TVA 20%;A;true
+4248975124;Beef Dry Aged Tenderloin Aaa;100000;287;fr;Category 2;TVA 20%;A;false
+6250977712;Soup - Knorr, French Onion;100000;190;fr;Category 3;TVA 20%;A;true
+3223501065;Milk - Chocolate 250 Ml;100000;182;fr;Category 6;TVA 20%;A;false
+7012197631;Quail - Eggs, Fresh;100000;25;fr;Category 7;TVA 20%;A;false
+9098748976;The Pop Shoppe - Root Beer;100000;4;fr;Category 3;TVA 20%;A;true
+4102087630;Amaretto;100000;47;fr;Category 8;TVA 20%;A;false
+4126311729;Stock - Veal, Brown;100000;8;fr;Category 3;TVA 20%;A;false
+6306874684;Paper Towel Touchless;100000;92;fr;Category 1;TVA 20%;A;true
+868377423;Cheese - Roquefort Pappillon;100000;108;fr;Category 7;TVA 20%;A;false
+8350669598;Beer - Blue Light;100000;308;fr;Category 5;TVA 20%;A;true
+8084709897;Pineapple - Golden;100000;31;fr;Category 0;TVA 20%;A;true
+4641406479;Apple - Northern Spy;100000;131;fr;Category 8;TVA 20%;A;false
+5495275347;Cup - 4oz Translucent;100000;145;fr;Category 0;TVA 20%;A;true
+9952003394;Wine - Malbec Trapiche Reserve;100000;141;fr;Category 6;TVA 20%;A;false
+9630463286;Soup - Campbells Beef Stew;100000;298;fr;Category 7;TVA 20%;A;true
+3157897978;Tia Maria;100000;70;fr;Category 2;TVA 20%;A;true
+5385475503;Wine - Chianti Classica Docg;100000;258;fr;Category 5;TVA 20%;A;false
+3881863479;Blueberries;100000;62;fr;Category 4;TVA 20%;A;false
+4777563156;Wine - Puligny Montrachet A.;100000;102;fr;Category 3;TVA 20%;A;false
+6827083155;Chocolate - Unsweetened;100000;154;fr;Category 1;TVA 20%;A;false
+9905092643;Pork - Shoulder;100000;186;fr;Category 3;TVA 20%;A;true
+784594261;Wine - Shiraz Wolf Blass Premium;100000;385;fr;Category 7;TVA 20%;A;true
+2131039884;Chicken - Leg / Back Attach;100000;157;fr;Category 7;TVA 20%;A;true
+9266512523;Glycerine;100000;231;fr;Category 1;TVA 20%;A;false
+2456215016;Lid - Translucent, 3.5 And 6 Oz;100000;379;fr;Category 9;TVA 20%;A;
+6619874168;The Pop Shoppe - Lime Rickey;100000;259;fr;Category 9;TVA 20%;A;true
+9118333133;Coke - Diet, 355 Ml;100000;231;fr;Category 9;TVA 20%;A;false
+4361658135;Wine - White, Ej;100000;250;fr;Category 8;TVA 20%;A;true
+2778619656;Island Oasis - Cappucino Mix;100000;207;fr;Category 8;TVA 20%;A;false
+4996810527;Buffalo - Tenderloin;100000;181;fr;Category 3;TVA 20%;A;true
+20052781;Corn Syrup;100000;281;fr;Category 8;TVA 20%;A;true
+8715232181;Red Currants;100000;56;fr;Category 7;TVA 20%;A;true
+6785913608;Spice - Peppercorn Melange;100000;211;fr;Category 0;TVA 20%;A;true
+2350904425;Chivas Regal - 12 Year Old;100000;39;fr;Category 7;TVA 20%;A;true
+8906064133;Cheese Cheddar Processed;100000;298;fr;Category 0;TVA 20%;A;true
+6893454370;Wine - Pinot Noir Stoneleigh;100000;274;fr;Category 9;TVA 20%;A;false
+2234954293;Potatoes - Purple, Organic;100000;107;fr;Category 8;TVA 20%;A;true
+2574463390;Lid - High Heat, Super Clear;100000;239;fr;Category 0;TVA 20%;A;false
+4811513540;Long Island Ice Tea;100000;346;fr;Category 8;TVA 20%;A;false
+2805569628;Juice - Orange, Concentrate;100000;100;fr;Category 6;TVA 20%;A;false
+6721388534;Beans - Soya Bean;100000;375;fr;Category 6;TVA 20%;A;false
+1302634007;Breadfruit;100000;41;fr;Category 5;TVA 20%;A;false
+1314944872;Peach - Halves;100000;208;fr;Category 2;TVA 20%;A;false
+4744736504;Halibut - Whole, Fresh;100000;115;fr;Category 3;TVA 20%;A;true
+4710365442;Wine - Two Oceans Cabernet;100000;366;fr;Category 6;TVA 20%;A;false
+6162052629;Pastry - Cherry Danish - Mini;100000;183;fr;Category 1;TVA 20%;A;true
+7924842908;Soup - Campbells, Butternut;100000;359;fr;Category 3;TVA 20%;A;false
+8169918131;Grenadine;100000;295;fr;Category 9;TVA 20%;A;true
+8864165151;Ginger - Crystalized;100000;358;fr;Category 1;TVA 20%;A;false
+5283163108;Gatorade - Xfactor Berry;100000;400;fr;Category 5;TVA 20%;A;true
+3422676943;Cookie Dough - Peanut Butter;100000;19;fr;Category 6;TVA 20%;A;true
+1581004768;Pesto - Primerba, Paste;100000;3;fr;Category 2;TVA 20%;A;false
+7144892175;Cake - Lemon Chiffon;100000;386;fr;Category 4;TVA 20%;A;true
+8200967653;Banana - Green;100000;326;fr;Category 8;TVA 20%;A;true
+9373479157;Jack Daniels;100000;320;fr;Category 6;TVA 20%;A;false
+4870145688;Beans - Yellow;100000;166;fr;Category 9;TVA 20%;A;false
+9040182740;Bread - Flat Bread;100000;138;fr;Category 7;TVA 20%;A;true
+8817864142;Bag Clear 10 Lb;100000;32;fr;Category 7;TVA 20%;A;true
+1840100065;Salmon - Atlantic, Fresh, Whole;100000;295;fr;Category 4;TVA 20%;A;true
+8182363845;Lid - 3oz Med Rec;100000;396;fr;Category 5;TVA 20%;A;true
+385153801;Tumeric;100000;123;fr;Category 9;TVA 20%;A;true
+6408289642;Dill Weed - Dry;100000;346;fr;Category 6;TVA 20%;A;true
+3062883308;Wine - Carmenere Casillero Del;100000;380;fr;Category 3;TVA 20%;A;true
+3500456758;Cheese - Bocconcini;100000;19;fr;Category 0;TVA 20%;A;false
+6428955805;Wasabi Powder;100000;378;fr;Category 6;TVA 20%;A;true
+1460941546;Oil - Food, Lacquer Spray;100000;179;fr;Category 3;TVA 20%;A;true
+8470237760;Mikes Hard Lemonade;100000;76;fr;Category 2;TVA 20%;A;true
+6759025961;Apron;100000;347;fr;Category 3;TVA 20%;A;true
+8775883842;Soap - Mr.clean Floor Soap;100000;108;fr;Category 6;TVA 20%;A;false
+4615952090;Fib N9 - Prague Powder;100000;316;fr;Category 1;TVA 20%;A;false
+932060056;Muffin - Bran Ind Wrpd;100000;261;fr;Category 2;TVA 20%;A;true
+8855842124;Cornstarch;100000;374;fr;Category 7;TVA 20%;A;false
+6367934617;Chips Potato All Dressed - 43g;100000;362;fr;Category 0;TVA 20%;A;true
+3908367731;Pork Salted Bellies;100000;293;fr;Category 8;TVA 20%;A;false
+8755651120;Russian Prince;100000;96;fr;Category 2;TVA 20%;A;true
+6715255320;Sweet Pea Sprouts;100000;272;fr;Category 6;TVA 20%;A;true
+7378077741;Ostrich - Fan Fillet;100000;213;fr;Category 5;TVA 20%;A;false
+1318246141;Wine - White, Concha Y Toro;100000;178;fr;Category 6;TVA 20%;A;true
+6104896720;Appetizer - Shrimp Puff;100000;158;fr;Category 6;TVA 20%;A;true
+5806818244;Cheese - Brie;100000;10;fr;Category 3;TVA 20%;A;true
+3472062959;Macaroons - Homestyle Two Bit;100000;231;fr;Category 1;TVA 20%;A;true
+3619509006;Lemonade - Pineapple Passion;100000;91;fr;Category 9;TVA 20%;A;true
+8626551483;Pepper - Orange;100000;327;fr;Category 4;TVA 20%;A;true
+2146587000;Quail - Eggs, Fresh;100000;4;fr;Category 1;TVA 20%;A;true
+3578772559;Bok Choy - Baby;100000;121;fr;Category 6;TVA 20%;A;true
+6157634684;Soup - Base Broth Chix;100000;72;fr;Category 1;TVA 20%;A;true
+8653014028;Cheese - Blue;100000;236;fr;Category 3;TVA 20%;A;false
+2471901434;Nescafe - Frothy French Vanilla;100000;65;fr;Category 4;TVA 20%;A;false
+5978401988;Bouq All Italian - Primerba;100000;205;fr;Category 3;TVA 20%;A;false
+9194173939;Sobe - Cranberry Grapefruit;100000;176;fr;Category 8;TVA 20%;A;false
+8769184076;Liquid Aminios Acid - Braggs;100000;78;fr;Category 3;TVA 20%;A;false
+4695020843;Shrimp, Dried, Small / Lb;100000;282;fr;Category 0;TVA 20%;A;true
+5912791457;Puree - Passion Fruit;100000;124;fr;Category 6;TVA 20%;A;true
+1404160348;Beer - Mill St Organic;100000;327;fr;Category 7;TVA 20%;A;false
+8317764884;Nut - Pine Nuts, Whole;100000;265;fr;Category 9;TVA 20%;A;false
+6844507284;Wine - Prosecco Valdobienne;100000;195;fr;Category 0;TVA 20%;A;true
+8776659020;Asparagus - White, Fresh;100000;13;fr;Category 4;TVA 20%;A;false
+4108470923;Carbonated Water - Wildberry;100000;173;fr;Category 7;TVA 20%;A;false
+2432998766;Wine - Magnotta - Pinot Gris Sr;100000;34;fr;Category 4;TVA 20%;A;true
+7438146214;Wine - Chianti Classico Riserva;100000;3;fr;Category 4;TVA 20%;A;false
+9099510472;Tea - Lemon Green Tea;100000;94;fr;Category 4;TVA 20%;A;false
+5991308681;Veal - Ground;100000;185;fr;Category 6;TVA 20%;A;false
+5385474630;Wine - Sake;100000;156;fr;Category 1;TVA 20%;A;true
+255990616;Wine - Red, Black Opal Shiraz;100000;355;fr;Category 3;TVA 20%;A;false
+8032443675;Vinegar - Cider;100000;210;fr;Category 6;TVA 20%;A;false
+8491791961;Sauce - Salsa;100000;395;fr;Category 1;TVA 20%;A;
+1667848776;Compound - Mocha;100000;154;fr;Category 8;TVA 20%;A;false
+329679378;Island Oasis - Lemonade;100000;70;fr;Category 6;TVA 20%;A;false
+7864520104;Muffin - Mix - Creme Brule 15l;100000;190;fr;Category 0;TVA 20%;A;true
+1947313742;Soup - Base Broth Beef;100000;27;fr;Category 3;TVA 20%;A;false
+2696290857;Sprouts - China Rose;100000;387;fr;Category 8;TVA 20%;A;false
+7682795970;Salt And Pepper Mix - White;100000;11;fr;Category 0;TVA 20%;A;true
+587744940;Wine - White, Ej Gallo;100000;329;fr;Category 7;TVA 20%;A;true
+1583833221;Kiwano;100000;40;fr;Category 2;TVA 20%;A;false
+3212806997;Pork - Bacon, Double Smoked;100000;126;fr;Category 4;TVA 20%;A;true
+5093194458;Ice Cream Bar - Hagen Daz;100000;376;fr;Category 2;TVA 20%;A;true
+7836669860;Pasta - Fettuccine, Dry;100000;281;fr;Category 9;TVA 20%;A;true
+3672179503;Lamb - Rack;100000;343;fr;Category 1;TVA 20%;A;false
+6222575485;Curry Paste - Madras;100000;208;fr;Category 6;TVA 20%;A;false
+8245926653;Oregano - Fresh;100000;192;fr;Category 6;TVA 20%;A;true
+3274961648;Instant Coffee;100000;121;fr;Category 4;TVA 20%;A;false
+503846240;Crackers - Graham;100000;108;fr;Category 9;TVA 20%;A;true
+5080449110;Soy Protein;100000;6;fr;Category 9;TVA 20%;A;false
+1204986979;Fireball Whisky;100000;27;fr;Category 1;TVA 20%;A;false
+5859149592;Tendrils - Baby Pea, Organic;100000;336;fr;Category 6;TVA 20%;A;true
+6862726720;Water Chestnut - Canned;100000;223;fr;Category 3;TVA 20%;A;false
+6918951170;Rolled Oats;100000;38;fr;Category 0;TVA 20%;A;false
+6702061207;Pears - Anjou;100000;171;fr;Category 8;TVA 20%;A;false
+3590032682;Jameson - Irish Whiskey;100000;34;fr;Category 3;TVA 20%;A;true
+5148906415;Cookie - Dough Variety;100000;81;fr;Category 9;TVA 20%;A;true
+2641579756;Syrup - Monin - Blue Curacao;100000;178;fr;Category 9;TVA 20%;A;false
+2414275136;Quail - Jumbo Boneless;100000;345;fr;Category 9;TVA 20%;A;false
+2578758671;Chambord Royal;100000;176;fr;Category 4;TVA 20%;A;false
+1853246741;Bar Mix - Pina Colada, 355 Ml;100000;267;fr;Category 8;TVA 20%;A;false
+1961643772;Pie Filling - Cherry;100000;372;fr;Category 5;TVA 20%;A;false
+2233722708;Cranberries - Fresh;100000;53;fr;Category 9;TVA 20%;A;false
+8337413674;Cheese - Stilton;100000;200;fr;Category 1;TVA 20%;A;false
+6514142462;Beef - Outside, Round;100000;85;fr;Category 9;TVA 20%;A;false
+9564017894;Crab - Claws, Snow 16 - 24;100000;9;fr;Category 6;TVA 20%;A;true
+4720259673;Nantuket Peach Orange;100000;71;fr;Category 6;TVA 20%;A;false
+6865304576;Beer - Creemore;100000;61;fr;Category 8;TVA 20%;A;false
+3941960452;Wine - White, Gewurtzraminer;100000;17;fr;Category 8;TVA 20%;A;true
+2807929593;Wine - Vouvray Cuvee Domaine;100000;214;fr;Category 3;TVA 20%;A;true
+5879022371;Bananas;100000;367;fr;Category 6;TVA 20%;A;false
+8897786128;Bread - Hamburger Buns;100000;163;fr;Category 0;TVA 20%;A;false
+352907119;Tea - Decaf 1 Cup;100000;330;fr;Category 7;TVA 20%;A;true
+2812617392;Lamb Rack - Ontario;100000;119;fr;Category 4;TVA 20%;A;true
+8969305871;Campari;100000;226;fr;Category 0;TVA 20%;A;false
+7379223421;Pork Loin Bine - In Frenched;100000;154;fr;Category 4;TVA 20%;A;false
+7254304847;Pur Value;100000;203;fr;Category 0;TVA 20%;A;false
+1435366459;Cookies Almond Hazelnut;100000;130;fr;Category 1;TVA 20%;A;false
+6222987718;Wine - German Riesling;100000;239;fr;Category 0;TVA 20%;A;false
+8468868119;Nantuket Peach Orange;100000;147;fr;Category 3;TVA 20%;A;true
+8977250988;Pepper - Pablano;100000;334;fr;Category 9;TVA 20%;A;true
+8775715296;Extract Vanilla Pure;100000;113;fr;Category 8;TVA 20%;A;false
+2235391326;Soup - Canadian Pea, Dry Mix;100000;388;fr;Category 8;TVA 20%;A;true
+4697598050;Salmon Steak - Cohoe 6 Oz;100000;121;fr;Category 5;TVA 20%;A;true
+9451125846;Wine - Valpolicella Masi;100000;200;fr;Category 5;TVA 20%;A;false
+9999871404;Ice Cream Bar - Hageen Daz To;100000;323;fr;Category 2;TVA 20%;A;true
+6865311958;Sauce - White, Mix;100000;264;fr;Category 9;TVA 20%;A;true
+5684205280;Oil - Sesame;100000;99;fr;Category 5;TVA 20%;A;false

@@ -1,2 +1,3 @@
-﻿Company Id;Product code;Language;Combination;Combination code;Combination supplier ref;Quantity
-1;5432543253;fr;;;;5
+﻿Product code;Language;Combination;Quantity
+5432543253;fr;;5
+1234;fr;;1

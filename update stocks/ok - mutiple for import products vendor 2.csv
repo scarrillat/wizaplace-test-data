@@ -1,0 +1,5 @@
+﻿Product code;Language;Category;Price;Weight;Quantity;Downloadable;Product name;Description;Taxes;Features;Short description;Status;Price tiers;Crossed out Price;Company id;Combination;Combination Code;Combination Supplier Ref
+5fd0e7e78fc2b;fr;Category 1;10.00;0.00;11;Y;Carotte 1;;TVA 0%;;;A;[0:10];0.00;2;;;
+5fd0e86264d2a;fr;Category 2;10.00;0.00;12;Y;Carotte combi;;TVA 2.1%;;;A;[0:10];0.00;2;test import prices ans stocks: option 1;56734761331;
+5fd0e86264d2a;fr;Category 2;20.00;0.00;13;Y;Carotte combi;;TVA 2.1%;;;A;[0:20];0.00;2;test import prices ans stocks: option 2;56734761333;
+5fd0e86264d2a;fr;Category 2;20.00;0.00;14;Y;Carotte combi;;TVA 2.1%;;;A;[0:20];0.00;2;test import prices ans stocks: option 3;56734761333;
