@@ -1,20 +1,13 @@
 ﻿Product code;Language;Category;Price;Weight;Quantity;Downloadable;Product name;Description;Taxes;Features;Short description;Status;Price tiers;Crossed out Price;Company id;Combination;Combination Code;Combination Supplier Ref
-8659653056;fr;Category 2;30.00;0.00;99936;N;Wine - Masi Valpolocell;;TVA 20%;;;A;;;1;;;
-5673476133;fr;Category 6;30.16;0.00;10;N;Myers Planters Punch;;TVA 20%;;;A;;;1;test import prices ans stocks: option 1;;
-5673476133;fr;Category 6;30.17;0.00;20;N;Myers Planters Punch;;TVA 20%;;;A;;10.15;1;test import prices ans stocks: option 2;;
-5673476133;fr;Category 6;;0.00;30;N;Myers Planters Punch;;TVA 20%;;;A;[0:11///5:21///10:31];;1;test import prices ans stocks: option 3;;
-4268784318;fr;Category 7;10.00;0.00;99994;N;Bread Bowl Plain;;TVA 20%;;;A;[0:11///5:21///10:31];;1;;;
+8659653056;fr;Category 2;30.00;0.00;200;N;Wine - Masi Valpolocell;;TVA 20%;;;A;;;1;;;
+8626927997;fr;Category 3;30.01;0.00;99998;N;Champagne - Brights, Dry;;TVA 20%;;;A;[0:11///5:21///10:31];;1;;;
 5592386062;fr;Category 1;30.02;0.00;100000;N;Beets - Pickled;;TVA 20%;;;A;[0:11///5:21///10:31];10.02;1;;;
 3848669633;fr;Category 3;;0.00;100000;N;Dawn Professionl Pot And Pan;;TVA 20%;;;A;[0:11///5:21///10:31];;1;;;
 5909921289;fr;Category 0;;0.00;100000;N;Lettuce Romaine Chopped;;TVA 20%;;;A;[0:11///5:21///10:31];10.04;1;;;
 5208767697;fr;Category 0;;0.00;100000;N;Capon - Breast, Double, Wing On;;TVA 20%;;;A;;10.05;1;;;
-2738992838;fr;Category 8;30.06;0.00;100000;N;Sauce - White, Mix;;TVA 20%;;;A;[0:11///5:21///10:31];10.06;1;;;
-927017772;fr;Category 0;30.07;0.00;100000;N;Pastry - Apple Large;;TVA 20%;;;A;;;1;;;
-9238482658;fr;Category 1;30.08;0.00;100000;N;Carrots - Mini Red Organic;;TVA 20%;;;A;;10.08;1;;;
-100237475;fr;Category 9;30.09;0.00;100000;N;Chives - Fresh;;TVA 20%;;;A;;10.09;1;;;
-7810181273;fr;Category 1;30.10;0.00;100000;N;Coconut Milk - Unsweetened;;TVA 20%;;;A;;10.10;1;;;
-8710904393;fr;Category 5;30.11;0.00;100000;N;Pork - Bones;;TVA 20%;;;A;;10.11;1;;;
-3617439131;fr;Category 0;30.12;0.00;100000;N;Wine - Rioja Campo Viejo;;TVA 20%;;;A;;10.12;1;;;
-8311480365;fr;Category 6;30.13;0.00;100000;N;Tea - Orange Pekoe;;TVA 20%;;;A;;10.13;1;;;
-2110386123;fr;Category 1;30.14;0.00;100000;N;Pastry - Cherry Danish - Mini;;TVA 20%;;;A;;10.14;1;;;
-6523631722;fr;Category 6;30.15;0.00;100000;N;Asparagus - Green, Fresh;;TVA 20%;;;A;;10.15;1;;;
+5673476133;fr;Category 6;30.00;0.00;10;N;Myers Planters Punch;;TVA 20%;;;A;;;1;test import prices ans stocks: option 1;56734761331;testsupplier1
+5673476133;fr;Category 6;30.01;0.00;10;N;Myers Planters Punch;;TVA 20%;;;A;[0:11///5:21///10:31];;1;test import prices ans stocks: option 2;56734761332;supref2
+5673476133;fr;Category 6;30.02;0.00;10;N;Myers Planters Punch;;TVA 20%;;;A;[0:11///5:21///10:31];10.02;1;test import prices ans stocks: option 3;56734761333;
+5673476133;fr;Category 6;;0.00;10;N;Myers Planters Punch;;TVA 20%;;;A;[0:11///5:21///10:31];;1;test import prices ans stocks: option 4;;
+5673476133;fr;Category 6;;0.00;10;N;Myers Planters Punch;;TVA 20%;;;A;[0:11///5:21///10:31];10.04;1;test import prices ans stocks: option 5;;
+5673476133;fr;Category 6;;0.00;10;N;Myers Planters Punch;;TVA 20%;;;A;;10.05;1;test import prices ans stocks: option 6;;
