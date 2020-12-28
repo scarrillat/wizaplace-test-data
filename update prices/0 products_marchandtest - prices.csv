@@ -1,0 +1,2395 @@
+﻿Product code;Language;Price;Crossed out Price;Company id;Combination
+8659653056;fr;100.00;0.00;1;
+5673476133;fr;101.00;2001.00;1;test import prices ans stocks: option 1
+5673476133;fr;102.00;2001.00;1;test import prices ans stocks: option 2
+5673476133;fr;103.00;2001.00;1;test import prices ans stocks: option 3
+5673476133;fr;104.00;2001.00;1;test import prices ans stocks: option 4
+5673476133;fr;105.00;2001.00;1;test import prices ans stocks: option 5
+5673476133;fr;106.00;2001.00;1;test import prices ans stocks: option 6
+5673476133;fr;107.00;2001.00;1;test import prices ans stocks: option 7
+5673476133;fr;108.00;2001.00;1;test import prices ans stocks: option 8
+4268784318;fr;109.00;0.00;1;
+3294413287;fr;0.00;0.00;1;
+2789366595;fr;18.00;0.00;1;
+8626927997;fr;512.00;2012.00;1;
+5592386062;fr;513.00;2013.00;1;
+3848669633;fr;514.00;0.00;1;
+5909921289;fr;515.00;2015.00;1;
+5208767697;fr;516.00;0.00;1;
+2738992838;fr;517.00;2017.00;1;
+927017772;fr;518.00;2018.00;1;
+9238482658;fr;519.00;2019.00;1;
+100237475;fr;12.00;0.00;1;
+7810181273;fr;521.00;2021.00;1;
+8710904393;fr;522.00;2022.00;1;
+3617439131;fr;523.00;2023.00;1;
+8311480365;fr;12.00;0.00;1;
+2110386123;fr;525.00;2025.00;1;
+6523631722;fr;526.00;2026.00;1;
+4242190547;fr;527.00;2027.00;1;
+3253149407;fr;528.00;2028.00;1;
+2506846142;fr;529.00;0.00;1;
+9066511997;fr;530.00;2030.00;1;
+7747204694;fr;531.00;2031.00;1;
+9195024133;fr;532.00;2032.00;1;
+7695027336;fr;533.00;2033.00;1;
+2970785778;fr;534.00;2034.00;1;
+1806f031-d253-4a41-8fc7-0ce4bc6a0d94;fr;207.00;1035.00;1;
+792ea05c-86c3-4f19-ad12-8123b99cbb15;fr;208.00;1036.00;1;
+e0f0cec1-eb3f-4f30-85f8-c5ab70357fc5;fr;209.00;1037.00;1;
+f1aec8f0-3b36-4ddd-a859-d45be52289a9;fr;210.00;1038.00;1;
+5fd0e7e78fc2b;fr;211.00;1039.00;1;
+5fd0e86264d2a;fr;212.00;1040.00;1;test import prices ans stocks: option 1
+5fd0e86264d2a;fr;213.00;1040.00;1;test import prices ans stocks: option 2
+5fd0e86264d2a;fr;200.00;1040.00;1;test import prices ans stocks: option 3
+4514364022;fr;201.00;1043.00;1;
+4274862091;fr;202.00;1044.00;1;test import prices ans stocks: option 1
+4035360160;fr;203.00;1045.00;1;test import prices ans stocks: option 2
+3795858229;fr;204.00;1046.00;1;test import prices ans stocks: option 3
+3556356298;fr;205.00;1047.00;1;test import prices ans stocks: option 4
+3316854367;fr;206.00;1048.00;1;test import prices ans stocks: option 5
+2837850504;fr;207.00;1049.00;1;test import prices ans stocks: option 7
+3077352435;fr;208.00;1050.00;1;test import prices ans stocks: option 6
+2358846642;fr;209.00;1051.00;1;
+2598348573;fr;210.00;1052.00;1;test import prices ans stocks: option 8
+2119344711;fr;211.00;1053.00;1;
+1879842780;fr;212.00;1054.00;1;test import prices ans stocks: option 1
+1640340848;fr;213.00;1055.00;1;test import prices ans stocks: option 2
+1161336986;fr;200.00;1056.00;1;test import prices ans stocks: option 4
+1400838917;fr;201.00;1057.00;1;test import prices ans stocks: option 3
+921835054,9;fr;202.00;1058.00;1;test import prices ans stocks: option 5
+682333123,8;fr;203.00;1059.00;1;test import prices ans stocks: option 6
+442831192,6;fr;204.00;1060.00;1;test import prices ans stocks: option 7
+203329261,5;fr;205.00;1061.00;1;test import prices ans stocks: option 8
+"	-36172669,71";fr;0.00;0.00;1;
+"	-275674600,9";fr;0.00;0.00;1;
+"	-515176532";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-754678463,2";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-994180394,4";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1233682326";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1473184257";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1712686188";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1952188119";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2191690050";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2431191981";fr;0.00;0.00;1;
+"	-2670693913";fr;0.00;0.00;1;
+"	-2910195844";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-3149697775";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-3389199706";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-3628701637";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-3868203568";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-4107705499";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-4347207431";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-4586709362";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-4826211293";fr;0.00;0.00;1;
+"	-5065713224";fr;0.00;0.00;1;
+"	-5305215155";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-5544717086";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-5784219018";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-6023720949";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-6263222880";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-6502724811";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-6742226742";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-6981728673";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-7221230605";fr;0.00;0.00;1;
+"	-7460732536";fr;0.00;0.00;1;
+"	-7700234467";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-7939736398";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-8179238329";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-8418740260";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-8658242192";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-8897744123";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-9137246054";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-9376747985";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-9616249916";fr;0.00;0.00;1;
+"	-9855751847";fr;0.00;0.00;1;
+"	-10095253779";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-10334755710";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-10574257641";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-10813759572";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-11053261503";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-11292763434";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-11532265366";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-11771767297";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-12011269228";fr;0.00;0.00;1;
+"	-12250771159";fr;0.00;0.00;1;
+"	-12490273090";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-12729775021";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-12969276953";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-13208778884";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-13448280815";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-13687782746";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-13927284677";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-14166786608";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-14406288540";fr;0.00;0.00;1;
+"	-14645790471";fr;0.00;0.00;1;
+"	-14885292402";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-15124794333";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-15364296264";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-15603798195";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-15843300127";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-16082802058";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-16322303989";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-16561805920";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-16801307851";fr;0.00;0.00;1;
+"	-17040809782";fr;0.00;0.00;1;
+"	-17280311713";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-17519813645";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-17759315576";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-17998817507";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-18238319438";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-18477821369";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-18717323300";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-18956825232";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-19196327163";fr;0.00;0.00;1;
+"	-19435829094";fr;0.00;0.00;1;
+"	-19675331025";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-19914832956";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-20154334887";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-20393836819";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-20633338750";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-20872840681";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-21112342612";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-21351844543";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-21591346474";fr;0.00;0.00;1;
+"	-21830848406";fr;0.00;0.00;1;
+"	-22070350337";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-22309852268";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-22788856130";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-22549354199";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-23028358061";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-23267859993";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-23507361924";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-23746863855";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-23986365786";fr;0.00;0.00;1;
+"	-24225867717";fr;0.00;0.00;1;
+"	-24465369648";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-24704871580";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-24944373511";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-25183875442";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-25423377373";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-25662879304";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-25902381235";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-26141883167";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-26381385098";fr;0.00;0.00;1;
+"	-26620887029";fr;0.00;0.00;1;
+"	-26860388960";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-27099890891";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-27339392822";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-27578894754";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-27818396685";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-28057898616";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-28297400547";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-28536902478";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-28776404409";fr;0.00;0.00;1;
+"	-29015906341";fr;0.00;0.00;1;
+"	-29255408272";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-29494910203";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-29734412134";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-29973914065";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-30213415996";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-30452917927";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-30692419859";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-30931921790";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-31171423721";fr;0.00;0.00;1;
+"	-31410925652";fr;0.00;0.00;1;
+"	-31650427583";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-31889929514";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-32129431446";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-32368933377";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-32608435308";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-32847937239";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-33087439170";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-33326941101";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-33566443033";fr;0.00;0.00;1;
+"	-33805944964";fr;0.00;0.00;1;
+"	-34045446895";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-34284948826";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-34524450757";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-34763952688";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-35003454620";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-35242956551";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-35482458482";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-35721960413";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-35961462344";fr;0.00;0.00;1;
+"	-36200964275";fr;0.00;0.00;1;
+"	-36440466207";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-36679968138";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-36919470069";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-37158972000";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-37398473931";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-37637975862";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-37877477794";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-38116979725";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-38356481656";fr;0.00;0.00;1;
+"	-38595983587";fr;0.00;0.00;1;
+"	-38835485518";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-39074987449";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-39314489381";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-39553991312";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-39793493243";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-40032995174";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-40272497105";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-40511999036";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-40751500968";fr;0.00;0.00;1;
+"	-40991002899";fr;0.00;0.00;1;
+"	-41230504830";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-41470006761";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-41709508692";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-41949010623";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-42188512555";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-42428014486";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-42667516417";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-42907018348";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-43146520279";fr;0.00;0.00;1;
+"	-43386022210";fr;0.00;0.00;1;
+"	-43625524141";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-43865026073";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-44104528004";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-44344029935";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-44583531866";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-44823033797";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-45062535728";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-45302037660";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-45541539591";fr;0.00;0.00;1;
+"	-45781041522";fr;0.00;0.00;1;
+"	-46020543453";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-46260045384";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-46499547315";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-46739049247";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-46978551178";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-47218053109";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-47457555040";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-47697056971";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-47936558902";fr;0.00;0.00;1;
+"	-48176060834";fr;0.00;0.00;1;
+"	-48415562765";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-48655064696";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-48894566627";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-49134068558";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-49373570489";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-49613072421";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-50092076283";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-49852574352";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-50331578214";fr;0.00;0.00;1;
+"	-50571080145";fr;0.00;0.00;1;
+"	-51050084008";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-50810582076";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-51289585939";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-51529087870";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-51768589801";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-52008091732";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-52247593663";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-52487095595";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-52726597526";fr;0.00;0.00;1;
+"	-52966099457";fr;0.00;0.00;1;
+"	-53205601388";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-53445103319";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-53684605250";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-53924107182";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-54163609113";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-54403111044";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-54642612975";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-54882114906";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-55121616837";fr;0.00;0.00;1;
+"	-55361118769";fr;0.00;0.00;1;
+"	-55600620700";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-55840122631";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-56319126493";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-56079624562";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-56558628424";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-56798130355";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-57037632287";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-57277134218";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-57516636149";fr;0.00;0.00;1;
+"	-57756138080";fr;0.00;0.00;1;
+"	-57995640011";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-58235141942";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-58474643874";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-58714145805";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-58953647736";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-59193149667";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-59432651598";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-59672153529";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-59911655461";fr;0.00;0.00;1;
+"	-60151157392";fr;0.00;0.00;1;
+"	-60390659323";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-60630161254";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-60869663185";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-61109165116";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-61348667048";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-61588168979";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-61827670910";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-62067172841";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-62306674772";fr;0.00;0.00;1;
+"	-62546176703";fr;0.00;0.00;1;
+"	-62785678635";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-63025180566";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-63264682497";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-63504184428";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-63743686359";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-63983188290";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-64222690222";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-64462192153";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-64701694084";fr;0.00;0.00;1;
+"	-64941196015";fr;0.00;0.00;1;
+"	-65180697946";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-65420199877";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-65659701809";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-65899203740";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-66378207602";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-66138705671";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-66617709533";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-66857211464";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-67096713396";fr;0.00;0.00;1;
+"	-67336215327";fr;0.00;0.00;1;
+"	-67575717258";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-67815219189";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-68054721120";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-68294223051";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-68533724983";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-68773226914";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-69012728845";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-69252230776";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-69491732707";fr;0.00;0.00;1;
+"	-69731234638";fr;0.00;0.00;1;
+"	-69970736569";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-70210238501";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-70449740432";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-70689242363";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-70928744294";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-71168246225";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-71407748156";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-71647250088";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-71886752019";fr;0.00;0.00;1;
+"	-72126253950";fr;0.00;0.00;1;
+"	-72365755881";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-72605257812";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-72844759743";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-73084261675";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-73563265537";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-73323763606";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-74042269399";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-73802767468";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-74281771330";fr;0.00;0.00;1;
+"	-74521273262";fr;0.00;0.00;1;
+"	-74760775193";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-75000277124";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-75239779055";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-75479280986";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-75718782917";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-75958284849";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-76197786780";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-76437288711";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-76676790642";fr;0.00;0.00;1;
+"	-76916292573";fr;0.00;0.00;1;
+"	-77155794504";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-77395296436";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-77634798367";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-77874300298";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-78113802229";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-78353304160";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-78592806091";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-78832308023";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-79071809954";fr;0.00;0.00;1;
+"	-79311311885";fr;0.00;0.00;1;
+"	-79550813816";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-79790315747";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-80029817678";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-80269319610";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-80508821541";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-80748323472";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-80987825403";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-81227327334";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-81466829265";fr;0.00;0.00;1;
+"	-81706331197";fr;0.00;0.00;1;
+"	-81945833128";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-82185335059";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-82424836990";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-82664338921";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-82903840852";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-83143342783";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-83382844715";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-83622346646";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-83861848577";fr;0.00;0.00;1;
+"	-84101350508";fr;0.00;0.00;1;
+"	-84340852439";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-84580354370";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-84819856302";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-85059358233";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-85298860164";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-85538362095";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-85777864026";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-86017365957";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-86256867889";fr;0.00;0.00;1;
+"	-86496369820";fr;0.00;0.00;1;
+"	-86735871751";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-86975373682";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-87214875613";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-87454377544";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-87693879476";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-87933381407";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-88172883338";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-88412385269";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-88651887200";fr;0.00;0.00;1;
+"	-88891389131";fr;0.00;0.00;1;
+"	-89130891063";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-89370392994";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-89609894925";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-89849396856";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-90088898787";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-90328400718";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-90567902650";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-90807404581";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-91046906512";fr;0.00;0.00;1;
+"	-91286408443";fr;0.00;0.00;1;
+"	-91525910374";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-91765412305";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-92004914237";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-92244416168";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-92483918099";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-92723420030";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-92962921961";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-93202423892";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-93441925824";fr;0.00;0.00;1;
+"	-93681427755";fr;0.00;0.00;1;
+"	-93920929686";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-94160431617";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-94399933548";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-94639435479";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-94878937411";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-95118439342";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-95357941273";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-95597443204";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-95836945135";fr;0.00;0.00;1;
+"	-96076447066";fr;0.00;0.00;1;
+"	-96315948997";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-96555450929";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-96794952860";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-97034454791";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-97273956722";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-97513458653";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-97752960584";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-97992462516";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-98231964447";fr;0.00;0.00;1;
+"	-98471466378";fr;0.00;0.00;1;
+"	-98710968309";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-98950470240";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-99189972171";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-99429474103";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-99668976034";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-99908477965";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,00148E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,00387E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,00627E+11";fr;0.00;0.00;1;
+"	-1,00866E+11";fr;0.00;0.00;1;
+"	-1,01106E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,01345E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,01585E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,01824E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,02064E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,02303E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,02543E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,02783E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,03022E+11";fr;0.00;0.00;1;
+"	-1,03262E+11";fr;0.00;0.00;1;
+"	-1,03501E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,03741E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,0398E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,0422E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,04459E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,04699E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,04938E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,05178E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,05417E+11";fr;0.00;0.00;1;
+"	-1,05657E+11";fr;0.00;0.00;1;
+"	-1,05896E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,06136E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,06375E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,06615E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,06854E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,07094E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,07333E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,07573E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,07812E+11";fr;0.00;0.00;1;
+"	-1,08052E+11";fr;0.00;0.00;1;
+"	-1,08291E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,08531E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,0877E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,0901E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,09249E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,09489E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,09728E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,09968E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,10207E+11";fr;0.00;0.00;1;
+"	-1,10447E+11";fr;0.00;0.00;1;
+"	-1,10686E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,10926E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,11165E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,11405E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,11644E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,11884E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,12123E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,12363E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,12602E+11";fr;0.00;0.00;1;
+"	-1,12842E+11";fr;0.00;0.00;1;
+"	-1,13081E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,13321E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,1356E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,138E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,14039E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,14279E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,14518E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,14758E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,14997E+11";fr;0.00;0.00;1;
+"	-1,15237E+11";fr;0.00;0.00;1;
+"	-1,15476E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,15716E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,15955E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,16195E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,16434E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,16674E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,16913E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,17153E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,17392E+11";fr;0.00;0.00;1;
+"	-1,17632E+11";fr;0.00;0.00;1;
+"	-1,17871E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,18111E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,1835E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,1859E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,18829E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,19069E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,19308E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,19548E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,19787E+11";fr;0.00;0.00;1;
+"	-1,20027E+11";fr;0.00;0.00;1;
+"	-1,20266E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,20506E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,20745E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,20985E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,21224E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,21464E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,21703E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,21943E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,22182E+11";fr;0.00;0.00;1;
+"	-1,22422E+11";fr;0.00;0.00;1;
+"	-1,22661E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,22901E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,2314E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,2338E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,23619E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,23859E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,24098E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,24338E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,24577E+11";fr;0.00;0.00;1;
+"	-1,24817E+11";fr;0.00;0.00;1;
+"	-1,25056E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,25296E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,25535E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,25775E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,26014E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,26254E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,26493E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,26733E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,26972E+11";fr;0.00;0.00;1;
+"	-1,27212E+11";fr;0.00;0.00;1;
+"	-1,27451E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,27691E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,2793E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,2817E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,28409E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,28649E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,28888E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,29128E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,29367E+11";fr;0.00;0.00;1;
+"	-1,29607E+11";fr;0.00;0.00;1;
+"	-1,29846E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,30086E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,30325E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,30565E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,30804E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,31044E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,31283E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,31523E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,31762E+11";fr;0.00;0.00;1;
+"	-1,32002E+11";fr;0.00;0.00;1;
+"	-1,32241E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,32481E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,3272E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,3296E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,33199E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,33439E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,33678E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,33918E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,34157E+11";fr;0.00;0.00;1;
+"	-1,34397E+11";fr;0.00;0.00;1;
+"	-1,34636E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,34876E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,35115E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,35355E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,35594E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,35834E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,36073E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,36313E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,36552E+11";fr;0.00;0.00;1;
+"	-1,36792E+11";fr;0.00;0.00;1;
+"	-1,37031E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,37271E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,3751E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,3775E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,37989E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,38229E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,38468E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,38708E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,38947E+11";fr;0.00;0.00;1;
+"	-1,39187E+11";fr;0.00;0.00;1;
+"	-1,39426E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,39666E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,39905E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,40145E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,40384E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,40624E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,40863E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,41103E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,41342E+11";fr;0.00;0.00;1;
+"	-1,41582E+11";fr;0.00;0.00;1;
+"	-1,41821E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,42061E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,423E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,4254E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,42779E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,43019E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,43258E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,43498E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,43737E+11";fr;0.00;0.00;1;
+"	-1,43977E+11";fr;0.00;0.00;1;
+"	-1,44216E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,44456E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,44695E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,44935E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,45174E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,45414E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,45653E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,45893E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,46132E+11";fr;0.00;0.00;1;
+"	-1,46372E+11";fr;0.00;0.00;1;
+"	-1,46611E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,46851E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,4709E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,4733E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,47569E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,47809E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,48048E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,48288E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,48527E+11";fr;0.00;0.00;1;
+"	-1,48767E+11";fr;0.00;0.00;1;
+"	-1,49006E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,49246E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,49485E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,49725E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,49964E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,50204E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,50443E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,50683E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,50922E+11";fr;0.00;0.00;1;
+"	-1,51162E+11";fr;0.00;0.00;1;
+"	-1,51401E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,51641E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,5188E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,5212E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,52359E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,52599E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,52838E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,53078E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,53317E+11";fr;0.00;0.00;1;
+"	-1,53557E+11";fr;0.00;0.00;1;
+"	-1,53796E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,54036E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,54275E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,54515E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,54754E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,54994E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,55233E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,55473E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,55712E+11";fr;0.00;0.00;1;
+"	-1,55952E+11";fr;0.00;0.00;1;
+"	-1,56191E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,56431E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,5667E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,5691E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,57149E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,57389E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,57628E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,57868E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,58107E+11";fr;0.00;0.00;1;
+"	-1,58347E+11";fr;0.00;0.00;1;
+"	-1,58586E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,58826E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,59065E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,59305E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,59544E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,59784E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,60263E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,60023E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,60502E+11";fr;0.00;0.00;1;
+"	-1,60742E+11";fr;0.00;0.00;1;
+"	-1,60981E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,61221E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,6146E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,617E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,61939E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,62179E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,62418E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,62658E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,62897E+11";fr;0.00;0.00;1;
+"	-1,63137E+11";fr;0.00;0.00;1;
+"	-1,63376E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,63616E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,63855E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,64095E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,64334E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,64574E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,64814E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,65053E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,65293E+11";fr;0.00;0.00;1;
+"	-1,65532E+11";fr;0.00;0.00;1;
+"	-1,65772E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,66011E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,66251E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,6649E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,6673E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,66969E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,67209E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,67448E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,67688E+11";fr;0.00;0.00;1;
+"	-1,67927E+11";fr;0.00;0.00;1;
+"	-1,68167E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,68406E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,68646E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,68885E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,69125E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,69364E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,69604E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,69843E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,70083E+11";fr;0.00;0.00;1;
+"	-1,70322E+11";fr;0.00;0.00;1;
+"	-1,70562E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,70801E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,71041E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,7128E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,7152E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,71759E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,71999E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,72238E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,72478E+11";fr;0.00;0.00;1;
+"	-1,72717E+11";fr;0.00;0.00;1;
+"	-1,72957E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,73196E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,73436E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,73675E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,73915E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,74154E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,74394E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,74633E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,74873E+11";fr;0.00;0.00;1;
+"	-1,75112E+11";fr;0.00;0.00;1;
+"	-1,75352E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,75591E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,75831E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,7607E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,7631E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,76549E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,76789E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,77028E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,77268E+11";fr;0.00;0.00;1;
+"	-1,77507E+11";fr;0.00;0.00;1;
+"	-1,77747E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,77986E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,78226E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,78465E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,78705E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,78944E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,79184E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,79423E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,79663E+11";fr;0.00;0.00;1;
+"	-1,79902E+11";fr;0.00;0.00;1;
+"	-1,80142E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,80381E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,80621E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,8086E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,811E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,81339E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,81579E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,81818E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,82058E+11";fr;0.00;0.00;1;
+"	-1,82297E+11";fr;0.00;0.00;1;
+"	-1,82537E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,82776E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,83016E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,83255E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,83495E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,83734E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,83974E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,84213E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,84453E+11";fr;0.00;0.00;1;
+"	-1,84692E+11";fr;0.00;0.00;1;
+"	-1,84932E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,85171E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,85411E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,8565E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,86129E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,8589E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,86369E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,86608E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,86848E+11";fr;0.00;0.00;1;
+"	-1,87087E+11";fr;0.00;0.00;1;
+"	-1,87327E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,87566E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,87806E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,88045E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,88285E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,88524E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,88764E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,89003E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,89243E+11";fr;0.00;0.00;1;
+"	-1,89482E+11";fr;0.00;0.00;1;
+"	-1,89722E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,89961E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,90201E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,9044E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,9068E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,90919E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,91159E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,91398E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,91638E+11";fr;0.00;0.00;1;
+"	-1,91877E+11";fr;0.00;0.00;1;
+"	-1,92117E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,92356E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,92596E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,92835E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,93075E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,93314E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,93554E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,93793E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,94033E+11";fr;0.00;0.00;1;
+"	-1,94272E+11";fr;0.00;0.00;1;
+"	-1,94512E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,94751E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,94991E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,9523E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,9547E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,95709E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,95949E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,96188E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,96428E+11";fr;0.00;0.00;1;
+"	-1,96667E+11";fr;0.00;0.00;1;
+"	-1,96907E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,97146E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,97386E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-1,97625E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-1,97865E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-1,98344E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-1,98104E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-1,98583E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-1,98823E+11";fr;0.00;0.00;1;
+"	-1,99062E+11";fr;0.00;0.00;1;
+"	-1,99302E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-1,99541E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-1,99781E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,0002E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,0026E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,00499E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,00739E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,00978E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,01218E+11";fr;0.00;0.00;1;
+"	-2,01457E+11";fr;0.00;0.00;1;
+"	-2,01697E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,01936E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,02176E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,02415E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,02655E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,02894E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,03134E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,03373E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,03613E+11";fr;0.00;0.00;1;
+"	-2,03852E+11";fr;0.00;0.00;1;
+"	-2,04092E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,04331E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,04571E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,0481E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,0505E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,05289E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,05529E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,05768E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,06008E+11";fr;0.00;0.00;1;
+"	-2,06247E+11";fr;0.00;0.00;1;
+"	-2,06487E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,06726E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,06966E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,07205E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,07445E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,07684E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,07924E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,08163E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,08403E+11";fr;0.00;0.00;1;
+"	-2,08642E+11";fr;0.00;0.00;1;
+"	-2,08882E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,09121E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,09361E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,096E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,0984E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,10079E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,10319E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,10558E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,10798E+11";fr;0.00;0.00;1;
+"	-2,11037E+11";fr;0.00;0.00;1;
+"	-2,11277E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,11516E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,11756E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,11995E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,12235E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,12474E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,12714E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,12953E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,13193E+11";fr;0.00;0.00;1;
+"	-2,13432E+11";fr;0.00;0.00;1;
+"	-2,13672E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,13911E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,14151E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,1439E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,1463E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,14869E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,15109E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,15348E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,15588E+11";fr;0.00;0.00;1;
+"	-2,15827E+11";fr;0.00;0.00;1;
+"	-2,16067E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,16306E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,16546E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,16785E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,17025E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,17264E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,17504E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,17743E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,17983E+11";fr;0.00;0.00;1;
+"	-2,18222E+11";fr;0.00;0.00;1;
+"	-2,18462E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,18701E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,18941E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,1918E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,1942E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,19659E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,19899E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,20138E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,20378E+11";fr;0.00;0.00;1;
+"	-2,20617E+11";fr;0.00;0.00;1;
+"	-2,20857E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,21096E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,21336E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,21575E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,21815E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,22054E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,22294E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,22533E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,22773E+11";fr;0.00;0.00;1;
+"	-2,23012E+11";fr;0.00;0.00;1;
+"	-2,23252E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,23491E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,23731E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,2397E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,2421E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,24449E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,24689E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,24928E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,25168E+11";fr;0.00;0.00;1;
+"	-2,25407E+11";fr;0.00;0.00;1;
+"	-2,25647E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,25886E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,26126E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,26365E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,26605E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,26845E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,27084E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,27324E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,27563E+11";fr;0.00;0.00;1;
+"	-2,27803E+11";fr;0.00;0.00;1;
+"	-2,28042E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,28282E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,28521E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,28761E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,29E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,2924E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,29479E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,29958E+11";fr;0.00;0.00;1;
+"	-2,29719E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,30198E+11";fr;0.00;0.00;1;
+"	-2,30437E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,30677E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,30916E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,31156E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,31395E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,31635E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,31874E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,32114E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,32353E+11";fr;0.00;0.00;1;
+"	-2,32593E+11";fr;0.00;0.00;1;
+"	-2,32832E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,33072E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,33311E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,33551E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,3379E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,3403E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,34269E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,34509E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,34748E+11";fr;0.00;0.00;1;
+"	-2,34988E+11";fr;0.00;0.00;1;
+"	-2,35227E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,35467E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,35706E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,35946E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,36185E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,36425E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,36664E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,36904E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,37143E+11";fr;0.00;0.00;1;
+"	-2,37383E+11";fr;0.00;0.00;1;
+"	-2,37622E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,37862E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,38101E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,38341E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,3858E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,3882E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,39059E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,39299E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,39538E+11";fr;0.00;0.00;1;
+"	-2,39778E+11";fr;0.00;0.00;1;
+"	-2,40017E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,40257E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,40496E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,40736E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,40975E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,41215E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,41454E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,41694E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,41933E+11";fr;0.00;0.00;1;
+"	-2,42173E+11";fr;0.00;0.00;1;
+"	-2,42412E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,42652E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,42891E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,43131E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,4337E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,4361E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,43849E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,44089E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,44328E+11";fr;0.00;0.00;1;
+"	-2,44568E+11";fr;0.00;0.00;1;
+"	-2,44807E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,45047E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,45286E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,45526E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,45765E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,46005E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,46244E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,46484E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,46723E+11";fr;0.00;0.00;1;
+"	-2,46963E+11";fr;0.00;0.00;1;
+"	-2,47202E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,47442E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,47681E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,47921E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,4816E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,484E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,48639E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,48879E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,49118E+11";fr;0.00;0.00;1;
+"	-2,49358E+11";fr;0.00;0.00;1;
+"	-2,49597E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,49837E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,50076E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,50316E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,50555E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,50795E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,51034E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,51274E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,51513E+11";fr;0.00;0.00;1;
+"	-2,51753E+11";fr;0.00;0.00;1;
+"	-2,51992E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,52232E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,52471E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,52711E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,5295E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,5319E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,53429E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,53669E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,53908E+11";fr;0.00;0.00;1;
+"	-2,54148E+11";fr;0.00;0.00;1;
+"	-2,54387E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,54627E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,55106E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,54866E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,55345E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,55585E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,55824E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,56064E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,56303E+11";fr;0.00;0.00;1;
+"	-2,56543E+11";fr;0.00;0.00;1;
+"	-2,56782E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,57022E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,57261E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,57501E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,5774E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,5798E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,58219E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,58459E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,58698E+11";fr;0.00;0.00;1;
+"	-2,58938E+11";fr;0.00;0.00;1;
+"	-2,59177E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,59417E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,59656E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,59896E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,60135E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,60375E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,60614E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,60854E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,61093E+11";fr;0.00;0.00;1;
+"	-2,61333E+11";fr;0.00;0.00;1;
+"	-2,61572E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,61812E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,62051E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,62291E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,6253E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,6277E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,63009E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,63249E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,63488E+11";fr;0.00;0.00;1;
+"	-2,63728E+11";fr;0.00;0.00;1;
+"	-2,63967E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,64207E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,64446E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,64686E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,64925E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,65165E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,65404E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,65644E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,65883E+11";fr;0.00;0.00;1;
+"	-2,66123E+11";fr;0.00;0.00;1;
+"	-2,66362E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,66602E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,66841E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,67081E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,6732E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,6756E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,67799E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,68039E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,68278E+11";fr;0.00;0.00;1;
+"	-2,68518E+11";fr;0.00;0.00;1;
+"	-2,68757E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,68997E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,69236E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,69476E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,69715E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,69955E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,70194E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,70434E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,70673E+11";fr;0.00;0.00;1;
+"	-2,70913E+11";fr;0.00;0.00;1;
+"	-2,71152E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,71392E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,71631E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,71871E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,7211E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,7235E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,72589E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,72829E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,73068E+11";fr;0.00;0.00;1;
+"	-2,73308E+11";fr;0.00;0.00;1;
+"	-2,73547E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,73787E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,74026E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,74266E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,74505E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,74745E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,74984E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,75224E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,75463E+11";fr;0.00;0.00;1;
+"	-2,75703E+11";fr;0.00;0.00;1;
+"	-2,75942E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,76182E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,76421E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,76661E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,769E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,7714E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,77379E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,77619E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,77858E+11";fr;0.00;0.00;1;
+"	-2,78098E+11";fr;0.00;0.00;1;
+"	-2,78337E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,78577E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,78816E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,79056E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,79295E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,79535E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,79774E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,80014E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,80253E+11";fr;0.00;0.00;1;
+"	-2,80493E+11";fr;0.00;0.00;1;
+"	-2,80732E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,80972E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,81211E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,81451E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,8169E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,8193E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,82169E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,82409E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,82648E+11";fr;0.00;0.00;1;
+"	-2,82888E+11";fr;0.00;0.00;1;
+"	-2,83127E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,83367E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,83606E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,83846E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,84085E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,84325E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,84564E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,84804E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,85043E+11";fr;0.00;0.00;1;
+"	-2,85283E+11";fr;0.00;0.00;1;
+"	-2,85522E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,85762E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,86001E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,86241E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,8648E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,8672E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,86959E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,87199E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,87438E+11";fr;0.00;0.00;1;
+"	-2,87678E+11";fr;0.00;0.00;1;
+"	-2,87917E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,88157E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,88396E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,88636E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,88876E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,89115E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,89355E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,89594E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,89834E+11";fr;0.00;0.00;1;
+"	-2,90073E+11";fr;0.00;0.00;1;
+"	-2,90313E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,90552E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,90792E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,91031E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,91271E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,9151E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,9175E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,91989E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,92229E+11";fr;0.00;0.00;1;
+"	-2,92468E+11";fr;0.00;0.00;1;
+"	-2,92708E+11";fr;30.00;0.00;1;test import prices ans stocks: option 1
+"	-2,92947E+11";fr;11.00;0.00;1;test import prices ans stocks: option 2
+"	-2,93187E+11";fr;11.00;0.00;1;test import prices ans stocks: option 3
+"	-2,93426E+11";fr;11.00;0.00;1;test import prices ans stocks: option 4
+"	-2,93666E+11";fr;11.00;0.00;1;test import prices ans stocks: option 5
+"	-2,93905E+11";fr;0.00;0.00;1;test import prices ans stocks: option 6
+"	-2,94145E+11";fr;11.00;0.00;1;test import prices ans stocks: option 7
+"	-2,94384E+11";fr;11.00;0.00;1;test import prices ans stocks: option 8
+"	-2,94624E+11";fr;0.00;0.00;1;
+440220992;fr;190.00;;1;
+3322637832;fr;206.00;2294.00;1;
+5826778734;fr;207.00;2295.00;1;
+483694071;fr;121.00;;1;
+4060774306;fr;209.00;2297.00;1;
+9568741137;fr;210.00;2298.00;1;
+9452780272;fr;211.00;2299.00;1;
+8036498974;fr;212.00;2300.00;1;
+8010354663;fr;213.00;2301.00;1;
+6416984669;fr;200.00;2302.00;1;
+3897381629;fr;201.00;2303.00;1;
+2058618322;fr;202.00;2304.00;1;
+1477761068;fr;203.00;2305.00;1;
+2538874765;fr;204.00;2306.00;1;
+9439968793;fr;205.00;2307.00;1;
+6306284720;fr;206.00;2308.00;1;
+337200588;fr;18.00;;1;
+1648943492;fr;208.00;2310.00;1;
+3278818769;fr;209.00;2311.00;1;
+6532629598;fr;210.00;2312.00;1;
+3463755035;fr;211.00;2313.00;1;
+1018328090;fr;212.00;2314.00;1;
+5874182807;fr;213.00;2315.00;1;
+8286043663;fr;200.00;2316.00;1;
+7647406148;fr;201.00;2317.00;1;
+6998443182;fr;202.00;2318.00;1;
+6691701651;fr;203.00;2319.00;1;
+6777766284;fr;204.00;2320.00;1;
+8293000147;fr;205.00;2321.00;1;
+6300778750;fr;206.00;2322.00;1;
+5352656831;fr;207.00;2323.00;1;
+7586318073;fr;208.00;2324.00;1;
+2601765153;fr;209.00;2325.00;1;
+3270417404;fr;210.00;2326.00;1;
+2848536288;fr;211.00;2327.00;1;
+3138639808;fr;212.00;2328.00;1;
+1862159972;fr;213.00;2329.00;1;
+6806219906;fr;200.00;2330.00;1;
+2355561243;fr;201.00;2331.00;1;
+973361715;fr;33.00;;1;
+7925210877;fr;203.00;2333.00;1;
+8558844553;fr;204.00;2334.00;1;
+2692235146;fr;205.00;2335.00;1;
+300097085;fr;305.00;;1;
+8809886527;fr;207.00;2337.00;1;
+5967629984;fr;208.00;2338.00;1;
+1846050087;fr;209.00;2339.00;1;
+3179966737;fr;210.00;2340.00;1;
+786621889;fr;309.00;;1;
+8762265625;fr;212.00;2342.00;1;
+6155828129;fr;213.00;2343.00;1;
+416762057;fr;27.00;;1;
+4841503357;fr;201.00;2345.00;1;
+2250415901;fr;202.00;2346.00;1;
+2856235485;fr;203.00;2347.00;1;
+3170483394;fr;204.00;2348.00;1;
+3700100092;fr;205.00;2349.00;1;
+2799727915;fr;206.00;2350.00;1;
+8934285190;fr;207.00;2351.00;1;
+3640725583;fr;208.00;2352.00;1;
+1243945443;fr;209.00;2353.00;1;
+3444860185;fr;210.00;2354.00;1;
+2867729847;fr;211.00;2355.00;1;
+2334806355;fr;212.00;2356.00;1;
+4904101432;fr;213.00;2357.00;1;
+1267358272;fr;200.00;2358.00;1;
+5024881215;fr;201.00;2359.00;1;
+88340021;fr;141.00;;1;
+7325552057;fr;203.00;2361.00;1;
+9839060333;fr;204.00;2362.00;1;
+3040248306;fr;205.00;2363.00;1;
+4947539059;fr;206.00;2364.00;1;
+5709347330;fr;207.00;2365.00;1;
+2300579989;fr;208.00;2366.00;1;
+9559669079;fr;209.00;2367.00;1;
+1319702617;fr;210.00;2368.00;1;
+4930248485;fr;211.00;2369.00;1;
+174958297;fr;299.00;;1;
+1069260278;fr;213.00;2371.00;1;
+7694643581;fr;200.00;2372.00;1;
+3308267277;fr;201.00;2373.00;1;
+4555334446;fr;202.00;2374.00;1;
+9065656305;fr;203.00;2375.00;1;
+8176648411;fr;204.00;2376.00;1;
+3985975672;fr;205.00;2377.00;1;
+7019440987;fr;206.00;2378.00;1;
+5452955298;fr;207.00;2379.00;1;
+1818350115;fr;208.00;2380.00;1;
+4198388428;fr;209.00;2381.00;1;
+5884029136;fr;210.00;2382.00;1;
+814183388;fr;77.00;;1;
+9460297156;fr;212.00;2384.00;1;
+4831819210;fr;213.00;2385.00;1;
+342928874;fr;362.00;;1;
+1586296035;fr;201.00;2387.00;1;
+479306757;fr;229.00;;1;
+9359362626;fr;203.00;2389.00;1;
+2661228062;fr;204.00;2390.00;1;
+7635599935;fr;205.00;2391.00;1;
+8690125411;fr;206.00;2392.00;1;
+5265621899;fr;207.00;2393.00;1;
+2271762440;fr;208.00;2394.00;1;
+3804951495;fr;209.00;2395.00;1;
+4659376139;fr;210.00;2396.00;1;
+8073747957;fr;211.00;2397.00;1;
+755662010;fr;200.00;;1;
+3387785456;fr;213.00;2399.00;1;
+4947833736;fr;200.00;2400.00;1;
+68651531;fr;127.00;;1;
+1092515602;fr;202.00;2402.00;1;
+629103849;fr;341.00;;1;
+4621112839;fr;204.00;2404.00;1;
+4448280672;fr;205.00;2405.00;1;
+7906866062;fr;206.00;2406.00;1;
+7292510893;fr;207.00;2407.00;1;
+6879766995;fr;208.00;2408.00;1;
+4106050358;fr;209.00;2409.00;1;
+849709856;fr;247.00;;1;
+8520745107;fr;211.00;2411.00;1;
+1022305143;fr;212.00;2412.00;1;
+9472250322;fr;213.00;2413.00;1;
+6531353764;fr;200.00;2414.00;1;
+2124596135;fr;201.00;2415.00;1;
+1266319957;fr;202.00;2416.00;1;
+7522083028;fr;203.00;2417.00;1;
+8477390894;fr;204.00;2418.00;1;
+402046902;fr;256.00;;1;
+8280292241;fr;206.00;2420.00;1;
+6217674659;fr;207.00;2421.00;1;
+4922969191;fr;208.00;2422.00;1;
+3819587638;fr;209.00;2423.00;1;
+6141062800;fr;210.00;2424.00;1;
+2771006523;fr;211.00;2425.00;1;
+5239262555;fr;212.00;2426.00;1;
+5858941626;fr;213.00;2427.00;1;
+5301941556;fr;200.00;2428.00;1;
+3587295061;fr;201.00;2429.00;1;
+7766346624;fr;202.00;2430.00;1;
+327468959;fr;38.00;;1;
+5616457785;fr;204.00;2432.00;1;
+3407009980;fr;205.00;2433.00;1;
+4701861679;fr;206.00;2434.00;1;
+4898398093;fr;207.00;2435.00;1;
+7139375259;fr;208.00;2436.00;1;
+5087645107;fr;209.00;2437.00;1;
+5143598804;fr;210.00;2438.00;1;
+3242257470;fr;211.00;2439.00;1;
+4745905938;fr;212.00;2440.00;1;
+862331282;fr;3.00;;1;
+2398740313;fr;200.00;2442.00;1;
+5175463390;fr;201.00;2443.00;1;
+9601626888;fr;202.00;2444.00;1;
+1723561476;fr;203.00;2445.00;1;
+8258577098;fr;204.00;2446.00;1;
+2357824284;fr;205.00;2447.00;1;
+7389303698;fr;206.00;2448.00;1;
+8631112349;fr;207.00;2449.00;1;
+8920690070;fr;208.00;2450.00;1;
+9955405706;fr;209.00;2451.00;1;
+4908687400;fr;210.00;2452.00;1;
+1896854217;fr;211.00;2453.00;1;
+4641166810;fr;212.00;2454.00;1;
+8219723428;fr;213.00;2455.00;1;
+8198248795;fr;200.00;2456.00;1;
+7820585935;fr;201.00;2457.00;1;
+200033490;fr;371.00;;1;
+4727708266;fr;203.00;2459.00;1;
+4078510719;fr;204.00;2460.00;1;
+3465406129;fr;205.00;2461.00;1;
+599626732;fr;286.00;;1;
+8545632040;fr;207.00;2463.00;1;
+1881356575;fr;208.00;2464.00;1;
+7918260084;fr;209.00;2465.00;1;
+2218992299;fr;210.00;2466.00;1;
+4085734021;fr;211.00;2467.00;1;
+5009939888;fr;212.00;2468.00;1;
+7347258440;fr;213.00;2469.00;1;
+5803256428;fr;200.00;2470.00;1;
+1526171260;fr;201.00;2471.00;1;
+2616088292;fr;202.00;2472.00;1;
+1073466169;fr;203.00;2473.00;1;
+6019482135;fr;204.00;2474.00;1;
+3820342265;fr;205.00;2475.00;1;
+6284875774;fr;206.00;2476.00;1;
+9501141361;fr;207.00;2477.00;1;
+5495858880;fr;208.00;2478.00;1;
+9148227677;fr;209.00;2479.00;1;
+8098978309;fr;210.00;2480.00;1;
+7697256707;fr;211.00;2481.00;1;
+6434073902;fr;212.00;2482.00;1;
+2216109065;fr;213.00;2483.00;1;
+8615360274;fr;200.00;2484.00;1;
+3234839565;fr;201.00;2485.00;1;
+8208846877;fr;202.00;2486.00;1;
+1243820021;fr;203.00;2487.00;1;
+2933109562;fr;204.00;2488.00;1;
+1338728868;fr;205.00;2489.00;1;
+8499908601;fr;206.00;2490.00;1;
+2695877362;fr;207.00;2491.00;1;
+7315953030;fr;208.00;2492.00;1;
+5388202223;fr;209.00;2493.00;1;
+5415531620;fr;210.00;2494.00;1;
+5653856695;fr;211.00;2495.00;1;
+4771712951;fr;212.00;2496.00;1;
+6428732418;fr;213.00;2497.00;1;
+1636002295;fr;200.00;2498.00;1;
+271955737;fr;252.00;;1;
+9202519121;fr;202.00;2500.00;1;
+595666116;fr;30.00;;1;
+772162672;fr;146.00;;1;
+6217606895;fr;205.00;2503.00;1;
+4638984661;fr;206.00;2504.00;1;
+3875394800;fr;207.00;2505.00;1;
+7461340916;fr;208.00;2506.00;1;
+6888732107;fr;209.00;2507.00;1;
+5558094291;fr;210.00;2508.00;1;
+2705720939;fr;211.00;2509.00;1;
+4246674097;fr;212.00;2510.00;1;
+8272578795;fr;213.00;2511.00;1;
+2167542891;fr;200.00;2512.00;1;
+2071564977;fr;201.00;2513.00;1;
+475275583;fr;333.00;;1;
+1316698175;fr;203.00;2515.00;1;
+9514548553;fr;204.00;2516.00;1;
+4792998251;fr;205.00;2517.00;1;
+2211335742;fr;206.00;2518.00;1;
+2560442746;fr;207.00;2519.00;1;
+8254471094;fr;208.00;2520.00;1;
+1760762912;fr;209.00;2521.00;1;
+8198448538;fr;210.00;2522.00;1;
+8143282120;fr;211.00;2523.00;1;
+1864497827;fr;212.00;2524.00;1;
+6751560911;fr;213.00;2525.00;1;
+2589029862;fr;200.00;2526.00;1;
+1155082901;fr;201.00;2527.00;1;
+8282049725;fr;202.00;2528.00;1;
+8793619617;fr;203.00;2529.00;1;
+1135460295;fr;204.00;2530.00;1;
+5294670317;fr;205.00;2531.00;1;
+274574955;fr;268.00;;1;
+7906885007;fr;207.00;2533.00;1;
+7286871370;fr;208.00;2534.00;1;
+4230380391;fr;209.00;2535.00;1;
+4022482360;fr;210.00;2536.00;1;
+7545874896;fr;211.00;2537.00;1;
+8237183255;fr;212.00;2538.00;1;
+1847949446;fr;213.00;2539.00;1;
+160179095;fr;125.00;;1;
+7916919743;fr;201.00;2541.00;1;
+7577597894;fr;202.00;2542.00;1;
+9201918048;fr;203.00;2543.00;1;
+7852316254;fr;204.00;2544.00;1;
+1237723788;fr;205.00;2545.00;1;
+2478694681;fr;206.00;2546.00;1;
+9849291658;fr;207.00;2547.00;1;
+5429727368;fr;208.00;2548.00;1;
+4769811021;fr;209.00;2549.00;1;
+8351621001;fr;210.00;2550.00;1;
+2735463841;fr;211.00;2551.00;1;
+5342463769;fr;212.00;2552.00;1;
+8660675583;fr;213.00;2553.00;1;
+4607686145;fr;200.00;2554.00;1;
+2265587616;fr;201.00;2555.00;1;
+1075526710;fr;202.00;2556.00;1;
+596134758;fr;394.00;;1;
+9050274229;fr;204.00;2558.00;1;
+2897675877;fr;205.00;2559.00;1;
+4034446064;fr;206.00;2560.00;1;
+5137674917;fr;207.00;2561.00;1;
+1175798997;fr;208.00;2562.00;1;
+7625442563;fr;209.00;2563.00;1;
+8689896379;fr;210.00;2564.00;1;
+4627275334;fr;211.00;2565.00;1;
+2470827526;fr;212.00;2566.00;1;
+6950734755;fr;213.00;2567.00;1;
+6777046987;fr;200.00;2568.00;1;
+5796102512;fr;201.00;2569.00;1;
+306579262;fr;168.00;;1;
+754930968;fr;57.00;;1;
+1513236108;fr;204.00;2572.00;1;
+6337929455;fr;205.00;2573.00;1;
+9218244389;fr;206.00;2574.00;1;
+6101404233;fr;207.00;2575.00;1;
+7909617277;fr;208.00;2576.00;1;
+4216641610;fr;209.00;2577.00;1;
+8117703222;fr;210.00;2578.00;1;
+1826069343;fr;211.00;2579.00;1;
+9009764014;fr;212.00;2580.00;1;
+9602575889;fr;213.00;2581.00;1;
+4725384028;fr;200.00;2582.00;1;
+1429931962;fr;201.00;2583.00;1;
+9866478298;fr;202.00;2584.00;1;
+8293327980;fr;203.00;2585.00;1;
+2034264843;fr;204.00;2586.00;1;
+4576334323;fr;205.00;2587.00;1;
+5372376999;fr;206.00;2588.00;1;
+9457710309;fr;207.00;2589.00;1;
+5371692917;fr;208.00;2590.00;1;
+5875257731;fr;209.00;2591.00;1;
+3849349622;fr;210.00;2592.00;1;
+652698249;fr;211.00;;1;
+8628231795;fr;212.00;2594.00;1;
+323135269;fr;380.00;;1;
+2640121881;fr;200.00;2596.00;1;
+7812925302;fr;201.00;2597.00;1;
+1104907359;fr;202.00;2598.00;1;
+9688668268;fr;203.00;2599.00;1;
+7406205006;fr;204.00;2600.00;1;
+4426840679;fr;205.00;2601.00;1;
+5676312876;fr;206.00;2602.00;1;
+9128075541;fr;207.00;2603.00;1;
+601236219;fr;309.00;;1;
+5705503884;fr;209.00;2605.00;1;
+356453984;fr;1.00;;1;
+7595795752;fr;211.00;2607.00;1;
+9601154217;fr;212.00;2608.00;1;
+2015522601;fr;213.00;2609.00;1;
+6009685612;fr;200.00;2610.00;1;
+601950554;fr;30.00;;1;
+5203588818;fr;202.00;2612.00;1;
+7359591153;fr;203.00;2613.00;1;
+6266710869;fr;204.00;2614.00;1;
+9005586383;fr;205.00;2615.00;1;
+5988441302;fr;206.00;2616.00;1;
+7254536999;fr;207.00;2617.00;1;
+8901524144;fr;208.00;2618.00;1;
+4669847848;fr;209.00;2619.00;1;
+817337890;fr;123.00;;1;
+7789682853;fr;211.00;2621.00;1;
+2252186629;fr;212.00;2622.00;1;
+3248910631;fr;213.00;2623.00;1;
+8691279835;fr;200.00;2624.00;1;
+2265088544;fr;201.00;2625.00;1;
+4832076557;fr;202.00;2626.00;1;
+5755858538;fr;203.00;2627.00;1;
+4565980336;fr;204.00;2628.00;1;
+7612199177;fr;205.00;2629.00;1;
+4419989393;fr;206.00;2630.00;1;
+5514300341;fr;207.00;2631.00;1;
+1308178711;fr;208.00;2632.00;1;
+86114361;fr;381.00;;1;
+524761314;fr;181.00;;1;
+3617024833;fr;211.00;2635.00;1;
+9419882520;fr;212.00;2636.00;1;
+1164516366;fr;213.00;2637.00;1;
+5470372865;fr;200.00;2638.00;1;
+9247361791;fr;201.00;2639.00;1;
+2012652296;fr;202.00;2640.00;1;
+8418315606;fr;203.00;2641.00;1;
+5212194559;fr;204.00;2642.00;1;
+9397732974;fr;205.00;2643.00;1;
+8389482095;fr;206.00;2644.00;1;
+7488244786;fr;207.00;2645.00;1;
+488621315;fr;151.00;;1;
+2208054031;fr;209.00;2647.00;1;
+3528520581;fr;210.00;2648.00;1;
+8541684404;fr;211.00;2649.00;1;
+2153599717;fr;212.00;2650.00;1;
+2901599259;fr;213.00;2651.00;1;
+8172931018;fr;200.00;2652.00;1;
+4234904401;fr;201.00;2653.00;1;
+9096405688;fr;202.00;2654.00;1;
+5286625755;fr;203.00;2655.00;1;
+5360950498;fr;204.00;2656.00;1;
+7200994468;fr;205.00;2657.00;1;
+1350300068;fr;206.00;2658.00;1;
+4717319830;fr;207.00;2659.00;1;
+2365493710;fr;208.00;2660.00;1;
+1323724059;fr;209.00;2661.00;1;
+6586301503;fr;210.00;2662.00;1;
+2508093592;fr;211.00;2663.00;1;
+1188233840;fr;212.00;2664.00;1;
+6718459476;fr;213.00;2665.00;1;
+2401081044;fr;200.00;2666.00;1;
+3432818251;fr;201.00;2667.00;1;
+5104372230;fr;202.00;2668.00;1;
+4179108886;fr;203.00;2669.00;1;
+2033616209;fr;204.00;2670.00;1;
+1119911315;fr;205.00;2671.00;1;
+3453084304;fr;206.00;2672.00;1;
+1514580784;fr;207.00;2673.00;1;
+8404481836;fr;208.00;2674.00;1;
+1957161445;fr;209.00;2675.00;1;
+5584306571;fr;210.00;2676.00;1;
+7928366528;fr;211.00;2677.00;1;
+4051849070;fr;212.00;2678.00;1;
+3491586783;fr;213.00;2679.00;1;
+1371584640;fr;200.00;2680.00;1;
+5386826472;fr;201.00;2681.00;1;
+9549353266;fr;202.00;2682.00;1;
+4122271529;fr;203.00;2683.00;1;
+4104196484;fr;204.00;2684.00;1;
+263150212;fr;240.00;;1;
+6419619805;fr;206.00;2686.00;1;
+7551039323;fr;207.00;2687.00;1;
+129459490;fr;297.00;;1;
+1785489638;fr;209.00;2689.00;1;
+5890647410;fr;210.00;2690.00;1;
+7144062441;fr;211.00;2691.00;1;
+3022880781;fr;212.00;2692.00;1;
+4498452984;fr;213.00;2693.00;1;
+1071710553;fr;200.00;2694.00;1;
+9281064727;fr;201.00;2695.00;1;
+621067123;fr;316.00;;1;
+8146940315;fr;203.00;2697.00;1;
+9714901403;fr;204.00;2698.00;1;
+2258095575;fr;205.00;2699.00;1;
+7934625532;fr;206.00;2700.00;1;
+6483280187;fr;207.00;2701.00;1;
+7461528829;fr;208.00;2702.00;1;
+8575907588;fr;209.00;2703.00;1;
+7708690157;fr;210.00;2704.00;1;
+9374115675;fr;211.00;2705.00;1;
+8713623702;fr;212.00;2706.00;1;
+1820192169;fr;213.00;2707.00;1;
+4502796150;fr;200.00;2708.00;1;
+1387231997;fr;201.00;2709.00;1;
+8355578184;fr;202.00;2710.00;1;
+6242019803;fr;203.00;2711.00;1;
+3262249314;fr;204.00;2712.00;1;
+2129492297;fr;205.00;2713.00;1;
+853377159;fr;122.00;;1;
+7839018878;fr;207.00;2715.00;1;
+163305156;fr;168.00;;1;
+335696534;fr;353.00;;1;
+3009688177;fr;210.00;2718.00;1;
+3175238187;fr;211.00;2719.00;1;
+695496369;fr;178.00;;1;
+4514503579;fr;213.00;2721.00;1;
+1590231305;fr;200.00;2722.00;1;
+1488221271;fr;201.00;2723.00;1;
+626409263;fr;383.00;;1;
+1410835752;fr;203.00;2725.00;1;
+7392425079;fr;204.00;2726.00;1;
+2511200559;fr;205.00;2727.00;1;
+9866593278;fr;206.00;2728.00;1;
+8854217592;fr;207.00;2729.00;1;
+5569089814;fr;208.00;2730.00;1;
+4358300864;fr;209.00;2731.00;1;
+5817490272;fr;210.00;2732.00;1;
+3044104924;fr;211.00;2733.00;1;
+7006266749;fr;212.00;2734.00;1;
+1397265829;fr;213.00;2735.00;1;
+3264066635;fr;200.00;2736.00;1;
+8736550087;fr;201.00;2737.00;1;
+9798384725;fr;202.00;2738.00;1;
+9454690343;fr;203.00;2739.00;1;
+3632696425;fr;204.00;2740.00;1;
+5045786326;fr;205.00;2741.00;1;
+1615821972;fr;206.00;2742.00;1;
+6520168278;fr;207.00;2743.00;1;
+2492174290;fr;208.00;2744.00;1;
+7635572829;fr;209.00;2745.00;1;
+8007294196;fr;210.00;2746.00;1;
+8365211807;fr;211.00;2747.00;1;
+1379932194;fr;212.00;2748.00;1;
+5931329789;fr;213.00;2749.00;1;
+9696236797;fr;200.00;2750.00;1;
+3161402964;fr;201.00;2751.00;1;
+3995996959;fr;202.00;2752.00;1;
+1643845456;fr;203.00;2753.00;1;
+3256236974;fr;204.00;2754.00;1;
+7785455862;fr;205.00;2755.00;1;
+5751090979;fr;206.00;2756.00;1;
+1589663060;fr;207.00;2757.00;1;
+6766483561;fr;208.00;2758.00;1;
+1811698340;fr;209.00;2759.00;1;
+4943076555;fr;210.00;2760.00;1;
+8532789326;fr;211.00;2761.00;1;
+7310630398;fr;212.00;2762.00;1;
+9259089812;fr;213.00;2763.00;1;
+2212565739;fr;200.00;2764.00;1;
+4240239690;fr;201.00;2765.00;1;
+803103377;fr;207.00;;1;
+282698362;fr;342.00;;1;
+8900456323;fr;204.00;2768.00;1;
+4867590939;fr;205.00;2769.00;1;
+3963009268;fr;206.00;2770.00;1;
+8785517835;fr;207.00;2771.00;1;
+8594836612;fr;208.00;2772.00;1;
+5173089537;fr;209.00;2773.00;1;
+9518151213;fr;210.00;2774.00;1;
+6209696162;fr;211.00;2775.00;1;
+9597793311;fr;212.00;2776.00;1;
+8565680318;fr;213.00;2777.00;1;
+4428165643;fr;200.00;2778.00;1;
+8207080809;fr;201.00;2779.00;1;
+8510622595;fr;202.00;2780.00;1;
+2589932848;fr;203.00;2781.00;1;
+5303239273;fr;204.00;2782.00;1;
+825835869;fr;280.00;;1;
+1467852116;fr;206.00;2784.00;1;
+2407373606;fr;207.00;2785.00;1;
+5262695083;fr;208.00;2786.00;1;
+1986759601;fr;209.00;2787.00;1;
+5531108335;fr;210.00;2788.00;1;
+2629385636;fr;211.00;2789.00;1;
+2951760160;fr;212.00;2790.00;1;
+6156367237;fr;213.00;2791.00;1;
+1915513109;fr;200.00;2792.00;1;
+3096653111;fr;201.00;2793.00;1;
+4276364711;fr;202.00;2794.00;1;
+2670215028;fr;203.00;2795.00;1;
+5184385452;fr;204.00;2796.00;1;
+1930261455;fr;205.00;2797.00;1;
+446551817;fr;227.00;;1;
+1595199546;fr;207.00;2799.00;1;
+8009888156;fr;208.00;2800.00;1;
+1018066875;fr;209.00;2801.00;1;
+7330730860;fr;210.00;2802.00;1;
+6142808247;fr;211.00;2803.00;1;
+2521668580;fr;212.00;2804.00;1;
+7452973635;fr;213.00;2805.00;1;
+7223910958;fr;200.00;2806.00;1;
+2637692749;fr;201.00;2807.00;1;
+3278476543;fr;202.00;2808.00;1;
+8214714835;fr;203.00;2809.00;1;
+34983927;fr;280.00;;1;
+7663569609;fr;205.00;2811.00;1;
+1415709334;fr;206.00;2812.00;1;
+4246621231;fr;207.00;2813.00;1;
+1930598695;fr;208.00;2814.00;1;
+351084231;fr;314.00;;1;
+2602303550;fr;210.00;2816.00;1;
+5073140552;fr;211.00;2817.00;1;
+5786899318;fr;212.00;2818.00;1;
+4232920164;fr;213.00;2819.00;1;
+428269854;fr;400.00;;1;
+787955452;fr;397.00;;1;
+4541535004;fr;202.00;2822.00;1;
+7950984306;fr;203.00;2823.00;1;
+9975505107;fr;204.00;2824.00;1;
+5390359554;fr;205.00;2825.00;1;
+4610329265;fr;206.00;2826.00;1;
+9665855916;fr;207.00;2827.00;1;
+5613769218;fr;208.00;2828.00;1;
+1949622756;fr;209.00;2829.00;1;
+9717395288;fr;210.00;2830.00;1;
+7232525266;fr;211.00;2831.00;1;
+711900366;fr;41.00;;1;
+9045716133;fr;213.00;2833.00;1;
+7531822582;fr;200.00;2834.00;1;
+7025196707;fr;201.00;2835.00;1;
+3774852441;fr;202.00;2836.00;1;
+6852506493;fr;203.00;2837.00;1;
+9433533758;fr;204.00;2838.00;1;
+1811900284;fr;205.00;2839.00;1;
+8328687422;fr;206.00;2840.00;1;
+3062915520;fr;207.00;2841.00;1;
+558812693;fr;350.00;;1;
+3456168067;fr;209.00;2843.00;1;
+9742863740;fr;210.00;2844.00;1;
+8114154125;fr;211.00;2845.00;1;
+7001419287;fr;212.00;2846.00;1;
+9562566477;fr;213.00;2847.00;1;
+6436801213;fr;200.00;2848.00;1;
+5933336597;fr;201.00;2849.00;1;
+921556605;fr;103.00;;1;
+5644457202;fr;203.00;2851.00;1;
+1508243179;fr;204.00;2852.00;1;
+633552706;fr;256.00;;1;
+6926136590;fr;206.00;2854.00;1;
+6834090064;fr;207.00;2855.00;1;
+1298450935;fr;208.00;2856.00;1;
+7885342835;fr;209.00;2857.00;1;
+867726623;fr;264.00;;1;
+6657285140;fr;211.00;2859.00;1;
+6600514908;fr;212.00;2860.00;1;
+9388885547;fr;213.00;2861.00;1;
+4048037538;fr;200.00;2862.00;1;
+7318094365;fr;201.00;2863.00;1;
+9169588836;fr;202.00;2864.00;1;
+4640504518;fr;203.00;2865.00;1;
+2965783043;fr;204.00;2866.00;1;
+2943293579;fr;205.00;2867.00;1;
+5895886864;fr;206.00;2868.00;1;
+5933066823;fr;207.00;2869.00;1;
+740761665;fr;150.00;;1;
+6453488579;fr;209.00;2871.00;1;
+9331925031;fr;210.00;2872.00;1;
+4744038785;fr;211.00;2873.00;1;
+3092440603;fr;212.00;2874.00;1;
+8881160778;fr;213.00;2875.00;1;
+2745752397;fr;200.00;2876.00;1;
+2593598471;fr;201.00;2877.00;1;
+8610124762;fr;202.00;2878.00;1;
+1279276042;fr;203.00;2879.00;1;
+4565457789;fr;204.00;2880.00;1;
+5630375135;fr;205.00;2881.00;1;
+8169032278;fr;206.00;2882.00;1;
+7370029718;fr;207.00;2883.00;1;
+1639276023;fr;208.00;2884.00;1;
+811510194;fr;354.00;;1;
+370024291;fr;89.00;;1;
+9613766466;fr;211.00;2887.00;1;
+9251333909;fr;212.00;2888.00;1;
+6672515755;fr;213.00;2889.00;1;
+8358144940;fr;200.00;2890.00;1;
+4715553236;fr;201.00;2891.00;1;
+8127532054;fr;202.00;2892.00;1;
+2095419228;fr;203.00;2893.00;1;
+9425087915;fr;204.00;2894.00;1;
+7330260408;fr;205.00;2895.00;1;
+8781635802;fr;206.00;2896.00;1;
+6602768656;fr;207.00;2897.00;1;
+1889867119;fr;208.00;2898.00;1;
+2681664330;fr;209.00;2899.00;1;
+1702357865;fr;210.00;2900.00;1;
+3624107610;fr;211.00;2901.00;1;
+9020213741;fr;212.00;2902.00;1;
+4619678650;fr;213.00;2903.00;1;
+7036788699;fr;200.00;2904.00;1;
+8315731078;fr;201.00;2905.00;1;
+5198020319;fr;202.00;2906.00;1;
+4090000776;fr;203.00;2907.00;1;
+7319586792;fr;204.00;2908.00;1;
+8197572094;fr;205.00;2909.00;1;
+9328061074;fr;206.00;2910.00;1;
+5527260328;fr;207.00;2911.00;1;
+7502017752;fr;208.00;2912.00;1;
+9166458725;fr;209.00;2913.00;1;
+4846632620;fr;210.00;2914.00;1;
+4792306710;fr;211.00;2915.00;1;
+8387923959;fr;212.00;2916.00;1;
+7359265836;fr;213.00;2917.00;1;
+5291425683;fr;200.00;2918.00;1;
+3009650983;fr;201.00;2919.00;1;
+6788895490;fr;202.00;2920.00;1;
+2467216143;fr;203.00;2921.00;1;
+8287417035;fr;204.00;2922.00;1;
+3438985486;fr;205.00;2923.00;1;
+7992154411;fr;206.00;2924.00;1;
+4042166258;fr;207.00;2925.00;1;
+8284997823;fr;208.00;2926.00;1;
+3944583754;fr;209.00;2927.00;1;
+4192862360;fr;210.00;2928.00;1;
+10227936;fr;176.00;;1;
+5456976839;fr;212.00;2930.00;1;
+1470046504;fr;213.00;2931.00;1;
+3003882122;fr;200.00;2932.00;1;
+1351630571;fr;201.00;2933.00;1;
+1965744169;fr;202.00;2934.00;1;
+3604913178;fr;203.00;2935.00;1;
+3848003529;fr;204.00;2936.00;1;
+933144383;fr;298.00;;1;
+5142029013;fr;206.00;2938.00;1;
+5525265748;fr;207.00;2939.00;1;
+2831275514;fr;208.00;2940.00;1;
+8864891213;fr;209.00;2941.00;1;
+97482633;fr;193.00;;1;
+6498724740;fr;211.00;2943.00;1;
+7062062392;fr;212.00;2944.00;1;
+3469353144;fr;213.00;2945.00;1;
+4384610611;fr;200.00;2946.00;1;
+1606863490;fr;201.00;2947.00;1;
+8562856221;fr;202.00;2948.00;1;
+6659675857;fr;203.00;2949.00;1;
+5859176477;fr;204.00;2950.00;1;
+3977429368;fr;205.00;2951.00;1;
+6562117217;fr;206.00;2952.00;1;
+2430227636;fr;207.00;2953.00;1;
+285388264;fr;35.00;;1;
+2564094397;fr;209.00;2955.00;1;
+3285658266;fr;210.00;2956.00;1;
+1634435147;fr;211.00;2957.00;1;
+5257897934;fr;212.00;2958.00;1;
+9302669318;fr;213.00;2959.00;1;
+6384167158;fr;200.00;2960.00;1;
+5212116868;fr;201.00;2961.00;1;
+5362947924;fr;202.00;2962.00;1;
+6223544225;fr;203.00;2963.00;1;
+8849358395;fr;204.00;2964.00;1;
+67205344;fr;216.00;;1;
+944614021;fr;199.00;;1;
+9174551027;fr;207.00;2967.00;1;
+3815300502;fr;208.00;2968.00;1;
+7768087380;fr;209.00;2969.00;1;
+9303254996;fr;210.00;2970.00;1;
+3839807924;fr;211.00;2971.00;1;
+7299450217;fr;212.00;2972.00;1;
+2740949803;fr;213.00;2973.00;1;
+6961297046;fr;200.00;2974.00;1;
+9195783421;fr;201.00;2975.00;1;
+4638105934;fr;202.00;2976.00;1;
+556370118;fr;77.00;;1;
+6623693462;fr;204.00;2978.00;1;
+9443059774;fr;205.00;2979.00;1;
+1339996454;fr;206.00;2980.00;1;
+5079926695;fr;207.00;2981.00;1;
+9415597805;fr;208.00;2982.00;1;
+9041622035;fr;209.00;2983.00;1;
+4477383821;fr;210.00;2984.00;1;
+7085858667;fr;211.00;2985.00;1;
+7092071506;fr;212.00;2986.00;1;
+1279130454;fr;213.00;2987.00;1;
+1931688094;fr;200.00;2988.00;1;
+2825141419;fr;201.00;2989.00;1;
+6012150789;fr;202.00;2990.00;1;
+3923656502;fr;203.00;2991.00;1;
+1828185432;fr;204.00;2992.00;1;
+3844280325;fr;205.00;2993.00;1;
+6118606095;fr;206.00;2994.00;1;
+3021226101;fr;207.00;2995.00;1;
+9768693615;fr;208.00;2996.00;1;
+6450681923;fr;209.00;2997.00;1;
+6695525449;fr;210.00;2998.00;1;
+1671398540;fr;211.00;2999.00;1;
+8893550131;fr;212.00;3000.00;1;
+2343814448;fr;213.00;3001.00;1;
+8836663112;fr;200.00;3002.00;1;
+9479382677;fr;201.00;3003.00;1;
+5421702241;fr;202.00;3004.00;1;
+916678022;fr;234.00;;1;
+2658517729;fr;204.00;3006.00;1;
+539267431;fr;365.00;;1;
+5535046077;fr;206.00;3008.00;1;
+5543527358;fr;207.00;3009.00;1;
+3057804334;fr;208.00;3010.00;1;
+8925620067;fr;209.00;3011.00;1;
+6660704242;fr;210.00;3012.00;1;
+5936651047;fr;211.00;3013.00;1;
+1882963015;fr;212.00;3014.00;1;
+980418118;fr;288.00;;1;
+4603567157;fr;200.00;3016.00;1;
+2746293582;fr;201.00;3017.00;1;
+4566065872;fr;202.00;3018.00;1;
+885598854;fr;118.00;;1;
+1383646305;fr;204.00;3020.00;1;
+6358944433;fr;205.00;3021.00;1;
+9296245390;fr;206.00;3022.00;1;
+4187717060;fr;207.00;3023.00;1;
+2823810051;fr;208.00;3024.00;1;
+4188430528;fr;209.00;3025.00;1;
+1850421882;fr;210.00;3026.00;1;
+751864127;fr;205.00;;1;
+1581418541;fr;212.00;3028.00;1;
+1000139454;fr;213.00;3029.00;1;
+63255284;fr;261.00;;1;
+6868622248;fr;201.00;3031.00;1;
+4823236563;fr;202.00;3032.00;1;
+240886456;fr;129.00;;1;
+9099718312;fr;204.00;3034.00;1;
+8846525704;fr;205.00;3035.00;1;
+4107945215;fr;206.00;3036.00;1;
+6140284353;fr;207.00;3037.00;1;
+421204693;fr;299.00;;1;
+5862861676;fr;209.00;3039.00;1;
+1740146167;fr;210.00;3040.00;1;
+6669294351;fr;211.00;3041.00;1;
+8805266566;fr;212.00;3042.00;1;
+4953690593;fr;213.00;3043.00;1;
+6326587315;fr;200.00;3044.00;1;
+7698157440;fr;201.00;3045.00;1;
+3917779918;fr;202.00;3046.00;1;
+7342596213;fr;203.00;3047.00;1;
+8654770930;fr;204.00;3048.00;1;
+9507718792;fr;205.00;3049.00;1;
+3299839712;fr;206.00;3050.00;1;
+6347900270;fr;207.00;3051.00;1;
+2018473099;fr;208.00;3052.00;1;
+722042828;fr;322.00;;1;
+5506789063;fr;210.00;3054.00;1;
+9318203536;fr;211.00;3055.00;1;
+7879157414;fr;212.00;3056.00;1;
+3107319586;fr;213.00;3057.00;1;
+5334399220;fr;200.00;3058.00;1;
+1312506119;fr;201.00;3059.00;1;
+889144615;fr;33.00;;1;
+3254535233;fr;203.00;3061.00;1;
+1494630672;fr;204.00;3062.00;1;
+1461461371;fr;205.00;3063.00;1;
+1880074968;fr;206.00;3064.00;1;
+805175756;fr;227.00;;1;
+7583798710;fr;208.00;3066.00;1;
+763413900;fr;400.00;;1;
+2916193847;fr;210.00;3068.00;1;
+2314810689;fr;211.00;3069.00;1;
+5309179356;fr;212.00;3070.00;1;
+3094383441;fr;213.00;3071.00;1;
+2948771068;fr;200.00;3072.00;1;
+673610387;fr;150.00;;1;
+695109312;fr;272.00;;1;
+7649773660;fr;203.00;3075.00;1;
+9885418526;fr;204.00;3076.00;1;
+5575611424;fr;205.00;3077.00;1;
+4847506521;fr;206.00;3078.00;1;
+6431062819;fr;207.00;3079.00;1;
+7617574191;fr;208.00;3080.00;1;
+7356184893;fr;209.00;3081.00;1;
+4960888041;fr;210.00;3082.00;1;
+4841212040;fr;211.00;3083.00;1;
+7643978466;fr;212.00;3084.00;1;
+7108691831;fr;213.00;3085.00;1;
+5985438517;fr;200.00;3086.00;1;
+7603428730;fr;201.00;3087.00;1;
+1053210688;fr;202.00;3088.00;1;
+2332990938;fr;203.00;3089.00;1;
+1843826148;fr;204.00;3090.00;1;
+2418943104;fr;205.00;3091.00;1;
+8463451432;fr;206.00;3092.00;1;
+1764318227;fr;207.00;3093.00;1;
+2391106830;fr;208.00;3094.00;1;
+6656367550;fr;209.00;3095.00;1;
+5484231106;fr;210.00;3096.00;1;
+114943961;fr;47.00;;1;
+7452173532;fr;212.00;3098.00;1;
+1484238677;fr;213.00;3099.00;1;
+124951054;fr;235.00;;1;
+9221200875;fr;201.00;3101.00;1;
+8511187921;fr;202.00;3102.00;1;
+1035193450;fr;203.00;3103.00;1;
+2675013799;fr;204.00;3104.00;1;
+9396736738;fr;205.00;3105.00;1;
+3340880106;fr;206.00;3106.00;1;
+2584797759;fr;207.00;3107.00;1;
+7005482319;fr;208.00;3108.00;1;
+125353154;fr;382.00;;1;
+80860796;fr;57.00;;1;
+9914965126;fr;211.00;3111.00;1;
+8338812441;fr;212.00;3112.00;1;
+177694837;fr;7.00;;1;
+1741204744;fr;200.00;3114.00;1;
+2221405997;fr;201.00;3115.00;1;
+8559690373;fr;202.00;3116.00;1;
+8755586791;fr;203.00;3117.00;1;
+4300987356;fr;204.00;3118.00;1;
+3024808133;fr;205.00;3119.00;1;
+3875830139;fr;206.00;3120.00;1;
+3994527379;fr;207.00;3121.00;1;
+8193770886;fr;208.00;3122.00;1;
+3430925736;fr;209.00;3123.00;1;
+6437013637;fr;210.00;3124.00;1;
+7304264153;fr;211.00;3125.00;1;
+6778376518;fr;212.00;3126.00;1;
+5533684933;fr;213.00;3127.00;1;
+5690874756;fr;200.00;3128.00;1;
+528296770;fr;339.00;;1;
+395910386;fr;195.00;;1;
+4267444307;fr;203.00;3131.00;1;
+4248975124;fr;204.00;3132.00;1;
+6250977712;fr;205.00;3133.00;1;
+3223501065;fr;206.00;3134.00;1;
+7012197631;fr;207.00;3135.00;1;
+9098748976;fr;208.00;3136.00;1;
+4102087630;fr;209.00;3137.00;1;
+4126311729;fr;210.00;3138.00;1;
+6306874684;fr;211.00;3139.00;1;
+868377423;fr;108.00;;1;
+8350669598;fr;213.00;3141.00;1;
+8084709897;fr;200.00;3142.00;1;
+4641406479;fr;201.00;3143.00;1;
+5495275347;fr;202.00;3144.00;1;
+9952003394;fr;203.00;3145.00;1;
+9630463286;fr;204.00;3146.00;1;
+3157897978;fr;205.00;3147.00;1;
+5385475503;fr;206.00;3148.00;1;
+3881863479;fr;207.00;3149.00;1;
+4777563156;fr;208.00;3150.00;1;
+6827083155;fr;209.00;3151.00;1;
+9905092643;fr;210.00;3152.00;1;
+784594261;fr;385.00;;1;
+2131039884;fr;212.00;3154.00;1;
+9266512523;fr;213.00;3155.00;1;
+2456215016;fr;200.00;3156.00;1;
+6619874168;fr;201.00;3157.00;1;
+9118333133;fr;202.00;3158.00;1;
+4361658135;fr;203.00;3159.00;1;
+2778619656;fr;204.00;3160.00;1;
+4996810527;fr;205.00;3161.00;1;
+20052781;fr;281.00;;1;
+8715232181;fr;207.00;3163.00;1;
+6785913608;fr;208.00;3164.00;1;
+2350904425;fr;209.00;3165.00;1;
+8906064133;fr;210.00;3166.00;1;
+6893454370;fr;211.00;3167.00;1;
+2234954293;fr;212.00;3168.00;1;
+2574463390;fr;213.00;3169.00;1;
+4811513540;fr;200.00;3170.00;1;
+2805569628;fr;201.00;3171.00;1;
+6721388534;fr;202.00;3172.00;1;
+1302634007;fr;203.00;3173.00;1;
+1314944872;fr;204.00;3174.00;1;
+4744736504;fr;205.00;3175.00;1;
+4710365442;fr;206.00;3176.00;1;
+6162052629;fr;207.00;3177.00;1;
+7924842908;fr;208.00;3178.00;1;
+8169918131;fr;209.00;3179.00;1;
+8864165151;fr;210.00;3180.00;1;
+5283163108;fr;211.00;3181.00;1;
+3422676943;fr;212.00;3182.00;1;
+1581004768;fr;213.00;3183.00;1;
+7144892175;fr;200.00;3184.00;1;
+8200967653;fr;201.00;3185.00;1;
+4870145688;fr;202.00;3186.00;1;
+9373479157;fr;203.00;3187.00;1;
+9040182740;fr;204.00;3188.00;1;
+8817864142;fr;205.00;3189.00;1;
+1840100065;fr;206.00;3190.00;1;
+8182363845;fr;207.00;3191.00;1;
+385153801;fr;123.00;;1;
+6408289642;fr;209.00;3193.00;1;
+3062883308;fr;210.00;3194.00;1;
+3500456758;fr;211.00;3195.00;1;
+6428955805;fr;212.00;3196.00;1;
+1460941546;fr;213.00;3197.00;1;
+8470237760;fr;200.00;3198.00;1;
+6759025961;fr;201.00;3199.00;1;
+8775883842;fr;202.00;3200.00;1;
+4615952090;fr;203.00;3201.00;1;
+932060056;fr;261.00;;1;
+8855842124;fr;205.00;3203.00;1;
+6367934617;fr;206.00;3204.00;1;
+3908367731;fr;207.00;3205.00;1;
+8755651120;fr;208.00;3206.00;1;
+6715255320;fr;209.00;3207.00;1;
+7378077741;fr;210.00;3208.00;1;
+1318246141;fr;211.00;3209.00;1;
+6104896720;fr;212.00;3210.00;1;
+5806818244;fr;213.00;3211.00;1;
+3472062959;fr;200.00;3212.00;1;
+3619509006;fr;201.00;3213.00;1;
+8626551483;fr;202.00;3214.00;1;
+2146587000;fr;203.00;3215.00;1;
+3578772559;fr;204.00;3216.00;1;
+6157634684;fr;205.00;3217.00;1;
+8653014028;fr;206.00;3218.00;1;
+2471901434;fr;207.00;3219.00;1;
+5978401988;fr;208.00;3220.00;1;
+9194173939;fr;209.00;3221.00;1;
+8769184076;fr;210.00;3222.00;1;
+4695020843;fr;211.00;3223.00;1;
+5912791457;fr;212.00;3224.00;1;
+1404160348;fr;213.00;3225.00;1;
+8317764884;fr;200.00;3226.00;1;
+6844507284;fr;201.00;3227.00;1;
+8776659020;fr;202.00;3228.00;1;
+4108470923;fr;203.00;3229.00;1;
+2432998766;fr;204.00;3230.00;1;
+7438146214;fr;205.00;3231.00;1;
+9099510472;fr;206.00;3232.00;1;
+5991308681;fr;207.00;3233.00;1;
+5385474630;fr;208.00;3234.00;1;
+255990616;fr;355.00;;1;
+8032443675;fr;210.00;3236.00;1;
+8491791961;fr;211.00;3237.00;1;
+1667848776;fr;212.00;3238.00;1;
+329679378;fr;70.00;;1;
+7864520104;fr;200.00;3240.00;1;
+1947313742;fr;201.00;3241.00;1;
+2696290857;fr;202.00;3242.00;1;
+7682795970;fr;203.00;3243.00;1;
+587744940;fr;329.00;;1;
+1583833221;fr;205.00;3245.00;1;
+3212806997;fr;206.00;3246.00;1;
+5093194458;fr;207.00;3247.00;1;
+7836669860;fr;208.00;3248.00;1;
+3672179503;fr;209.00;3249.00;1;
+6222575485;fr;210.00;3250.00;1;
+8245926653;fr;211.00;3251.00;1;
+3274961648;fr;212.00;3252.00;1;
+503846240;fr;108.00;;1;
+5080449110;fr;200.00;3254.00;1;
+1204986979;fr;201.00;3255.00;1;
+5859149592;fr;202.00;3256.00;1;
+6862726720;fr;203.00;3257.00;1;
+6918951170;fr;204.00;3258.00;1;
+6702061207;fr;205.00;3259.00;1;
+3590032682;fr;206.00;3260.00;1;
+5148906415;fr;207.00;3261.00;1;
+2641579756;fr;208.00;3262.00;1;
+2414275136;fr;209.00;3263.00;1;
+2578758671;fr;210.00;3264.00;1;
+1853246741;fr;211.00;3265.00;1;
+1961643772;fr;212.00;3266.00;1;
+2233722708;fr;213.00;3267.00;1;
+8337413674;fr;200.00;3268.00;1;
+6514142462;fr;201.00;3269.00;1;
+9564017894;fr;202.00;3270.00;1;
+4720259673;fr;203.00;3271.00;1;
+6865304576;fr;204.00;3272.00;1;
+3941960452;fr;205.00;3273.00;1;
+2807929593;fr;206.00;3274.00;1;
+5879022371;fr;207.00;3275.00;1;
+8897786128;fr;208.00;3276.00;1;
+352907119;fr;330.00;;1;
+2812617392;fr;210.00;3278.00;1;
+8969305871;fr;211.00;3279.00;1;
+7254304847;fr;212.00;3280.00;1;
+7379223421;fr;213.00;3281.00;1;
+1435366459;fr;200.00;3282.00;1;
+6222987718;fr;201.00;3283.00;1;
+8468868119;fr;202.00;3284.00;1;
+8977250988;fr;203.00;3285.00;1;
+8775715296;fr;204.00;3286.00;1;
+2235391326;fr;205.00;3287.00;1;
+4697598050;fr;206.00;3288.00;1;
+9451125846;fr;207.00;3289.00;1;
+9999871404;fr;208.00;3290.00;1;
+6865311958;fr;209.00;3291.00;1;
+5684205280;fr;210.00;3292.00;1;
+440220992;fr;211.00;3293.00;1;
+483694071;fr;212.00;3294.00;1;
+337200588;fr;213.00;3295.00;1;
+973361715;fr;200.00;3296.00;1;
+300097085;fr;201.00;3297.00;1;
+786621889;fr;202.00;3298.00;1;
+416762057;fr;203.00;3299.00;1;
+88340021;fr;204.00;3300.00;1;
+174958297;fr;205.00;3301.00;1;
+814183388;fr;206.00;3302.00;1;
+342928874;fr;207.00;3303.00;1;
+479306757;fr;208.00;3304.00;1;
+755662010;fr;209.00;3305.00;1;
+68651531;fr;210.00;3306.00;1;
+629103849;fr;211.00;3307.00;1;
+849709856;fr;212.00;3308.00;1;
+402046902;fr;213.00;3309.00;1;
+327468959;fr;200.00;3310.00;1;
+862331282;fr;201.00;3311.00;1;
+200033490;fr;202.00;3312.00;1;
+599626732;fr;203.00;3313.00;1;
+271955737;fr;204.00;3314.00;1;
+595666116;fr;205.00;3315.00;1;
+772162672;fr;206.00;3316.00;1;
+475275583;fr;207.00;3317.00;1;
+274574955;fr;208.00;3318.00;1;
+160179095;fr;209.00;3319.00;1;
+596134758;fr;210.00;3320.00;1;
+306579262;fr;211.00;3321.00;1;
+754930968;fr;212.00;3322.00;1;
+652698249;fr;213.00;3323.00;1;
+323135269;fr;200.00;3324.00;1;
+601236219;fr;201.00;3325.00;1;
+356453984;fr;202.00;3326.00;1;
+601950554;fr;203.00;3327.00;1;
+817337890;fr;204.00;3328.00;1;
+86114361;fr;205.00;3329.00;1;
+524761314;fr;206.00;3330.00;1;
+488621315;fr;207.00;3331.00;1;
+263150212;fr;208.00;3332.00;1;
+129459490;fr;209.00;3333.00;1;
+621067123;fr;210.00;3334.00;1;
+853377159;fr;211.00;3335.00;1;
+163305156;fr;212.00;3336.00;1;
+335696534;fr;213.00;3337.00;1;
+695496369;fr;200.00;3338.00;1;
+626409263;fr;201.00;3339.00;1;
+803103377;fr;202.00;3340.00;1;
+282698362;fr;203.00;3341.00;1;
+825835869;fr;204.00;3342.00;1;
+446551817;fr;205.00;3343.00;1;
+34983927;fr;206.00;3344.00;1;
+351084231;fr;207.00;3345.00;1;
+428269854;fr;208.00;3346.00;1;
+787955452;fr;209.00;3347.00;1;
+711900366;fr;210.00;3348.00;1;
+558812693;fr;211.00;3349.00;1;
+921556605;fr;212.00;3350.00;1;
+633552706;fr;213.00;3351.00;1;
+867726623;fr;200.00;3352.00;1;
+740761665;fr;201.00;3353.00;1;
+811510194;fr;202.00;3354.00;1;
+370024291;fr;203.00;3355.00;1;
+10227936;fr;204.00;3356.00;1;
+933144383;fr;205.00;3357.00;1;
+97482633;fr;206.00;3358.00;1;
+285388264;fr;207.00;3359.00;1;
+67205344;fr;208.00;3360.00;1;
+944614021;fr;209.00;3361.00;1;
+556370118;fr;210.00;3362.00;1;
+916678022;fr;211.00;3363.00;1;
+539267431;fr;212.00;3364.00;1;
+980418118;fr;213.00;3365.00;1;
+885598854;fr;200.00;3366.00;1;
+751864127;fr;201.00;3367.00;1;
+63255284;fr;202.00;3368.00;1;
+240886456;fr;203.00;3369.00;1;
+421204693;fr;204.00;3370.00;1;
+722042828;fr;205.00;3371.00;1;
+889144615;fr;206.00;3372.00;1;
+805175756;fr;207.00;3373.00;1;
+763413900;fr;208.00;3374.00;1;
+695109312;fr;209.00;3375.00;1;
+673610387;fr;210.00;3376.00;1;
+114943961;fr;211.00;3377.00;1;
+124951054;fr;212.00;3378.00;1;
+125353154;fr;213.00;3379.00;1;
+80860796;fr;200.00;3380.00;1;
+177694837;fr;201.00;3381.00;1;
+528296770;fr;202.00;3382.00;1;
+395910386;fr;203.00;3383.00;1;
+868377423;fr;204.00;3384.00;1;
+784594261;fr;205.00;3385.00;1;
+20052781;fr;206.00;3386.00;1;
+385153801;fr;207.00;3387.00;1;
+932060056;fr;208.00;3388.00;1;
+255990616;fr;209.00;3389.00;1;
+329679378;fr;210.00;3390.00;1;
+587744940;fr;211.00;3391.00;1;
+503846240;fr;212.00;3392.00;1;
+352907119;fr;213.00;3393.00;1;
