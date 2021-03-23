@@ -1,9 +1,9 @@
 language code;product code;Name;SEO Name;Company Id;SEO Page Title;SEO Description;SEO Keywords
-en;1;Old product;old-slug;26;;;
-en;2;Old product keep slug;old-slug-keep;26;;;
-en;4;Old product change slug;old-product-change-slug;26;;;
-en;6;English product;produit-francais;26;;;
-fr;7;"0/1+2!3""4&5#6$7%8:9;<=>? @A[B\C]D^E`_F*G.H'I-JKLMN)O,PQ(RSTUVWXYZabcdefghijkl{m}no|pqr~stuvwxyz";;26;;;
-fr;1;Vieux produit;old-slug;26;;;
-fr;123;Produit francais META;Produit fran‡ais @123!;26;FRENCH Page title;FRENCH Description;Mots, cl‚s, du, produit, fran‡ais
-en;123;English product META;English product @123!;26;ENGLISH Page title;ENGLISH Description;Keywords, of, English, products
+en;1;Old product;old-slug;2;;;
+en;2;Old product keep slug;old-slug-keep;2;;;
+en;4;Old product change slug;old-product-change-slug;2;;;
+en;6;English product;produit-francais;2;;;
+fr;7;"0/1+2!3""4&5#6$7%8:9;<=>? @A[B\C]D^E`_F*G.H'I-JKLMN)O,PQ(RSTUVWXYZabcdefghijkl{m}no|pqr~stuvwxyz";;2;;;
+fr;1;Vieux produit;old-slug;2;;;
+fr;123;Produit francais META;Produit fran‡ais @123!;2;FRENCH Page title;FRENCH Description;Mots, cl‚s, du, produit, fran‡ais
+en;123;English product META;English product @123!;2;ENGLISH Page title;ENGLISH Description;Keywords, of, English, products
