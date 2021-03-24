@@ -1,9 +1,54 @@
-language code;product code;Category;Name;SEO Name;Company Id;SEO Page Title;SEO Description;SEO Keywords
-en;1;General;Old product;old-slug;2;;;
-en;2;General;Old product keep slug;old-slug-keep;2;;;
-en;4;General;Old product change slug;old-product-change-slug;2;;;
-en;6;General;English product;produit-francais;2;;;
-fr;7;Généraliste;"0/1+2!3""4&5#6$7%8:9;<=>? @A[B\C]D^E`_F*G.H'I-JKLMN)O,PQ(RSTUVWXYZabcdefghijkl{m}no|pqr~stuvwxyz";;2;;;
-fr;1;Généraliste;Vieux produit;old-slug;2;;;
-fr;123;Généraliste;Produit francais META;Produit francais @123!;2;FRENCH Page title;FRENCH Description;Mots, clés, du, produit, fran‡ais
-en;123;General;English product META;English product @123!;2;ENGLISH Page title;ENGLISH Description;Keywords, of, English, products
+Product code;Company id;SEO Name;Product name;Language;SEO Page Title;SEO Description;SEO Keywords
+587a9wc7624fc;2;produit-2-old-modified;Produit OLD MODIFIED FR;fr;Produit OLD MODIFIED FRfrTitle;Produit OLD MODIFIED FRfrDescription;Produit OLD MODIFIED FR,fr,Produit OLD MODIFIED FRfrTitle
+587a9wc7624fc;2;produit-2-old-modified;Product OLD MODIFIED EN;en;Product OLD MODIFIED ENenTitle;Product OLD MODIFIED ENenDescription;Product OLD MODIFIED EN,en,Product OLD MODIFIED ENenTitle
+558a9wc7624fc;2;produit-3;Produit V;fr;Produit VfrTitle;Produit VfrDescription;Produit V,fr,Produit VfrTitle
+558a9wc7624fc;2;produit-3;Product V;en;Product VenTitle;Product VenDescription;Product V,en,Product VenTitle
+554a9wc7624fc;2;produit-x;Produit X;fr;Produit XfrTitle;Produit XfrDescription;Produit X,fr,Produit XfrTitle
+554a9wc7624fc;2;produit-x;Product X;en;Product XenTitle;Product XenDescription;Product X,en,Product XenTitle
+5224a9wc7624fc;2;produit-y;Produit Y;fr;Produit YfrTitle;Produit YfrDescription;Produit Y,fr,Produit YfrTitle
+5224a9wc7624fc;2;produit-y;Product Y;en;Product YenTitle;Product YenDescription;Product Y,en,Product YenTitle
+5e4a9337624fc;2;produit-4;Produit Doublon;fr;Produit DoublonfrTitle;Produit DoublonfrDescription;Produit Doublon,fr,Produit DoublonfrTitle
+5e4a9337624fc;2;produit-4;Product Double;en;Product DoubleenTitle;Product DoubleenDescription;Product Double,en,Product DoubleenTitle
+120643044;1;turkey-tenderloin-frozen-2;Turkey Tenderloin Frozen FR;fr;Turkey Tenderloin Frozen FRfrTitle;Turkey Tenderloin Frozen FRfrDescription;Turkey Tenderloin Frozen FR,fr,Turkey Tenderloin Frozen FRfrTitle
+120643044;1;turkey-tenderloin-frozen-2;Turkey Tenderloin Frozen EN;en;Turkey Tenderloin Frozen ENenTitle;Turkey Tenderloin Frozen ENenDescription;Turkey Tenderloin Frozen EN,en,Turkey Tenderloin Frozen ENenTitle
+2072547796;4;wine-white-french-cross-2;Wine - White, French Cross FR;fr;Wine - White, French Cross FRfrTitle;Wine - White, French Cross FRfrDescription;Wine - White, French Cross FR,fr,Wine - White, French Cross FRfrTitle
+2072547796;4;wine-white-french-cross-2;Wine EN;en;Wine ENenTitle;Wine ENenDescription;Wine EN,en,Wine ENenTitle
+3690816520;1;parsley-italian-fresh-2;Parsley Italian - Fresh;fr;Parsley Italian - FreshfrTitle;Parsley Italian - FreshfrDescription;Parsley Italian - Fresh,fr,Parsley Italian - FreshfrTitle
+3690816520;1;parsley-italian-fresh-2;EN;en;ENenTitle;ENenDescription;EN,en,ENenTitle
+7284031708;4;cod-fillets-2;Cod - Fillets;fr;Cod - FilletsfrTitle;Cod - FilletsfrDescription;Cod - Fillets,fr,Cod - FilletsfrTitle
+7284031708;4;cod-fillets-2;EN;en;ENenTitle;ENenDescription;EN,en,ENenTitle
+3013750364;1;muffins-assorted-2;Muffins - Assorted;fr;Muffins - AssortedfrTitle;Muffins - AssortedfrDescription;Muffins - Assorted,fr,Muffins - AssortedfrTitle
+3013750364;1;muffins-assorted-2;EN;en;ENenTitle;ENenDescription;EN,en,ENenTitle
+6487345540;4;tomatoes-heirloom-2;Tomatoes - Heirloom;fr;Tomatoes - HeirloomfrTitle;Tomatoes - HeirloomfrDescription;Tomatoes - Heirloom,fr,Tomatoes - HeirloomfrTitle
+6487345540;4;tomatoes-heirloom-2;EN;en;ENenTitle;ENenDescription;EN,en,ENenTitle
+8194272009;1;puff-pastry-sheets-2;Puff Pastry - Sheets;fr;Puff Pastry - SheetsfrTitle;Puff Pastry - SheetsfrDescription;Puff Pastry - Sheets,fr,Puff Pastry - SheetsfrTitle
+8194272009;1;puff-pastry-sheets-2;EN;en;ENenTitle;ENenDescription;EN,en,ENenTitle
+4307832530;4;dried-cherries-4;Dried Cherries;fr;Dried CherriesfrTitle;Dried CherriesfrDescription;Dried Cherries,fr,Dried CherriesfrTitle
+4307832530;4;dried-cherries-4;EN;en;ENenTitle;ENenDescription;EN,en,ENenTitle
+7125381410;1;shrimp-100-200-cold-water-2;Shrimp - 100 / 200 Cold Water;fr;Shrimp - 100 / 200 Cold WaterfrTitle;Shrimp - 100 / 200 Cold WaterfrDescription;Shrimp - 100 / 200 Cold Water,fr,Shrimp - 100 / 200 Cold WaterfrTitle
+7125381410;1;shrimp-100-200-cold-water-2;Shrimp EN;en;Shrimp ENenTitle;Shrimp ENenDescription;Shrimp EN,en,Shrimp ENenTitle
+6798464993;4;ocean-spray-kiwi-strawberry-2;Ocean Spray - Kiwi Strawberry;fr;Ocean Spray - Kiwi StrawberryfrTitle;Ocean Spray - Kiwi StrawberryfrDescription;Ocean Spray - Kiwi Strawberry,fr,Ocean Spray - Kiwi StrawberryfrTitle
+6798464993;4;ocean-spray-kiwi-strawberry-2;Ocean EN;en;Ocean ENenTitle;Ocean ENenDescription;Ocean EN,en,Ocean ENenTitle
+605b0e1356cf5;1;produit;Produit;fr;ProduitfrTitle;ProduitfrDescription;Produit,fr,ProduitfrTitle
+605b0e1356cf5;1;produit;Product EN;en;Product ENenTitle;Product ENenDescription;Product EN,en,Product ENenTitle
+1;3;vieux-produit-modified;Vieux produit MODIFIED;fr;Vieux produit MODIFIEDfrTitle;Vieux produit MODIFIEDfrDescription;Vieux produit MODIFIED,fr,Vieux produit MODIFIEDfrTitle
+1;3;vieux-produit-modified;Old product MODIFIED;en;Old product MODIFIEDenTitle;Old product MODIFIEDenDescription;Old product MODIFIED,en,Old product MODIFIEDenTitle
+2;3;old-product-keep-slug-2;Vieux produit garde slug;fr;Vieux produit garde slugfrTitle;Vieux produit garde slugfrDescription;Vieux produit garde slug,fr,Vieux produit garde slugfrTitle
+2;3;old-product-keep-slug-2;Old product keep slug;en;Old product keep slugenTitle;Old product keep slugenDescription;Old product keep slug,en,Old product keep slugenTitle
+4;3;double-slug;View produit change le slug;fr;View produit change le slugfrTitle;View produit change le slugfrDescription;View produit change le slug,fr,View produit change le slugfrTitle
+4;3;double-slug;Old product change slug;en;Old product change slugenTitle;Old product change slugenDescription;Old product change slug,en,Old product change slugenTitle
+6;3;english-product-2;Produit anglais;fr;Produit anglaisfrTitle;Produit anglaisfrDescription;Produit anglais,fr,Produit anglaisfrTitle
+6;3;english-product-2;English product;en;English productenTitle;English productenDescription;English product,en,English productenTitle
+7;3;0-1-2-3-4-5-6-7-8-9-ata-b-c-d-e-f-g-h-i-jklmn-o-pq-rstuvwxyzabcdefghijkl-m-no-pqr-stuvwxyz-2;"0/1+2!3""4&5#6$7%8:9;<=>? @A[B\C]D^E`_F*G.H'I-JKLMN)O,PQ(RSTUVWXYZabcdefghijkl{m}no|pqr~stuvwxyz";fr;"0/1+2!3""4&5#6$7%8:9;<=>? @A[B\C]D^E`_F*G.H'I-JKLMN)O,PQ(RSTUVWXYZabcdefghijkl{m}no|pqr~stuvwxyzfrTitle";"0/1+2!3""4&5#6$7%8:9;<=>? @A[B\C]D^E`_F*G.H'I-JKLMN)O,PQ(RSTUVWXYZabcdefghijkl{m}no|pqr~stuvwxyzfrDescription";"0/1+2!3""4&5#6$7%8:9;<=>? @A[B\C]D^E`_F*G.H'I-JKLMN)O,PQ(RSTUVWXYZabcdefghijkl{m}no|pqr~stuvwxyz,fr,0/1+2!3""4&5#6$7%8:9;<=>? @A[B\C]D^E`_F*G.H'I-JKLMN)O,PQ(RSTUVWXYZabcdefghijkl{m}no|pqr~stuvwxyzfrTitle"
+7;3;0-1-2-3-4-5-6-7-8-9-ata-b-c-d-e-f-g-h-i-jklmn-o-pq-rstuvwxyzabcdefghijkl-m-no-pqr-stuvwxyz-2;;en;enTitle;enDescription;,en,enTitle
+8;3;english-product-meta;Produit francais META;fr;Produit francais METAfrTitle;Produit francais METAfrDescription;Produit francais META,fr,Produit francais METAfrTitle
+8;3;english-product-meta;English Product META;en;English Product METAenTitle;English Product METAenDescription;English Product META,en,English Product METAenTitle
+5;3;double-slug;Nouveau produit avec même slug;fr;Nouveau produit avec même slugfrTitle;Nouveau produit avec même slugfrDescription;Nouveau produit avec même slug,fr,Nouveau produit avec même slugfrTitle
+5;3;double-slug;New product with same change slug;en;New product with same change slugenTitle;New product with same change slugenDescription;New product with same change slug,en,New product with same change slugenTitle
+605b13d1e3fbe;3;bonjour;Bonjour;fr;BonjourfrTitle;BonjourfrDescription;Bonjour,fr,BonjourfrTitle
+605b13d1e3fbe;3;bonjour;Hello;en;HelloenTitle;HelloenDescription;Hello,en,HelloenTitle
+5e4a9337624fd;2;nouveau-produit;Nouveau Produit;fr;Nouveau ProduitfrTitle;Nouveau ProduitfrDescription;Nouveau Produit,fr,Nouveau ProduitfrTitle
+5e4a9337624fd;2;nouveau-produit;New Product;en;New ProductenTitle;New ProductenDescription;New Product,en,New ProductenTitle
+5e4a9ewewew;2;product-lang-code-ABSENT;Produit code langue ABSENT;it;Produit code langue ABSENTitTitle;Produit code langue ABSENTitDescription;Produit code langue ABSENT,it,Produit code langue ABSENTitTitle
+53r3r37624fe;2;product-lang-code-empty-2;Produit code langue vide donc FR 2;;Produit code langue vide donc FR 2Title;Produit code langue vide donc FR 2Description;Produit code langue vide donc FR 2,,Produit code langue vide donc FR 2Title
+5e4a9e2;2;product-lang-code-INVALID;Produit code langue INVALID;toto;Produit code langue INVALIDtotoTitle;Produit code langue INVALIDtotoDescription;Produit code langue INVALID,toto,Produit code langue INVALIDtotoTitle
