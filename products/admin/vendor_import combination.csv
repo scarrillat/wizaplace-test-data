@@ -1,0 +1,3 @@
+﻿Product code;Product name;Quantity;Price;Language;Category;Taxes;Status;Image URL;Combination
+523456;Produit simple 1;100000;3;fr;Category 5;TVA 20%;A;http://dummyimage.com/792x481.jpg/5fa2dd/ffffff;option test: option 1
+533456;Produit simple 3;100000;10;fr;Category 5;TVA 20%;A;http://dummyimage.com/792x481.jpg/5fa2dd/ffffff;option test: option 1

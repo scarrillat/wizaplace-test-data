@@ -1,0 +1,6 @@
+﻿Product code;Product name;Quantity;Price;Language;Category;Taxes;Status;Image URL;Company id;Combination
+223456;Produit simple 1;100000;359;fr;Category 5;TVA 20%;A;http://dummyimage.com/792x481.jpg/5fa2dd/ffffff;1;option test:option 1
+223456;Produit simple 2;100000;340;fr;Category 8;TVA 20%;A;http://dummyimage.com/521x499.bmp/cc0000/ffffff;2;option test:option 2
+223456;Produit simple 3;100000;314;fr;Category 7;TVA 20%;A;http://dummyimage.com/531x738.bmp/ff4444/ffffff;3;option test:option 3
+223456;Produit simple 4;100000;384;fr;Category 9;TVA 20%;A;http://dummyimage.com/698x467.bmp/dddddd/000000;4;option test:option 4
+223456;Produit simple 5;100000;4;fr;Category 2;TVA 20%;A;http://dummyimage.com/732x541.bmp/ff4444/ffffff;5;option test:option 5
