@@ -1,0 +1,28 @@
+Language;"Product code";"Company id";Free;Id;Name;Value
+fr;61766b6edae0b;2;;1;"Attribut Case unique";Y
+fr;61766b6edae0b;2;;3;"Attribut Marque";Dior
+fr;61766c2c30b84;1;;1;"Attribut Case unique";N
+fr;61766c2c30b84;1;;2;"Attribut Case à cocher multiple";"Coche 1;Coche 2"
+fr;6176a1c1af9e1;2;;1;"Attribut Case unique";N
+fr;6176a1c1af9e1;2;;10;"Attribut Date";2021-11-04
+fr;61780193c0de3;2;;1;"Attribut Case unique";N
+fr;61780193c0de3;2;;3;"Attribut Marque";Hermès
+fr;6183c221f041a;1;;1;"Attribut Case unique";N
+fr;6183c221f041a;1;;12;"Attribut NB";455.00
+fr;6183f213c1ab3;2;;1;"Attribut Case unique";N
+fr;6183f213c1ab3;2;;9;"Attribut SELECT NB";3
+fr;6183f24a0d20e;1;;1;"Attribut Case unique";N
+fr;6183f24a0d20e;1;;11;"Attribut SELECT Texte";Boum
+fr;6183f284e68a0;1;;1;"Attribut Case unique";N
+fr;6183f284e68a0;1;;7;"Attribut Texte";"Celui du 8"
+fr;61766b6edae0b;2;Y;;"Attribut libre 1";"one free"
+fr;61766c2c30b84;1;Y;;Matière;Coton
+fr;61766c2c30b84;1;Y;;Matière;Gomme
+fr;61766c2c30b84;1;Y;;"Attribut Libre 2";"Two free"
+fr;6176a1c1af9e1;2;Y;;"Attribut libre 3";"Three Free"
+fr;61780193c0de3;2;Y;;"Couleur cat";bleu
+fr;61780193c0de3;2;Y;;"Attribut libre 4";"Four Free"
+fr;6183c221f041a;1;Y;;"Matière FPU produit";1
+fr;6183f213c1ab3;2;Y;;"Attribut libre 6";"Six Free"
+fr;6183f24a0d20e;1;Y;;"Attribut libre 7";"Seven Free"
+fr;6183f284e68a0;1;Y;;"Attribut libre 8";"Eight Free"
